@@ -47,6 +47,7 @@ projects:
     pypi_id: django-grappelli
     labels: []
     category: admin-interface
+
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock
     pypi_id: django-optimistic-lock
@@ -62,11 +63,13 @@ projects:
     pypi_id: django-locking
     labels: []
     category: concurrent-data-access
+
   - name: django-fsm
     github_id: viewflow/django-fsm
     pypi_id: django-fsm
     labels: []
     category: finite-state-machine
+
   - name: django-rest-framework
     github_id: django-rest-framework
     pypi_id: django-rest-framework
@@ -77,6 +80,7 @@ projects:
     pypi_id: encode/django-rest-framework
     labels: []
     category: restful-api
+
   - name: graphene
     github_id: graphql-python/graphene
     pypi_id: graphene
@@ -97,3 +101,15 @@ projects:
     pypi_id: strawberry-graphql-django
     labels: []
     category: graphql-api
+
+  - name: wagtail
+    github_id: wagtail/wagtail
+    pypi_id: wagtail
+    labels: []
+    category: cms-framework
+
+  - name: saleor
+    github_id: saleor/saleor
+    pypi_id: saleor
+    labels: []
+    category: ecommerce-framework

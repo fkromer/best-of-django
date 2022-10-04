@@ -52,6 +52,11 @@ projects:
     pypi_id: django-jazzmin
     labels: []
     category: admin-interface
+  - name: django-admin-interface
+    github_id: fabiocaccamo/django-admin-interface
+    pypi_id: django-admin-interface
+    labels: []
+    category: admin-interface
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

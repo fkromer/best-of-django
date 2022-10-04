@@ -47,6 +47,11 @@ projects:
     pypi_id: django-grappelli
     labels: []
     category: admin-interface
+  - name: django-jazzmin
+    github_id: farridav/django-jazzmin
+    pypi_id: django-jazzmin
+    labels: []
+    category: admin-interface
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

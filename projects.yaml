@@ -69,6 +69,11 @@ projects:
     pypi_id: django-fsm
     labels: []
     category: finite-state-machine
+  - name: viewflow
+    github_id: viewflow/viewflow
+    pypi_id: viewflow
+    labels: []
+    category: finite-state-machine
 
   - name: django-rest-framework
     github_id: django-rest-framework

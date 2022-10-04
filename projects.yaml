@@ -86,13 +86,13 @@ projects:
     category: finite-state-machine
 
   - name: django-rest-framework
-    github_id: django-rest-framework
+    github_id: encode/django-rest-framework
     pypi_id: django-rest-framework
     labels: []
     category: restful-api
   - name: django-ninja
     github_id: vitalik/django-ninja
-    pypi_id: encode/django-rest-framework
+    pypi_id: django-ninja
     labels: []
     category: restful-api
 

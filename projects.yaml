@@ -66,6 +66,11 @@ projects:
     pypi_id: django-click
     labels: []
     category: management-commands
+  - name: django-dbbackup
+    github_id: jazzband/django-dbbackup
+    pypi_id: django-dbbackup
+    labels: []
+    category: management-commands
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

@@ -72,6 +72,12 @@ projects:
     labels: []
     category: management-commands
 
+  - name: django-extensions
+    github_id: django-extensions/django-extensions
+    pypi_id: django-extensions
+    labels: []
+    category: management-commands
+
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock
     pypi_id: django-optimistic-lock

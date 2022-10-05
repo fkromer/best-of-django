@@ -31,6 +31,8 @@ categories:
   - category: concurrent-data-access
     title: Concurrent Data Access
     subtitle: Packages to help providing issues w.r.t. concurrent data access.
+  - category: task-queues
+    title: Task Queues
   - category: finite-state-machine
     title: Finite State Machine
     subtitle: Packages to implement Finite State Machines (e.g. to implement workflows).
@@ -138,6 +140,32 @@ projects:
     pypi_id: django-locking
     labels: []
     category: concurrent-data-access
+
+  - name: celery
+    github_id: celery/celery
+    pypi_id: celery
+    labels: []
+    category: task-queues
+  - name: django-celery-beat
+    github_id: celery/django-celery-beat
+    pypi_id: django-celery-beat
+    labels: []
+    category: task-queues
+  - name: django-q
+    github_id: Koed00/django-q
+    pypi_id: django-q
+    labels: []
+    category: task-queues
+  - name: rq
+    github_id: rq/rq
+    pypi_id: rq
+    labels: []
+    category: task-queues
+  - name: django-rq
+    github_id: rq/django-rq
+    pypi_id: django-rq
+    labels: []
+    category: task-queues
 
   - name: django-fsm
     github_id: viewflow/django-fsm

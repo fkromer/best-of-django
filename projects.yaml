@@ -170,6 +170,16 @@ projects:
     pypi_id: wagtail
     labels: []
     category: cms-framework
+  - name: mezzanine
+    github_id: stephenmcd/mezzanine
+    pypi_id: mezzanine
+    labels: []
+    category: cms-framework
+  - name: django-cms
+    github_id: django-cms/django-cms
+    pypi_id: django-cms
+    labels: []
+    category: cms-framework
 
   - name: saleor
     github_id: saleor/saleor

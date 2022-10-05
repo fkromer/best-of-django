@@ -136,6 +136,11 @@ projects:
     pypi_id: django-guardian
     labels: []
     category: authorization
+  - name: django-organizations
+    github_id: bennylope/django-organizations
+    pypi_id: django-organizations
+    labels: []
+    category: authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

@@ -233,6 +233,11 @@ projects:
     pypi_id: pytest-django
     labels: []
     category: testing
+  - name: django-test-plus
+    github_id: revsys/django-test-plus
+    pypi_id: django-test-plus
+    labels: []
+    category: testing
   - name: django-test-migrations
     github_id: wemake-services/django-test-migrations
     pypi_id: django-test-migrations

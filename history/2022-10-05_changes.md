@@ -2,30 +2,14 @@
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/celery/celery">celery</a></b> (🥇41 ·  ⭐ 20K · ➕) - Distributed Task Queue (development branch). <code>❗Unlicensed</code>
-- <b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇38 ·  ⭐ 5.9K · ➕) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/django-cms/django-cms">django-cms</a></b> (🥉37 ·  ⭐ 8.9K · ➕) - The easy-to-use and developer-friendly enterprise CMS powered by Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/rq/rq">rq</a></b> (🥈37 ·  ⭐ 8.5K · ➕) - Simple job queues for Python. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/jazzband/django-debug-toolbar">django-debug-toolbar</a></b> (🥇36 ·  ⭐ 7.2K · ➕) - A configurable set of panels that display various debug information about the current request/response. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/django-oscar/django-oscar">django-oscar</a></b> (🥇35 ·  ⭐ 5.5K · ➕) - Domain-driven e-commerce for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇35 ·  ⭐ 2.6K · ➕) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥉30 ·  ⭐ 1.6K · ➕) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈30 ·  ⭐ 1.5K · ➕) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/jazzband/django-dbbackup">django-dbbackup</a></b> (🥉29 ·  ⭐ 640 · ➕) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥇28 ·  ⭐ 3.3K · ➕) - Per object permissions for Django. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/stephenmcd/mezzanine">mezzanine</a></b> (🥉27 ·  ⭐ 4.5K · ➕) - CMS framework for Django. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
-- <b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉26 ·  ⭐ 2.9K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/django-waffle/django-waffle">django-waffle</a></b> (🥇26 ·  ⭐ 940 · ➕) - A feature flipper for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/jazzband/django-configurations">django-configurations</a></b> (🥉26 ·  ⭐ 940 · ➕) - A helper for organizing Django project settings by relying on well established programming patterns. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/Koed00/django-q">django-q</a></b> (🥉25 ·  ⭐ 1.6K · 💤) - A multiprocessing distributed task queue for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/FactoryBoy/factory_boy">factory_boy</a></b> (🥇24 ·  ⭐ 2.9K · ➕) - A test fixtures replacement for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/shuup/shuup">shuup</a></b> (🥉24 ·  ⭐ 1.9K · 💤) - E-Commerce Platform. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/celery/django-celery-beat">django-celery-beat</a></b> (🥉24 ·  ⭐ 1.2K · ➕) - Celery Periodic Tasks backed by the Django ORM. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/pytest-dev/pytest-django">pytest-django</a></b> (🥈23 ·  ⭐ 1.1K · ➕) - A Django plugin for pytest. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/wemake-services/django-split-settings">django-split-settings</a></b> (🥉22 ·  ⭐ 920 · ➕) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/model-bakers/model_bakery">model_bakery</a></b> (🥉21 ·  ⭐ 590 · ➕) - Object factory for Django. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/wemake-services/django-test-migrations">django-test-migrations</a></b> (🥉21 ·  ⭐ 360 · ➕) - Test django schema and data migrations, including migrations order and best practices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/snok/django-guid">django-guid</a></b> (🥇21 ·  ⭐ 280 · ➕) - Inject an ID into every log message from a Django request. ASGI compatible, integrates with Sentry, and works with.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></b> (🥉19 ·  ⭐ 240 · ➕) - config and manage typed extra settings using just the django admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/GaretJax/django-click">django-click</a></b> (🥉19 ·  ⭐ 210 · ➕) - Write Django management command using the click CLI library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/pennersr/django-allauth">django-allauth</a></b> (🥇38 ·  ⭐ 7.5K · ➕) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/django-cas-ng/django-cas-ng">django-cas-ng</a></b> (🥉25 ·  ⭐ 340 · ➕) - Django CAS 1.0/2.0/3.0 client authentication library, support Django 2.0, 2.1, 2.2, 3.0 and Python 3.5+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jazzband/django-fsm-log">django-fsm-log</a></b> (🥉23 ·  ⭐ 190 · ➕) - Automatic logging for Django FSM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/bennylope/django-organizations">django-organizations</a></b> (🥉22 ·  ⭐ 1K · ➕) - Multi-user accounts for Django projects. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
+- <b><a href="https://github.com/flavors/django-graphql-jwt">django-graphql-jwt</a></b> (🥉22 ·  ⭐ 770 · 💤) - JSON Web Token (JWT) authentication for Graphene Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/PedroBern/django-graphql-auth">django-graphql-auth</a></b> (🥉20 ·  ⭐ 290 · ➕) - Django registration and authentication with GraphQL. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/gadventures/django-fsm-admin">django-fsm-admin</a></b> (🥉19 ·  ⭐ 180 · ➕) - Mixin and template tags to integrate django-fsm transitions into the django admin. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/revsys/django-test-plus">django-test-plus</a></b> (🥉17 ·  ⭐ 530 · ➕) - Useful additions to Djangos default TestCase. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/pennersr/django-trackstats">django-trackstats</a></b> (🥇15 ·  ⭐ 360 · ➕) - Keep track of your statistics. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ming-tung/django-fsm-freeze">django-fsm-freeze</a></b> (🥉10 ·  ⭐ 4 · ➕) - django-fsm data immutability support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 

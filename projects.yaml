@@ -23,6 +23,8 @@ categories:
   - category: configuration
     title: Configuration
     subtitle: Packages which help w.r.t. configration topics.
+  - category: feature-flipper
+    title: Feature Flipper
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
@@ -42,6 +44,8 @@ categories:
   - category: graphql-api
     title: GraphQL API
     subtitle: Packages to implement GraphQL API.
+  - category: testing
+    title: Testing
   - category: cms-framework
     title: CMS frameworks based on Django.
     subtitle: Content Management Systems which use Django under the hood.
@@ -110,6 +114,12 @@ projects:
   - name: django-extra-settings
     github_id: fabiocaccamo/django-extra-settings
     pypi_id: django-extra-settings
+    labels: []
+    category: configuration
+
+  - name: django-waffle
+    github_id: django-waffle/django-waffle
+    pypi_id: django-waffle
     labels: []
     category: configuration
 
@@ -209,6 +219,17 @@ projects:
     pypi_id: strawberry-graphql-django
     labels: []
     category: graphql-api
+
+  - name: pytest-django
+    github_id: pytest-dev/pytest-django
+    pypi_id: pytest-django
+    labels: []
+    category: testing
+  - name: django-test-migrations
+    github_id: wemake-services/django-test-migrations
+    pypi_id: django-test-migrations
+    labels: []
+    category: testing
 
   - name: wagtail
     github_id: wagtail/wagtail

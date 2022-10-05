@@ -215,6 +215,11 @@ projects:
     pypi_id: django-fsm-admin
     labels: []
     category: finite-state-machine
+  - name: django-fsm-freeze
+    github_id: ming-tung/django-fsm-freeze
+    pypi_id: django-fsm-freeze
+    labels: []
+    category: finite-state-machine
   - name: viewflow
     github_id: viewflow/viewflow
     pypi_id: viewflow

@@ -28,6 +28,8 @@ categories:
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
+  - category: authentication
+    title: Authentication
   - category: authorization
     title: Authorization
   - category: concurrent-data-access
@@ -133,6 +135,12 @@ projects:
     pypi_id: django-guid
     labels: []
     category: logging
+
+  - name: django-allauth
+    github_id: pennersr/django-allauth
+    pypi_id: django-allauth
+    labels: []
+    category: authentication
 
   - name: django-guardian
     github_id: django-guardian/django-guardian

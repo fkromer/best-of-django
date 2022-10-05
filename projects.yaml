@@ -23,8 +23,8 @@ categories:
   - category: configuration
     title: Configuration
     subtitle: Packages which help w.r.t. configration topics.
-  - category: feature-flipper
-    title: Feature Flipper
+  - category: debugging
+    title: Debugging
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
@@ -44,6 +44,8 @@ categories:
   - category: graphql-api
     title: GraphQL API
     subtitle: Packages to implement GraphQL API.
+  - category: feature-flipper
+    title: Feature Flipper
   - category: testing
     title: Testing
   - category: cms-framework
@@ -117,11 +119,11 @@ projects:
     labels: []
     category: configuration
 
-  - name: django-waffle
-    github_id: django-waffle/django-waffle
-    pypi_id: django-waffle
+  - name: django-debug-toolbar
+    github_id: jazzband/django-debug-toolbar
+    pypi_id: django-debug-toolbar
     labels: []
-    category: configuration
+    category: debugging
 
   - name: django-guid
     github_id: snok/django-guid
@@ -219,6 +221,12 @@ projects:
     pypi_id: strawberry-graphql-django
     labels: []
     category: graphql-api
+
+  - name: django-waffle
+    github_id: django-waffle/django-waffle
+    pypi_id: django-waffle
+    labels: []
+    category: feature-flipper
 
   - name: pytest-django
     github_id: pytest-dev/pytest-django

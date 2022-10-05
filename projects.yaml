@@ -243,6 +243,11 @@ projects:
     pypi_id: model_bakery
     labels: []
     category: testing
+  - name: factory_boy
+    github_id: FactoryBoy/factory_boy
+    pypi_id: factory_boy
+    labels: []
+    category: testing
 
   - name: wagtail
     github_id: wagtail/wagtail

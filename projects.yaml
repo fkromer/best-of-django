@@ -100,6 +100,11 @@ projects:
     pypi_id: django-configurations
     labels: []
     category: configuration
+  - name: django-extra-settings
+    github_id: fabiocaccamo/django-extra-settings
+    pypi_id: django-extra-settings
+    labels: []
+    category: configuration
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

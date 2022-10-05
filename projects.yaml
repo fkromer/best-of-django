@@ -230,6 +230,11 @@ projects:
     pypi_id: django-test-migrations
     labels: []
     category: testing
+  - name: model_bakery
+    github_id: model-bakers/model_bakery
+    pypi_id: model_bakery
+    labels: []
+    category: testing
 
   - name: wagtail
     github_id: wagtail/wagtail

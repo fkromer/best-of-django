@@ -205,6 +205,16 @@ projects:
     pypi_id: django-fsm
     labels: []
     category: finite-state-machine
+  - name: django-fsm-log
+    github_id: jazzband/django-fsm-log
+    pypi_id: django-fsm-log
+    labels: []
+    category: finite-state-machine
+  - name: django-fsm-admin
+    github_id: gadventures/django-fsm-admin
+    pypi_id: django-fsm-admin
+    labels: []
+    category: finite-state-machine
   - name: viewflow
     github_id: viewflow/viewflow
     pypi_id: viewflow

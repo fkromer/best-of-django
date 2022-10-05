@@ -257,6 +257,16 @@ projects:
     pypi_id: strawberry-graphql-django
     labels: []
     category: graphql-api
+  - name: django-graphql-jwt
+    github_id: flavors/django-graphql-jwt
+    pypi_id: django-graphql-jwt
+    labels: []
+    category: graphql-api
+  - name: django-graphql-auth
+    github_id: PedroBern/django-graphql-auth
+    pypi_id: django-graphql-auth
+    labels: []
+    category: graphql-api
 
   - name: django-waffle
     github_id: django-waffle/django-waffle

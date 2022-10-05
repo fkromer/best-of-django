@@ -84,7 +84,17 @@ projects:
     github_id: joke2k/django-environ
     pypi_id: django-environ
     labels: []
-    category: management-commands
+    category: configuration
+  - name: django-split-settings
+    github_id: wemake-services/django-split-settings
+    pypi_id: django-split-settings
+    labels: []
+    category: configuration
+  - name: django-constance
+    github_id: jazzband/django-constance
+    pypi_id: django-constance
+    labels: []
+    category: configuration
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

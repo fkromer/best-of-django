@@ -186,3 +186,18 @@ projects:
     pypi_id: saleor
     labels: []
     category: ecommerce-framework
+  - name: django-oscar
+    github_id: django-oscar/django-oscar
+    pypi_id: django-oscar
+    labels: []
+    category: ecommerce-framework
+  - name: django-shop
+    github_id: awesto/django-shop
+    pypi_id: django-shop
+    labels: []
+    category: ecommerce-framework
+  - name: shuup
+    github_id: shuup/shuup
+    pypi_id: shuup
+    labels: []
+    category: ecommerce-framework

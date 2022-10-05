@@ -46,6 +46,9 @@ categories:
     subtitle: Packages to implement GraphQL API.
   - category: feature-flipper
     title: Feature Flipper
+  - category: statistics
+    title: Statistics
+    subtitle: Packages which add application layer statistic functionality.
   - category: testing
     title: Testing
   - category: cms-framework
@@ -232,6 +235,12 @@ projects:
     pypi_id: django-waffle
     labels: []
     category: feature-flipper
+
+  - name: django-trackstats
+    github_id: pennersr/django-trackstats
+    pypi_id: django-trackstats
+    labels: []
+    category: statistics
 
   - name: pytest-django
     github_id: pytest-dev/pytest-django

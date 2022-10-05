@@ -17,6 +17,9 @@ categories:
   - category: admin-interface
     title: Admin Interface
     subtitle: Packages to replace or improve the default Django admin interface.
+  - category: management-commands
+    title: Management Commands
+    subtitle: Packages which add or help working with management commands.
   - category: concurrent-data-access
     title: Concurrent Data Access
     subtitle: Packages to help providing issues w.r.t. concurrent data access.
@@ -57,6 +60,12 @@ projects:
     pypi_id: django-admin-interface
     labels: []
     category: admin-interface
+
+  - name: django-click
+    github_id: GaretJax/django-click
+    pypi_id: django-click
+    labels: []
+    category: management-commands
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

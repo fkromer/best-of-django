@@ -23,6 +23,9 @@ categories:
   - category: configuration
     title: Configuration
     subtitle: Packages which help w.r.t. configration topics.
+  - category: logging
+    title: Logging
+    subtitle: Packages which improve logging and debugging.
   - category: concurrent-data-access
     title: Concurrent Data Access
     subtitle: Packages to help providing issues w.r.t. concurrent data access.
@@ -105,6 +108,12 @@ projects:
     pypi_id: django-extra-settings
     labels: []
     category: configuration
+
+  - name: django-guid
+    github_id: snok/django-guid
+    pypi_id: django-guid
+    labels: []
+    category: logging
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

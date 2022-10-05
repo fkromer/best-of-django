@@ -20,6 +20,9 @@ categories:
   - category: management-commands
     title: Management Commands
     subtitle: Packages which add or help working with management commands.
+  - category: configuration
+    title: Configuration
+    subtitle: Packages which help w.r.t. configration topics.
   - category: concurrent-data-access
     title: Concurrent Data Access
     subtitle: Packages to help providing issues w.r.t. concurrent data access.
@@ -71,10 +74,15 @@ projects:
     pypi_id: django-dbbackup
     labels: []
     category: management-commands
-
   - name: django-extensions
     github_id: django-extensions/django-extensions
     pypi_id: django-extensions
+    labels: []
+    category: management-commands
+
+  - name: django-environ
+    github_id: joke2k/django-environ
+    pypi_id: django-environ
     labels: []
     category: management-commands
 

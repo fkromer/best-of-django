@@ -54,10 +54,10 @@ categories:
   - category: testing
     title: Testing
   - category: cms-framework
-    title: CMS frameworks based on Django.
+    title: CMS frameworks based on Django
     subtitle: Content Management Systems which use Django under the hood.
   - category: ecommerce-framework
-    title: E-Commerce frameworks based on Django.
+    title: E-Commerce frameworks based on Django
     subtitle: E-Commerce frameworks which use Django under the hood.
 
 labels:

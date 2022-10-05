@@ -95,6 +95,11 @@ projects:
     pypi_id: django-constance
     labels: []
     category: configuration
+  - name: django-configurations
+    github_id: jazzband/django-configurations
+    pypi_id: django-configurations
+    labels: []
+    category: configuration
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

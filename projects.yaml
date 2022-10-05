@@ -141,6 +141,11 @@ projects:
     pypi_id: django-allauth
     labels: []
     category: authentication
+  - name: django-cas-ng
+    github_id: django-cas-ng/django-cas-ng
+    pypi_id: django-cas-ng
+    labels: []
+    category: authentication
 
   - name: django-guardian
     github_id: django-guardian/django-guardian

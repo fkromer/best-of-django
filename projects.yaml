@@ -26,6 +26,8 @@ categories:
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
+  - category: authorization
+    title: Authorization
   - category: concurrent-data-access
     title: Concurrent Data Access
     subtitle: Packages to help providing issues w.r.t. concurrent data access.
@@ -114,6 +116,12 @@ projects:
     pypi_id: django-guid
     labels: []
     category: logging
+
+  - name: django-guardian
+    github_id: django-guardian/django-guardian
+    pypi_id: django-guardian
+    labels: []
+    category: authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

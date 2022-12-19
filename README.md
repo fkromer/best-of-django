@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-58-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-60-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 58 awesome open-source projects with a total of 190K stars grouped into 18 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 60 awesome open-source projects with a total of 200K stars grouped into 18 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -31,7 +31,7 @@ This curated list contains 58 awesome open-source projects with a total of 190K 
 - [Concurrent Data Access](#concurrent-data-access) _3 projects_
 - [Task Queues](#task-queues) _5 projects_
 - [Finite State Machine](#finite-state-machine) _5 projects_
-- [RESTful API](#restful-api) _2 projects_
+- [RESTful API](#restful-api) _4 projects_
 - [GraphQL API](#graphql-api) _6 projects_
 - [Feature Flipper](#feature-flipper) _1 projects_
 - [Statistics](#statistics) _1 projects_
@@ -64,7 +64,7 @@ This curated list contains 58 awesome open-source projects with a total of 190K 
 
 _Packages to replace or improve the default Django admin interface._
 
-<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇31 ·  ⭐ 1.2K · 📈) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇31 ·  ⭐ 1.2K) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/farridav/django-jazzmin) (👨‍💻 61 · 🔀 180 · 📦 2.6K · 📋 210 - 35% open · ⏱️ 03.11.2022):
 
@@ -108,7 +108,7 @@ _Packages to replace or improve the default Django admin interface._
 
 _Packages which add or help working with management commands._
 
-<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇37 ·  ⭐ 6K · 📉) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇37 ·  ⭐ 6K) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 570 · 🔀 1.1K · 📦 120K · 📋 840 - 15% open · ⏱️ 09.09.2022):
 
@@ -120,7 +120,7 @@ _Packages which add or help working with management commands._
 	pip install django-extensions
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-dbbackup">django-dbbackup</a></b> (🥉29 ·  ⭐ 680 · 📉) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-dbbackup">django-dbbackup</a></b> (🥉29 ·  ⭐ 680) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-dbbackup) (👨‍💻 64 · 🔀 180 · 📦 1.2K · 📋 260 - 21% open · ⏱️ 12.12.2022):
 
@@ -188,7 +188,7 @@ _Packages which help w.r.t. configration topics._
 	pip install django-configurations
 	```
 </details>
-<details><summary><b><a href="https://github.com/wemake-services/django-split-settings">django-split-settings</a></b> (🥉24 ·  ⭐ 940 · 📈) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/wemake-services/django-split-settings">django-split-settings</a></b> (🥉24 ·  ⭐ 940) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/wemake-services/django-split-settings) (👨‍💻 20 · 🔀 58 · 📦 1.3K · 📋 42 - 9% open · ⏱️ 27.09.2022):
 
@@ -432,7 +432,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-fsm
 	```
 </details>
-<details><summary><b><a href="https://github.com/viewflow/viewflow">viewflow</a></b> (🥈23 ·  ⭐ 2.3K · 📉) - Reusable workflow library for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/viewflow/viewflow">viewflow</a></b> (🥈23 ·  ⭐ 2.3K) - Reusable workflow library for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/viewflow/viewflow) (👨‍💻 31 · 🔀 360 · 📦 240 · 📋 270 - 8% open · ⏱️ 02.12.2022):
 
@@ -492,6 +492,18 @@ _Packages to implement RESTful API._
 	pip install django-rest-framework
 	```
 </details>
+<details><summary><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> (🥈42 ·  ⭐ 12K · ➕) - Data parsing and validation using Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/pydantic/pydantic) (👨‍💻 330 · 🔀 1.1K · 📦 120K · 📋 2.1K - 25% open · ⏱️ 15.12.2022):
+
+	```
+	git clone https://github.com/pydantic/pydantic
+	```
+- [PyPi](https://pypi.org/project/pydantic) (📥 43M / month):
+	```
+	pip install pydantic
+	```
+</details>
 <details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥉32 ·  ⭐ 3.8K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 70 · 🔀 230 · 📦 900 · 📋 410 - 32% open · ⏱️ 19.12.2022):
@@ -502,6 +514,18 @@ _Packages to implement RESTful API._
 - [PyPi](https://pypi.org/project/django-ninja) (📥 60K / month):
 	```
 	pip install django-ninja
+	```
+</details>
+<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥉19 ·  ⭐ 310 · ➕) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 25 · 📦 39 · 📋 35 - 22% open · ⏱️ 25.08.2022):
+
+	```
+	git clone https://github.com/jordaneremieff/djantic
+	```
+- [PyPi](https://pypi.org/project/djantic) (📥 4.1K / month):
+	```
+	pip install djantic
 	```
 </details>
 <br>
@@ -590,7 +614,7 @@ _Packages to implement GraphQL API._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-waffle/django-waffle">django-waffle</a></b> (🥇25 ·  ⭐ 950 · 📉) - A feature flipper for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/django-waffle/django-waffle">django-waffle</a></b> (🥇25 ·  ⭐ 950) - A feature flipper for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/django-waffle/django-waffle) (👨‍💻 120 · 🔀 230 · 📋 200 - 17% open · ⏱️ 02.10.2022):
 
@@ -652,7 +676,7 @@ _Packages which add application layer statistic functionality._
 	pip install pytest-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/wemake-services/django-test-migrations">django-test-migrations</a></b> (🥇25 ·  ⭐ 380 · 📈) - Test django schema and data migrations, including migrations order and best practices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wemake-services/django-test-migrations">django-test-migrations</a></b> (🥇25 ·  ⭐ 380) - Test django schema and data migrations, including migrations order and best practices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wemake-services/django-test-migrations) (👨‍💻 17 · 🔀 24 · 📦 310 · 📋 54 - 14% open · ⏱️ 19.12.2022):
 
@@ -806,7 +830,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-fernet-fields
 	```
 </details>
-<details><summary><b><a href="https://github.com/georgemarshall/django-cryptography">django-cryptography</a></b> (🥈18 ·  ⭐ 300 · ➕) - Easily encrypt data in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/georgemarshall/django-cryptography">django-cryptography</a></b> (🥈18 ·  ⭐ 300) - Easily encrypt data in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/georgemarshall/django-cryptography) (👨‍💻 3 · 🔀 53 · 📋 65 - 52% open · ⏱️ 25.05.2022):
 
@@ -818,7 +842,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-cryptography
 	```
 </details>
-<details><summary><b><a href="https://github.com/luojilab/django-mirage-field">django-mirage-field</a></b> (🥈17 ·  ⭐ 85 · ➕) - Django model field encrypt/decrypt your data, keep secret in database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/luojilab/django-mirage-field">django-mirage-field</a></b> (🥈17 ·  ⭐ 85) - Django model field encrypt/decrypt your data, keep secret in database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/luojilab/django-mirage-field) (👨‍💻 9 · 🔀 13 · 📦 52 · ⏱️ 19.04.2022):
 

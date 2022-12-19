@@ -59,6 +59,8 @@ categories:
   - category: ecommerce-framework
     title: E-Commerce frameworks based on Django
     subtitle: E-Commerce frameworks which use Django under the hood.
+  - category: encrpyted-fields
+    title: Fields (encrypted)
 
 labels:
   # - label: "python"
@@ -342,3 +344,24 @@ projects:
     pypi_id: shuup
     labels: []
     category: ecommerce-framework
+
+  - name: django-cryptography
+    github_id: georgemarshall/django-cryptography
+    pypi_id: django-cryptography
+    labels: []
+    category: encrpyted-fields
+  - name: django-mirage-field
+    github_id: luojilab/django-mirage-field
+    pypi_id: django-mirage-field
+    labels: []
+    category: encrpyted-fields
+  - name: django-searchable-encrypted-fields
+    gitlab_id: guywillett/django-searchable-encrypted-fields
+    pypi_id: django-searchable-encrypted-fields
+    labels: []
+    category: encrpyted-fields
+  - name: django-encrypted-model-fields
+    gitlab_id: lansharkconsulting/django/django-encrypted-model-fields
+    pypi_id: django-encrypted-model-fields
+    labels: []
+    category: encrpyted-fields

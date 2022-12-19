@@ -238,6 +238,16 @@ projects:
     pypi_id: django-ninja
     labels: []
     category: restful-api
+  - name: djantic
+    github_id: jordaneremieff/djantic
+    pypi_id: djantic
+    labels: []
+    category: restful-api
+  - name: pydantic
+    github_id: pydantic/pydantic
+    pypi_id: pydantic
+    labels: []
+    category: restful-api
 
   - name: graphene
     github_id: graphql-python/graphene

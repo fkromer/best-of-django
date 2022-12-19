@@ -350,6 +350,11 @@ projects:
     pypi_id: django-cryptography
     labels: []
     category: encrpyted-fields
+  - name: django-cryptographic-fields
+    github_id: foundertherapy/django-cryptographic-fields
+    pypi_id: django-cryptographic-fields
+    labels: []
+    category: encrpyted-fields
   - name: django-fernet-fields
     github_id: orcasgit/django-fernet-fields
     pypi_id: django-fernet-fields

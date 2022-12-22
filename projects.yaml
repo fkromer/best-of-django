@@ -65,6 +65,8 @@ categories:
     title: Fields (phone numbers)
   - category: fields-addresses
     title: Fields (addresses)
+  - category: fields-versioning
+    title: Fields (versioning)
 
 labels:
   # - label: "python"
@@ -411,3 +413,14 @@ projects:
     pypi_id: django-address-model
     labels: []
     category: fields-addresses
+
+  - name: django-reversion
+    github_id: etianen/django-reversion
+    pypi_id: django-reversion
+    labels: []
+    category: fields-versioning
+  - name: django-simple-history
+    github_id: jazzband/django-simple-history
+    pypi_id: django-simple-history
+    labels: []
+    category: fields-versioning

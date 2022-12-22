@@ -61,6 +61,8 @@ categories:
     subtitle: E-Commerce frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
+  - category: fields-phonenumbers
+    title: Fields (phone numbers)
 
 labels:
   # - label: "python"
@@ -385,3 +387,14 @@ projects:
     pypi_id: django-encrypted-model-fields
     labels: []
     category: encrpyted-fields
+
+  - name: django-phonenumber-field
+    github_id: stefanfoulis/django-phonenumber-field
+    pypi_id: django-phonenumber-field
+    labels: []
+    category: fields-phone-numbers
+  - name: django-phone-field
+    github_id: VeryApt/django-phone-field
+    pypi_id: django-phone-field
+    labels: []
+    category: fields-phone-numbers

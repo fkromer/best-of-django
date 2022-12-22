@@ -63,6 +63,8 @@ categories:
     title: Fields (encrypted)
   - category: fields-phonenumbers
     title: Fields (phone numbers)
+  - category: fields-addresses
+    title: Fields (addresses)
 
 labels:
   # - label: "python"
@@ -398,3 +400,14 @@ projects:
     pypi_id: django-phone-field
     labels: []
     category: fields-phone-numbers
+
+  - name: django-address
+    github_id: furious-luke/django-address
+    pypi_id: django-address
+    labels: []
+    category: fields-addresses
+  - name: django-address-model
+    github_id: agusmakmun/django-address-model
+    pypi_id: django-address-model
+    labels: []
+    category: fields-addresses

@@ -424,3 +424,28 @@ projects:
     pypi_id: django-simple-history
     labels: []
     category: fields-versioning
+  - name: django-audit-log
+    github_id: vvangelovski/django-audit-log
+    pypi_id: django-audit-log
+    labels: []
+    category: fields-versioning
+  - name: django-auditlog
+    github_id: jazzband/django-auditlog
+    pypi_id: django-auditlog
+    labels: []
+    category: fields-versioning
+  - name: django-fieldsignals
+    github_id: craigds/django-fieldsignals
+    pypi_id: django-fieldsignals
+    labels: []
+    category: fields-versioning
+  - name: django-dirtyfields
+    github_id: romgar/django-dirtyfields
+    pypi_id: django-dirtyfields
+    labels: []
+    category: fields-versioning
+  - name: django-easy-audit
+    github_id: soynatan/django-easy-audit
+    pypi_id: django-easy-audit
+    labels: []
+    category: fields-versioning

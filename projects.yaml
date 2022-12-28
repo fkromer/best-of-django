@@ -467,3 +467,13 @@ projects:
     pypi_id: django-slack
     labels: []
     category: messaging
+  - name: django-channels-discord
+    github_id: AdvocatesInc/django-channels-discord
+    pypi_id: django-channels-discord
+    labels: []
+    category: messaging
+  - name: django-discord-integration
+    github_id: Ninjaclasher/django-discord-integration
+    pypi_id: django-discord-integration
+    labels: []
+    category: messaging

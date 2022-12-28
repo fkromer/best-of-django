@@ -67,6 +67,8 @@ categories:
     title: Fields (addresses)
   - category: fields-versioning
     title: Fields (versioning)
+  - category: messaging
+    title:  messaging
 
 labels:
   # - label: "python"
@@ -449,3 +451,14 @@ projects:
     pypi_id: django-easy-audit
     labels: []
     category: fields-versioning
+
+  - name: django-sendsms
+    github_id: stefanfoulis/django-sendsms
+    pypi_id: django-sendsms
+    labels: []
+    category: messaging
+  - name: django-sms
+    github_id: roaldnefs/django-sms
+    pypi_id: django-sms
+    labels: []
+    category: messaging

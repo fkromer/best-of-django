@@ -462,3 +462,8 @@ projects:
     pypi_id: django-sms
     labels: []
     category: messaging
+  - name: django-slack
+    github_id: lamby/django-slack
+    pypi_id: django-slack
+    labels: []
+    category: messaging

@@ -61,7 +61,7 @@ categories:
     subtitle: E-Commerce frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
-  - category: fields-phonenumbers
+  - category: fields-phone-numbers
     title: Fields (phone numbers)
   - category: fields-addresses
     title: Fields (addresses)

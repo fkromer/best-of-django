@@ -244,6 +244,16 @@ projects:
     pypi_id: django-rest-framework
     labels: []
     category: restful-api-drf
+  - name: djangorestframework-simplejwt
+    github_id: jazzband/djangorestframework-simplejwt
+    pypi_id: djangorestframework-simplejwt
+    labels: []
+    category: restful-api-drf
+  - name: django-rest-passwordreset
+    github_id: anexia-it/django-rest-passwordreset
+    pypi_id: django-rest-passwordreset
+    labels: []
+    category: restful-api-drf
 
   - name: django-ninja
     github_id: vitalik/django-ninja

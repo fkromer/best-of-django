@@ -40,9 +40,12 @@ categories:
   - category: finite-state-machine
     title: Finite State Machine
     subtitle: Packages to implement Finite State Machines (e.g. to implement workflows).
-  - category: restful-api
-    title: RESTful API
-    subtitle: Packages to implement RESTful API.
+  - category: restful-api-drf
+    title: RESTful API (Django Rest Framework)
+  - category: restful-api-ninja
+    title: RESTful API (Django Ninja)
+  - category: pydantic-integration
+    title: Pydantic integration
   - category: graphql-api
     title: GraphQL API
     subtitle: Packages to implement GraphQL API.
@@ -240,22 +243,49 @@ projects:
     github_id: encode/django-rest-framework
     pypi_id: django-rest-framework
     labels: []
-    category: restful-api
+    category: restful-api-drf
+
   - name: django-ninja
     github_id: vitalik/django-ninja
     pypi_id: django-ninja
     labels: []
-    category: restful-api
+    category: restful-api-ninja
+  - name: django-ninja-extra
+    github_id: eadwinCode/django-ninja-extra
+    pypi_id: django-ninja-extra
+    labels: []
+    category: restful-api-ninja
+  - name: django-ninja-jwt
+    github_id: eadwinCode/django-ninja-jwt
+    pypi_id: django-ninja-jwt
+    labels: []
+    category: restful-api-ninja
+  - name: django-ninja-apikey
+    github_id: mawassk/django-ninja-apikey
+    pypi_id: django-ninja-apikey
+    labels: []
+    category: restful-api-ninja
+  - name: django-ninja-passwordreset
+    github_id: eadwinCode/django-ninja-passwordreset
+    pypi_id: django-ninja-passwordreset
+    labels: []
+    category: restful-api-ninja
+  - name: django-ninja-auth
+    github_id: mugartec/django-ninja-auth
+    pypi_id: django-ninja-auth
+    labels: []
+    category: restful-api-ninja
+
   - name: djantic
     github_id: jordaneremieff/djantic
     pypi_id: djantic
     labels: []
-    category: restful-api
+    category: pydantic-integration
   - name: pydantic
     github_id: pydantic/pydantic
     pypi_id: pydantic
     labels: []
-    category: restful-api
+    category: pydantic-integration
 
   - name: graphene
     github_id: graphql-python/graphene

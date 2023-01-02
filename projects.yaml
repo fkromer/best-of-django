@@ -71,7 +71,7 @@ categories:
   - category: fields-versioning
     title: Fields (versioning)
   - category: messaging
-    title:  messaging
+    title: Messaging
 
 labels:
   # - label: "python"

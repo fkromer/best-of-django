@@ -70,19 +70,7 @@ This curated list contains 83 awesome open-source projects with a total of 210K 
 
 _Packages to replace or improve the default Django admin interface._
 
-<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥇30 ·  ⭐ 1.3K) - djangos default admin interface with superpowers - customizable themes, popup windows replaced by modals and many.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 31 · 🔀 140 · 📦 2.3K · 📋 150 - 7% open · ⏱️ 29.12.2022):
-
-	```
-	git clone https://github.com/fabiocaccamo/django-admin-interface
-	```
-- [PyPi](https://pypi.org/project/django-admin-interface) (📥 50K / month):
-	```
-	pip install django-admin-interface
-	```
-</details>
-<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇30 ·  ⭐ 1.2K · 📉) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/farridav/django-jazzmin">django-jazzmin</a></b> (🥇30 ·  ⭐ 1.2K) - Jazzy theme for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/farridav/django-jazzmin) (👨‍💻 61 · 🔀 190 · 📦 2.7K · 📋 210 - 35% open · ⏱️ 03.11.2022):
 
@@ -106,6 +94,18 @@ _Packages to replace or improve the default Django admin interface._
 	pip install django-grappelli
 	```
 </details>
+<details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥉25 ·  ⭐ 1.3K · 📉) - djangos default admin interface with superpowers - customizable themes, popup windows replaced by modals and many.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 31 · 🔀 140 · 📋 150 - 7% open · ⏱️ 31.12.2022):
+
+	```
+	git clone https://github.com/fabiocaccamo/django-admin-interface
+	```
+- [PyPi](https://pypi.org/project/django-admin-interface) (📥 50K / month):
+	```
+	pip install django-admin-interface
+	```
+</details>
 <br>
 
 ## Management Commands
@@ -126,7 +126,7 @@ _Packages which add or help working with management commands._
 	pip install django-extensions
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-dbbackup">django-dbbackup</a></b> (🥉29 ·  ⭐ 680 · 📉) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-dbbackup">django-dbbackup</a></b> (🥉29 ·  ⭐ 680) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-dbbackup) (👨‍💻 64 · 🔀 180 · 📦 1.2K · 📋 260 - 21% open · ⏱️ 12.12.2022):
 
@@ -206,9 +206,9 @@ _Packages which help w.r.t. configration topics._
 	pip install django-split-settings
 	```
 </details>
-<details><summary><b><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></b> (🥉20 ·  ⭐ 280) - config and manage typed extra settings using just the django admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></b> (🥉18 ·  ⭐ 280 · 📉) - config and manage typed extra settings using just the django admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fabiocaccamo/django-extra-settings) (👨‍💻 9 · 🔀 16 · 📦 34 · 📋 21 - 9% open · ⏱️ 29.12.2022):
+- [GitHub](https://github.com/fabiocaccamo/django-extra-settings) (👨‍💻 9 · 🔀 16 · 📋 21 - 9% open · ⏱️ 31.12.2022):
 
 	```
 	git clone https://github.com/fabiocaccamo/django-extra-settings
@@ -292,7 +292,7 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥇28 ·  ⭐ 3.3K) - Per object permissions for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥇27 ·  ⭐ 3.3K · 📉) - Per object permissions for Django. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/django-guardian/django-guardian) (👨‍💻 160 · 🔀 530 · 📦 5.2K · 📋 440 - 27% open · ⏱️ 25.03.2022):
 
@@ -370,7 +370,7 @@ _Packages to help providing issues w.r.t. concurrent data access._
 	pip install celery
 	```
 </details>
-<details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥈37 ·  ⭐ 8.7K · 📈) - Simple job queues for Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥈37 ·  ⭐ 8.7K) - Simple job queues for Python. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/rq/rq) (👨‍💻 280 · 🔀 1.3K · 📦 12K · 📋 990 - 19% open · ⏱️ 28.12.2022):
 
@@ -426,7 +426,7 @@ _Packages to help providing issues w.r.t. concurrent data access._
 
 _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
-<details><summary><b><a href="https://github.com/viewflow/django-fsm">django-fsm</a></b> (🥇29 ·  ⭐ 2.1K) - Django friendly finite state machine support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/viewflow/django-fsm">django-fsm</a></b> (🥇28 ·  ⭐ 2.1K · 📉) - Django friendly finite state machine support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/viewflow/django-fsm) (👨‍💻 64 · 🔀 250 · 📦 1.2K · 📋 150 - 11% open · ⏱️ 15.08.2022):
 
@@ -462,7 +462,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-fsm-log
 	```
 </details>
-<details><summary><b><a href="https://github.com/gadventures/django-fsm-admin">django-fsm-admin</a></b> (🥉18 ·  ⭐ 190) - Mixin and template tags to integrate django-fsm transitions into the django admin. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/gadventures/django-fsm-admin">django-fsm-admin</a></b> (🥉17 ·  ⭐ 190 · 📉) - Mixin and template tags to integrate django-fsm transitions into the django admin. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/gadventures/django-fsm-admin) (👨‍💻 32 · 🔀 76 · 📦 280 · 📋 37 - 45% open · ⏱️ 25.10.2022):
 
@@ -496,7 +496,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-rest-framework
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">djangorestframework-simplejwt</a></b> (🥉27 ·  ⭐ 3.3K · ➕) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">djangorestframework-simplejwt</a></b> (🥉27 ·  ⭐ 3.3K) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/djangorestframework-simplejwt) (👨‍💻 92 · 🔀 520 · 📋 380 - 22% open · ⏱️ 20.12.2022):
 
@@ -508,9 +508,9 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install djangorestframework-simplejwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/anexia-it/django-rest-passwordreset">django-rest-passwordreset</a></b> (🥉27 ·  ⭐ 360 · ➕) - An extension of django rest framework, providing a configurable password reset strategy. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/anexia-it/django-rest-passwordreset">django-rest-passwordreset</a></b> (🥉27 ·  ⭐ 360) - An extension of django rest framework, providing a configurable password reset strategy. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/anexia-it/django-rest-passwordreset) (👨‍💻 33 · 🔀 120 · 📦 2K · 📋 95 - 24% open · ⏱️ 02.11.2022):
+- [GitHub](https://github.com/anexia-it/django-rest-passwordreset) (👨‍💻 33 · 🔀 120 · 📦 2.1K · 📋 95 - 24% open · ⏱️ 02.11.2022):
 
 	```
 	git clone https://github.com/anexia-it/django-rest-passwordreset
@@ -526,7 +526,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇31 ·  ⭐ 3.8K · 📉) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇31 ·  ⭐ 3.8K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 70 · 🔀 240 · 📦 930 · 📋 420 - 32% open · ⏱️ 29.12.2022):
 
@@ -538,7 +538,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-ninja
 	```
 </details>
-<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-extra">django-ninja-extra</a></b> (🥈17 ·  ⭐ 99 · ➕) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-extra">django-ninja-extra</a></b> (🥈17 ·  ⭐ 99) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/eadwinCode/django-ninja-extra) (👨‍💻 7 · 🔀 8 · 📋 11 - 9% open · ⏱️ 22.12.2022):
 
@@ -550,7 +550,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-ninja-extra
 	```
 </details>
-<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-jwt">django-ninja-jwt</a></b> (🥈17 ·  ⭐ 33 · ➕) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-jwt">django-ninja-jwt</a></b> (🥈17 ·  ⭐ 33) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/eadwinCode/django-ninja-jwt) (👨‍💻 77 · 🔀 5 · ⏱️ 30.11.2022):
 
@@ -585,7 +585,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> (🥇44 ·  ⭐ 12K · 📈) - Data parsing and validation using Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> (🥇44 ·  ⭐ 12K) - Data parsing and validation using Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pydantic/pydantic) (👨‍💻 340 · 🔀 1.1K · 📦 120K · 📋 2.1K - 25% open · ⏱️ 30.12.2022):
 
@@ -857,7 +857,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-oscar
 	```
 </details>
-<details><summary><b><a href="https://github.com/saleor/saleor">saleor</a></b> (🥈30 ·  ⭐ 18K · 📉) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/saleor/saleor">saleor</a></b> (🥈30 ·  ⭐ 18K) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/saleor/saleor) (👨‍💻 260 · 🔀 4.7K · 📦 2 · 📋 3.4K - 9% open · ⏱️ 30.12.2022):
 
@@ -1082,7 +1082,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-audit-log
 	```
 </details>
-<details><summary><b><a href="https://github.com/craigds/django-fieldsignals">django-fieldsignals</a></b> (🥉15 ·  ⭐ 100) - Django signals for changed fields. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/craigds/django-fieldsignals">django-fieldsignals</a></b> (🥉14 ·  ⭐ 100) - Django signals for changed fields. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/craigds/django-fieldsignals) (👨‍💻 5 · 🔀 11 · 📦 130 · 📋 17 - 17% open · ⏱️ 08.10.2022):
 
@@ -1112,7 +1112,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-slack
 	```
 </details>
-<details><summary><b><a href="https://github.com/stefanfoulis/django-sendsms">django-sendsms</a></b> (🥈17 ·  ⭐ 240) - A simple API to send SMS messages. It is modeled after the django email api. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stefanfoulis/django-sendsms">django-sendsms</a></b> (🥈17 ·  ⭐ 240 · 💤) - A simple API to send SMS messages. It is modeled after the django email api. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stefanfoulis/django-sendsms) (👨‍💻 19 · 🔀 94 · 📦 310 · 📋 24 - 20% open · ⏱️ 27.12.2021):
 

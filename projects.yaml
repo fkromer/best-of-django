@@ -72,6 +72,8 @@ categories:
     title: Fields (versioning)
   - category: messaging
     title: Messaging
+  - category: storage
+    title: Storage
 
 labels:
   # - label: "python"
@@ -517,3 +519,9 @@ projects:
     pypi_id: django-discord-integration
     labels: []
     category: messaging
+
+  - name: django-storages
+    github_id: jschneier/django-storages
+    pypi_id: django-storages
+    labels: []
+    category: storage

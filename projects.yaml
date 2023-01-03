@@ -538,3 +538,18 @@ projects:
     pypi_id: eventsourcing-django
     labels: []
     category: event-sourcing
+  - name: eventsourcing-dynamodb
+    github_id: pyeventsourcing/eventsourcing-dynamodb
+    pypi_id: eventsourcing-dynamodb
+    labels: []
+    category: event-sourcing
+  - name: eventsourcing-eventstoredb
+    github_id: pyeventsourcing/eventsourcing-eventstoredb
+    pypi_id: eventsourcing-eventstoredb
+    labels: []
+    category: event-sourcing
+  - name: eventsourcing-axonserver
+    github_id: pyeventsourcing/eventsourcing-axonserver
+    pypi_id: eventsourcing-axonserver
+    labels: []
+    category: event-sourcing

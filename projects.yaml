@@ -74,6 +74,8 @@ categories:
     title: Messaging
   - category: storage
     title: Storage
+  - category: event-sourcing
+    title: Event Sourcing
 
 labels:
   # - label: "python"
@@ -525,3 +527,14 @@ projects:
     pypi_id: django-storages
     labels: []
     category: storage
+
+  - name: eventsourcing
+    github_id: pyeventsourcing/eventsourcing
+    pypi_id: eventsourcing
+    labels: []
+    category: event-sourcing
+  - name: eventsourcing-django
+    github_id: pyeventsourcing/eventsourcing-django
+    pypi_id: eventsourcing-django
+    labels: []
+    category: event-sourcing

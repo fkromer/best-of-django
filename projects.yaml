@@ -76,6 +76,8 @@ categories:
     title: Storage
   - category: event-sourcing
     title: Event Sourcing
+  - category: locking
+    title: Locking
 
 labels:
   # - label: "python"
@@ -406,6 +408,22 @@ projects:
     pypi_id: shuup
     labels: []
     category: ecommerce-framework
+
+  - name: django-concurrency
+    github_id: saxix/django-concurrency
+    pypi_id: django-concurrency
+    labels: []
+    category: locking
+  - name: django-optimistic-lock
+    github_id: gavinwahl/django-optimistic-lock
+    pypi_id: django-optimistic-lock
+    labels: []
+    category: locking
+  - name: django-locking
+    github_id: RobCombs/django-locking
+    pypi_id: django-locking
+    labels: []
+    category: locking
 
   - name: django-cryptography
     github_id: georgemarshall/django-cryptography

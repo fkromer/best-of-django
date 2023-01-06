@@ -181,17 +181,17 @@ projects:
     github_id: gavinwahl/django-optimistic-lock
     pypi_id: django-optimistic-lock
     labels: []
-    category: concurrent-data-access
+    category: locking
   - name: django-concurrency
     github_id: saxix/django-concurrency
     pypi_id: django-concurrency
     labels: []
-    category: concurrent-data-access
+    category: locking
   - name: django-locking
     github_id: debrouwere/django-locking
     pypi_id: django-locking
     labels: []
-    category: concurrent-data-access
+    category: locking
 
   - name: celery
     github_id: celery/celery

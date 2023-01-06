@@ -32,9 +32,6 @@ categories:
     title: Authentication
   - category: authorization
     title: Authorization
-  - category: concurrent-data-access
-    title: Concurrent Data Access
-    subtitle: Packages to help providing issues w.r.t. concurrent data access.
   - category: task-queues
     title: Task Queues
   - category: finite-state-machine

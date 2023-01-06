@@ -97,6 +97,26 @@ projects:
     pypi_id: django-admin-interface
     labels: []
     category: admin-interface
+  - name: django-material
+    github_id: viewflow/django-material
+    pypi_id: django-material
+    labels: []
+    category: admin-interface
+  - name: django-jet
+    github_id: geex-arts/django-jet
+    pypi_id: django-jet
+    labels: []
+    category: admin-interface
+  - name: django-admin-tools
+    github_id: django-admin-tools/django-admin-tools
+    pypi_id: django-admin-tools
+    labels: []
+    category: admin-interface
+  - name: django-controlcenter
+    github_id: byashimov/django-controlcenter
+    pypi_id: django-controlcenter
+    labels: []
+    category: admin-interface
 
   - name: django-click
     github_id: GaretJax/django-click

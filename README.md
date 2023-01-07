@@ -10,25 +10,24 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-89-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-93-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 89 awesome open-source projects with a total of 210K stars grouped into 27 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 93 awesome open-source projects with a total of 220K stars grouped into 26 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Admin Interface](#admin-interface) _3 projects_
+- [Admin Interface](#admin-interface) _7 projects_
 - [Management Commands](#management-commands) _3 projects_
 - [Configuration](#configuration) _5 projects_
 - [Debugging](#debugging) _1 projects_
 - [Logging](#logging) _1 projects_
 - [Authentication](#authentication) _2 projects_
 - [Authorization](#authorization) _2 projects_
-- [Concurrent Data Access](#concurrent-data-access) _0 projects_
 - [Task Queues](#task-queues) _5 projects_
 - [Finite State Machine](#finite-state-machine) _5 projects_
 - [RESTful API (Django Rest Framework)](#restful-api-django-rest-framework) _3 projects_
@@ -85,7 +84,19 @@ _Packages to replace or improve the default Django admin interface._
 	pip install django-jazzmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥉28 ·  ⭐ 3.4K) - A jazzy skin for the Django Admin-Interface (official repository). <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/viewflow/django-material">django-material</a></b> (🥈29 ·  ⭐ 2.5K · ➕) - Material Design for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/viewflow/django-material) (👨‍💻 41 · 🔀 410 · 📦 1.7K · 📋 410 - 4% open · ⏱️ 16.08.2022):
+
+	```
+	git clone https://github.com/viewflow/django-material
+	```
+- [PyPi](https://pypi.org/project/django-material) (📥 8.7K / month):
+	```
+	pip install django-material
+	```
+</details>
+<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥈28 ·  ⭐ 3.4K) - A jazzy skin for the Django Admin-Interface (official repository). <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 82 · 🔀 640 · 📦 5.2K · 📋 690 - 0% open · ⏱️ 22.11.2022):
 
@@ -95,6 +106,18 @@ _Packages to replace or improve the default Django admin interface._
 - [PyPi](https://pypi.org/project/django-grappelli) (📥 120K / month):
 	```
 	pip install django-grappelli
+	```
+</details>
+<details><summary><b><a href="https://github.com/geex-arts/django-jet">django-jet</a></b> (🥉27 ·  ⭐ 3.4K · 💤) - Modern responsive template for the Django admin interface with improved functionality. We are proud to announce.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/geex-arts/django-jet) (👨‍💻 29 · 🔀 660 · 📦 2.8K · 📋 340 - 63% open · ⏱️ 21.05.2019):
+
+	```
+	git clone https://github.com/geex-arts/django-jet
+	```
+- [PyPi](https://pypi.org/project/django-jet) (📥 14K / month):
+	```
+	pip install django-jet
 	```
 </details>
 <details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥉25 ·  ⭐ 1.3K) - djangos default admin interface with superpowers - customizable themes, popup windows replaced by modals and many.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -107,6 +130,30 @@ _Packages to replace or improve the default Django admin interface._
 - [PyPi](https://pypi.org/project/django-admin-interface) (📥 48K / month):
 	```
 	pip install django-admin-interface
+	```
+</details>
+<details><summary><b><a href="https://github.com/django-admin-tools/django-admin-tools">django-admin-tools</a></b> (🥉23 ·  ⭐ 730 · 💤) - Extends the Django Admin to include a extensible dashboard and navigation menu. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/django-admin-tools/django-admin-tools) (👨‍💻 81 · 🔀 110 · 📦 1.2K · 📋 77 - 23% open · ⏱️ 12.12.2021):
+
+	```
+	git clone https://github.com/django-admin-tools/django-admin-tools
+	```
+- [PyPi](https://pypi.org/project/django-admin-tools) (📥 47K / month):
+	```
+	pip install django-admin-tools
+	```
+</details>
+<details><summary><b><a href="https://github.com/byashimov/django-controlcenter">django-controlcenter</a></b> (🥉19 ·  ⭐ 940 · ➕) - Set of widgets to build dashboards for Django projects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/byashimov/django-controlcenter) (👨‍💻 17 · 🔀 84 · 📦 80 · 📋 31 - 32% open · ⏱️ 22.01.2022):
+
+	```
+	git clone https://github.com/byashimov/django-controlcenter
+	```
+- [PyPi](https://pypi.org/project/django-controlcenter) (📥 2.5K / month):
+	```
+	pip install django-controlcenter
 	```
 </details>
 <br>
@@ -163,7 +210,7 @@ _Packages which help w.r.t. configration topics._
 
 <details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇34 ·  ⭐ 2.7K) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 76 · 🔀 280 · 📥 7 · 📦 110K · 📋 210 - 27% open · ⏱️ 15.06.2022):
+- [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 76 · 🔀 280 · 📥 7 · 📦 120K · 📋 210 - 27% open · ⏱️ 15.06.2022):
 
 	```
 	git clone https://github.com/joke2k/django-environ
@@ -185,7 +232,7 @@ _Packages which help w.r.t. configration topics._
 	pip install django-constance
 	```
 </details>
-<details><summary><b><a href="https://github.com/wemake-services/django-split-settings">django-split-settings</a></b> (🥉26 ·  ⭐ 940 · 📈) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/wemake-services/django-split-settings">django-split-settings</a></b> (🥉26 ·  ⭐ 940) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/wemake-services/django-split-settings) (👨‍💻 21 · 🔀 59 · 📦 1.3K · 📋 42 - 9% open · ⏱️ 05.01.2023):
 
@@ -319,14 +366,6 @@ _Packages which improve logging and debugging._
 	pip install django-organizations
 	```
 </details>
-<br>
-
-## Concurrent Data Access
-
-<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
-
-_Packages to help providing issues w.r.t. concurrent data access._
-
 <br>
 
 ## Task Queues
@@ -1057,7 +1096,7 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install django-audit-log
 	```
 </details>
-<details><summary><b><a href="https://github.com/craigds/django-fieldsignals">django-fieldsignals</a></b> (🥉15 ·  ⭐ 100 · 📈) - Django signals for changed fields. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/craigds/django-fieldsignals">django-fieldsignals</a></b> (🥉15 ·  ⭐ 100) - Django signals for changed fields. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/craigds/django-fieldsignals) (👨‍💻 5 · 🔀 11 · 📦 140 · 📋 17 - 17% open · ⏱️ 08.10.2022):
 

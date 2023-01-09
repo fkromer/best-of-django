@@ -494,6 +494,11 @@ projects:
     pypi_id: django-address-model
     labels: []
     category: fields-addresses
+  - name: django-google-maps
+    github_id: madisona/django-google-maps
+    pypi_id: django-google-maps
+    labels: []
+    category: fields-addresses
 
   - name: django-reversion
     github_id: etianen/django-reversion

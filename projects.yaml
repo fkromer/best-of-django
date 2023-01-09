@@ -499,6 +499,11 @@ projects:
     pypi_id: django-google-maps
     labels: []
     category: fields-addresses
+  - name: django-mapbox-location-field
+    github_id: Simon-the-Shark/django-mapbox-location-field
+    pypi_id: django-mapbox-location-field
+    labels: []
+    category: fields-addresses
 
   - name: django-reversion
     github_id: etianen/django-reversion

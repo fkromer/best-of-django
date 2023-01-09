@@ -504,6 +504,11 @@ projects:
     pypi_id: django-mapbox-location-field
     labels: []
     category: fields-addresses
+  - name: django-loci
+    github_id: openwisp/django-loci
+    pypi_id: django-loci
+    labels: []
+    category: fields-addresses
 
   - name: django-reversion
     github_id: etianen/django-reversion

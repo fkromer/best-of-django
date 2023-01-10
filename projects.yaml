@@ -17,8 +17,10 @@ categories:
   - category: admin-interface
     title: Admin Interface
     subtitle: Packages to replace or improve the default Django admin interface.
-  - category: Admin Interface Filters
-    title: admin-interface-filters
+  - category: admin-interface-actions
+    title: Admin Interface Actions
+  - category: admin-interface-filters
+    title: Admin Interface Filters
   - category: management-commands
     title: Management Commands
     subtitle: Packages which add or help working with management commands.
@@ -79,8 +81,6 @@ categories:
     title: Locking
   - category: configuration
     title: Configuration
-  - category: import_export
-    title: Import/Export
 
 labels:
   # - label: "python"
@@ -123,6 +123,12 @@ projects:
     pypi_id: django-controlcenter
     labels: []
     category: admin-interface
+
+  - name: django-import-export
+    github_id: django-import-export/django-import-export
+    pypi_id: django-import-export
+    labels: []
+    category: admin-interface-actions
 
   - name: django-admin-numeric-filter
     github_id: lukasvinclav/django-admin-numeric-filter
@@ -621,9 +627,3 @@ projects:
     pypi_id: django-split-settings
     labels: []
     category: configuration
-
-  - name: django-import-export
-    github_id: django-import-export/django-import-export
-    pypi_id: django-import-export
-    labels: []
-    category: import_export

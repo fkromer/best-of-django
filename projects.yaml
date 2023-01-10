@@ -79,6 +79,8 @@ categories:
     title: Locking
   - category: configuration
     title: Configuration
+  - category: import_export
+    title: Import/Export
 
 labels:
   # - label: "python"
@@ -619,3 +621,9 @@ projects:
     pypi_id: django-split-settings
     labels: []
     category: configuration
+
+  - name: django-import-export
+    github_id: django-import-export/django-import-export
+    pypi_id: django-import-export
+    labels: []
+    category: import_export

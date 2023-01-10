@@ -75,6 +75,8 @@ categories:
     title: Event Sourcing
   - category: locking
     title: Locking
+  - category: configuration
+    title: Configuration
 
 labels:
   # - label: "python"
@@ -603,3 +605,9 @@ projects:
     pypi_id: eventsourcing-axonserver
     labels: []
     category: event-sourcing
+
+  - name: django-split-settings
+    github_id: wemake-services/django-split-settings
+    pypi_id: django-split-settings
+    labels: []
+    category: configuration

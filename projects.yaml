@@ -134,6 +134,16 @@ projects:
     pypi_id: django-admin-confirm
     labels: []
     category: admin-interface-actions
+  - name: django-admin-sortable
+    github_id: jazzband/django-admin-sortable
+    pypi_id: django-admin-sortable
+    labels: []
+    category: admin-interface-actions
+  - name: django-admin-sortable2
+    github_id: jrief/django-admin-sortable2
+    pypi_id: django-admin-sortable2
+    labels: []
+    category: admin-interface-actions
 
   - name: django-admin-numeric-filter
     github_id: lukasvinclav/django-admin-numeric-filter

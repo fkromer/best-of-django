@@ -129,6 +129,11 @@ projects:
     pypi_id: django-import-export
     labels: []
     category: admin-interface-actions
+  - name: django-admin-confirm
+    github_id: trangpham/django-admin-confirm
+    pypi_id: django-admin-confirm
+    labels: []
+    category: admin-interface-actions
 
   - name: django-admin-numeric-filter
     github_id: lukasvinclav/django-admin-numeric-filter

@@ -17,6 +17,8 @@ categories:
   - category: admin-interface
     title: Admin Interface
     subtitle: Packages to replace or improve the default Django admin interface.
+  - category: Admin Interface Customization
+    title: admin-interface-customization
   - category: management-commands
     title: Management Commands
     subtitle: Packages which add or help working with management commands.
@@ -119,6 +121,12 @@ projects:
     pypi_id: django-controlcenter
     labels: []
     category: admin-interface
+
+  - name: django-admin-numeric-filter
+    github_id: lukasvinclav/django-admin-numeric-filter
+    pypi_id: django-admin-numeric-filter
+    labels: []
+    category: admin-interface-customization
 
   - name: django-click
     github_id: GaretJax/django-click

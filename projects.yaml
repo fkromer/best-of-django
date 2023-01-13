@@ -662,6 +662,11 @@ projects:
     pypi_id: django-fixture-magic
     labels: []
     category: example-data
+  - name: django-autofixture
+    github_id: gregmuellegger/django-autofixture
+    pypi_id: django-autofixture
+    labels: []
+    category: example-data
 
   - name: model-bakery
     github_id: model-bakers/model_bakery

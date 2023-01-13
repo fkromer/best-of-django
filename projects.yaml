@@ -83,6 +83,8 @@ categories:
     title: Configuration
   - category: example-data
     title: Example data
+  - category: fake-data
+    title: Fake data
 
 labels:
   # - label: "python"
@@ -655,3 +657,19 @@ projects:
     pypi_id: django-seed
     labels: []
     category: example-data
+  - name: django-fixture-magic
+    github_id: davedash/django-fixture-magic
+    pypi_id: django-fixture-magic
+    labels: []
+    category: example-data
+
+  - name: model-bakery
+    github_id: model-bakers/model_bakery
+    pypi_id: model-bakery/
+    labels: []
+    category: fake-data
+  - name: django-dynamic-fixture
+    github_id: paulocheque/django-dynamic-fixture
+    pypi_id: django-dynamic-fixture
+    labels: []
+    category: fake-data

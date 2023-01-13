@@ -81,6 +81,8 @@ categories:
     title: Locking
   - category: configuration
     title: Configuration
+  - category: example-data
+    title: Example data
 
 labels:
   # - label: "python"
@@ -642,3 +644,14 @@ projects:
     pypi_id: django-split-settings
     labels: []
     category: configuration
+
+  - name: mixer
+    github_id: klen/mixer
+    pypi_id: mixer
+    labels: []
+    category: example-data
+  - name: django-seed
+    github_id: brobin/django-seed
+    pypi_id: django-seed
+    labels: []
+    category: example-data

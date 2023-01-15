@@ -696,3 +696,8 @@ projects:
     pypi_id: django-bootstrap-v5
     labels: []
     category: mvt-css-framework-integration
+  - name: django-bulma
+    github_id: timonweb/django-bulma
+    pypi_id: django-bulma
+    labels: []
+    category: mvt-css-framework-integration

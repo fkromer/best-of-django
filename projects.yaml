@@ -85,6 +85,8 @@ categories:
     title: Example data
   - category: fake-data
     title: Fake data
+  - category: mvt-css-framework-integration
+    title: CSS Framework Integration (Django MVT application)
 
 labels:
   # - label: "python"
@@ -678,3 +680,9 @@ projects:
     pypi_id: django-dynamic-fixture
     labels: []
     category: fake-data
+
+  - name: django-tailwind
+    github_id: timonweb/django-tailwind
+    pypi_id: django-tailwind
+    labels: []
+    category: mvt-css-framework-integration

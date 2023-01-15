@@ -686,9 +686,19 @@ projects:
     pypi_id: django-tailwind
     labels: []
     category: mvt-css-framework-integration
+  - name: django-bootstrap5
+    github_id: zostera/django-bootstrap5
+    pypi_id: django-bootstrap5
+    labels: []
+    category: mvt-css-framework-integration
   - name: django-bootstrap4
     github_id: zostera/django-bootstrap4
     pypi_id: django-bootstrap4
+    labels: []
+    category: mvt-css-framework-integration
+  - name: django-bootstrap3
+    github_id: zostera/django-bootstrap3
+    pypi_id: django-bootstrap3
     labels: []
     category: mvt-css-framework-integration
   - name: django-bootstrap-v5

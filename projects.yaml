@@ -358,6 +358,11 @@ projects:
     pypi_id: pydantic
     labels: []
     category: pydantic-integration
+  - name: pyngo
+    github_id: yezz123/pyngo
+    pypi_id: pyngo
+    labels: []
+    category: pydantic-integration
 
   - name: graphene
     github_id: graphql-python/graphene

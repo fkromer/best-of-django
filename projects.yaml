@@ -87,6 +87,8 @@ categories:
     title: Fake data
   - category: mvt-css-framework-integration
     title: CSS Framework Integration (Django MVT application)
+  - category: data-exploration
+    title: Data exploration
 
 labels:
   # - label: "python"
@@ -716,3 +718,9 @@ projects:
     pypi_id: django-bulma
     labels: []
     category: mvt-css-framework-integration
+
+  - name: django-data-browser
+    github_id: tolomea/django-data-browser
+    pypi_id: django-data-browser
+    labels: []
+    category: data-exploration

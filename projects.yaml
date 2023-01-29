@@ -89,6 +89,8 @@ categories:
     title: CSS Framework Integration (Django MVT application)
   - category: data-exploration
     title: Data exploration
+  - category: multiple-tenants
+    title: Multiple tenants
 
 labels:
   # - label: "python"
@@ -724,3 +726,25 @@ projects:
     pypi_id: django-data-browser
     labels: []
     category: data-exploration
+
+
+  - name: django-tenants
+    github_id: django-tenants/django-tenants
+    pypi_id: django-tenants
+    labels: []
+    category: multiple-tenants
+  - name: django-tenant-schemas
+    github_id: bernardopires/django-tenant-schemas
+    pypi_id: django-tenant-schemas
+    labels: []
+    category: multiple-tenants
+  - name: django-multitenant
+    github_id: citusdata/django-multitenant
+    pypi_id: django-multitenant
+    labels: []
+    category: multiple-tenants
+  - name: django-scopes
+    github_id: raphaelm/django-scopes
+    pypi_id: django-scopes
+    labels: []
+    category: multiple-tenants

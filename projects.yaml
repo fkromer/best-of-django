@@ -625,6 +625,16 @@ projects:
     pypi_id: django-storages
     labels: []
     category: storage
+  - name: django-minio-storage
+    github_id: py-pa/django-minio-storage
+    pypi_id: django-minio-storage
+    labels: []
+    category: storage
+  - name: django-minio
+    github_id: maddevsio/django_minio
+    pypi_id: django-minio
+    labels: []
+    category: storage
 
   - name: eventsourcing
     github_id: pyeventsourcing/eventsourcing

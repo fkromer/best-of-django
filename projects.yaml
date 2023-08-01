@@ -32,10 +32,8 @@ categories:
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
-  - category: authentication
-    title: Authentication
-  - category: authorization
-    title: Authorization
+  - category: authentication-authorization
+    title: Authentication and Authorization
   - category: task-queues
     title: Task Queues
   - category: finite-state-machine
@@ -96,6 +94,7 @@ labels:
   # - label: "python"
   #   image: "https://www.python.org/static/favicon.ico"
   #   description: "Best-of list with Python projects"
+  - label: "oauth2"
 
 projects:
   - name: django-grappelli
@@ -219,23 +218,67 @@ projects:
     github_id: pennersr/django-allauth
     pypi_id: django-allauth
     labels: []
-    category: authentication
+    category: authentication-authorization
   - name: django-cas-ng
     github_id: django-cas-ng/django-cas-ng
     pypi_id: django-cas-ng
     labels: []
-    category: authentication
-
+    category: authentication-authorization
+  - name: social-app-django
+    github_id: python-social-auth/social-app-django
+    pypi_id: social-app-django
+    labels: []
+    category: authentication-authorization
+  - name: django-auth-adfs
+    github_id: snok/django-auth-adfs
+    pypi_id: django-auth-adfs
+    labels: []
+    category: authentication-authorization
   - name: django-guardian
     github_id: django-guardian/django-guardian
     pypi_id: django-guardian
     labels: []
-    category: authorization
+    category: authentication-authorization
   - name: django-organizations
     github_id: bennylope/django-organizations
     pypi_id: django-organizations
     labels: []
-    category: authorization
+    category: authentication-authorization
+  - name: django-oidc-provider
+    github_id: juanifioren/django-oidc-provider
+    pypi_id: django-oidc-provider
+    labels: []
+    category: authentication-authorization
+  - name: django-oauth-toolkit
+    github_id: jazzband/django-oauth-toolkit
+    pypi_id: django-oauth-toolkit
+    labels: []
+    category: authentication-authorization
+  - name: django-prbac
+    github_id: dimagi/django-prbac
+    pypi_id: django-prbac
+    labels: []
+    category: authentication-authorization
+  - name: django-oauth2-provider
+    github_id: caffeinehit/django-oauth2-provider
+    pypi_id: django-oauth2-provider
+    labels: []
+    category: authentication-authorization
+  - name: django-oauth2-authcodeflow
+    github_id: jrd/django-oauth2-authcodeflow
+    pypi_id: django-oauth2-authcodeflow
+    labels: []
+    category: authentication-authorization
+  - name: django-oauth-login
+    github_id: dropseed/django-oauth-login
+    pypi_id: django-oauth-login
+    labels: []
+    category: authentication-authorization
+  - name: django-oauthost
+    github_id: idlesign/django-oauthost
+    pypi_id: django-oauthost
+    labels: []
+    category: authentication-authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

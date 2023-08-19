@@ -132,6 +132,11 @@ projects:
     pypi_id: django-controlcenter
     labels: []
     category: admin-interface
+  - name: django-baton
+    github_id: otto-torino/django-baton
+    pypi_id: django-baton
+    labels: []
+    category: admin-interface
 
   - name: django-import-export
     github_id: django-import-export/django-import-export

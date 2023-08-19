@@ -284,6 +284,11 @@ projects:
     pypi_id: django-oauthost
     labels: []
     category: authentication-authorization
+  - name: django-two-factor-auth
+    github_id: jazzband/django-two-factor-auth
+    pypi_id: django-two-factor-auth
+    labels: []
+    category: authentication-authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

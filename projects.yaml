@@ -289,6 +289,11 @@ projects:
     pypi_id: django-two-factor-auth
     labels: []
     category: authentication-authorization
+  - name: django-otp
+    github_id: django-otp/django-otp
+    pypi_id: django-otp
+    labels: []
+    category: authentication-authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

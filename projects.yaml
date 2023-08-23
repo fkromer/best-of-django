@@ -89,6 +89,8 @@ categories:
     title: Data exploration
   - category: multiple-tenants
     title: Multiple tenants
+  - category: htmx-integration
+    title: HTMX Integration
 
 labels:
   # - label: "python"
@@ -816,3 +818,9 @@ projects:
     pypi_id: django-scopes
     labels: []
     category: multiple-tenants
+
+  - name: django-htmx
+    github_id: adamchainz/django-htmx
+    pypi_id: django-htmx
+    labels: []
+    category: htmx-integration

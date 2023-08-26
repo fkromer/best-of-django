@@ -296,6 +296,11 @@ projects:
     pypi_id: django-otp
     labels: []
     category: authentication-authorization
+  - name: django-ratelimit
+    github_id: jsocol/django-ratelimit
+    pypi_id: django-ratelimit
+    labels: []
+    category: authentication-authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

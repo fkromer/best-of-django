@@ -941,3 +941,8 @@ projects:
     pypi_id: django-authorizenet
     labels: []
     category: payment-subscriptions
+  - name: django-oscar-paypal
+    github_id: django-oscar/django-oscar-paypal
+    pypi_id: django-oscar-paypal
+    labels: []
+    category: payment-subscriptions

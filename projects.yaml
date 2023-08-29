@@ -916,3 +916,8 @@ projects:
     pypi_id: django-paypal
     labels: []
     category: payment-subscriptions
+  - name: django-paypal
+    github_id: johnboxall/django-paypal
+    pypi_id: django-paypal
+    labels: []
+    category: payment-subscriptions

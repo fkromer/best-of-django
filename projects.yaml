@@ -891,3 +891,8 @@ projects:
     pypi_id: django-stripe-subscriptions
     labels: []
     category: payment-subscriptions
+  - name: django-subscription
+    github_id: yeago/django-subscription
+    pypi_id: django-subscription
+    labels: []
+    category: payment-subscriptions

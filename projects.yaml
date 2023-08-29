@@ -886,3 +886,8 @@ projects:
     pypi_id: drf-stripe-subscription
     labels: []
     category: payment-subscriptions
+  - name: django-stripe-subscriptions
+    github_id: duplxey/django-stripe-subscriptions
+    pypi_id: django-stripe-subscriptions
+    labels: []
+    category: payment-subscriptions

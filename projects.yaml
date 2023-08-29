@@ -856,3 +856,8 @@ projects:
     pypi_id: dj-paddle
     labels: []
     category: payment-subscriptions
+  - name: django-subscriptions
+    github_id: kogan/django-subscriptions
+    pypi_id: django-subscriptions
+    labels: []
+    category: payment-subscriptions

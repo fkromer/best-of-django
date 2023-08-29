@@ -876,3 +876,8 @@ projects:
     pypi_id: django-flexible-subscriptions
     labels: []
     category: payment-subscriptions
+  - name: django-payee
+    github_id: vporton/django-payee
+    pypi_id: django-payee
+    labels: []
+    category: payment-subscriptions

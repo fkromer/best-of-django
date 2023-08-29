@@ -851,3 +851,8 @@ projects:
     pypi_id: dj-paypal
     labels: []
     category: payment-subscriptions
+  - name: dj-paddle
+    github_id: paddle-python/dj-paddle
+    pypi_id: dj-paddle
+    labels: []
+    category: payment-subscriptions

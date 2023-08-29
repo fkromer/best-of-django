@@ -931,3 +931,8 @@ projects:
     pypi_id: silver
     labels: []
     category: payment-subscriptions
+  - name: django-bitcoin
+    github_id: kangasbros/django-bitcoin
+    pypi_id: django-bitcoin
+    labels: []
+    category: payment-subscriptions

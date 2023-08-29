@@ -91,6 +91,9 @@ categories:
     title: Multiple tenants
   - category: htmx-integration
     title: HTMX Integration
+  - category: value-as-a-service-framework
+    title: Value-as-a-Service frameworks based on Django
+    subtitle: SaaS frameworks, subscription-based tutorials etc. which use Django under the hood.
 
 labels:
   # - label: "python"
@@ -829,3 +832,9 @@ projects:
     pypi_id: django-htmx
     labels: []
     category: htmx-integration
+
+  - name: djaodjin-saas
+    github_id: djaodjin/djaodjin-saas
+    pypi_id: djaodjin-saas
+    labels: []
+    category: value-as-a-service-framework

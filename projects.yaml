@@ -921,3 +921,8 @@ projects:
     pypi_id: django-paypal
     labels: []
     category: payment-subscriptions
+  - name: django-getpaid
+    github_id: django-getpaid/django-getpaid
+    pypi_id: django-getpaid
+    labels: []
+    category: payment-subscriptions

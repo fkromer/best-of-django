@@ -901,3 +901,8 @@ projects:
     pypi_id: django-flutterwave
     labels: []
     category: payment-subscriptions
+  - name: merchant
+    github_id: agiliq/merchant
+    pypi_id: merchant
+    labels: []
+    category: payment-subscriptions

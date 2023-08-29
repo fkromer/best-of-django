@@ -881,3 +881,8 @@ projects:
     pypi_id: django-payee
     labels: []
     category: payment-subscriptions
+  - name: drf-stripe-subscription
+    github_id: oscarychen/drf-stripe-subscription
+    pypi_id: drf-stripe-subscription
+    labels: []
+    category: payment-subscriptions

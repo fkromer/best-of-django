@@ -866,3 +866,8 @@ projects:
     pypi_id: pinax-stripe-light
     labels: []
     category: payment-subscriptions
+  - name: django-subscription
+    github_id: zhaque/django-subscription
+    pypi_id: django-subscription
+    labels: []
+    category: payment-subscriptions

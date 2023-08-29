@@ -926,3 +926,8 @@ projects:
     pypi_id: django-getpaid
     labels: []
     category: payment-subscriptions
+  - name: silver
+    github_id: silverapp/silver
+    pypi_id: silver
+    labels: []
+    category: payment-subscriptions

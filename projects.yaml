@@ -896,3 +896,8 @@ projects:
     pypi_id: django-subscription
     labels: []
     category: payment-subscriptions
+  - name: django-flutterwave
+    github_id: bdelate/django-flutterwave
+    pypi_id: django-flutterwave
+    labels: []
+    category: payment-subscriptions

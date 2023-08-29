@@ -846,3 +846,8 @@ projects:
     pypi_id: dj-stripe
     labels: []
     category: payment-subscriptions
+  - name: dj-paypal
+    github_id: HearthSim/dj-paypal
+    pypi_id: dj-paypal
+    labels: []
+    category: payment-subscriptions

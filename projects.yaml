@@ -906,3 +906,8 @@ projects:
     pypi_id: merchant
     labels: []
     category: payment-subscriptions
+  - name: django-payments
+    github_id: jazzband/django-payments
+    pypi_id: django-payments
+    labels: []
+    category: payment-subscriptions

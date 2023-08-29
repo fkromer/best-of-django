@@ -936,3 +936,8 @@ projects:
     pypi_id: django-bitcoin
     labels: []
     category: payment-subscriptions
+  - name: django-authorizenet
+    github_id: zen4ever/django-authorizenet
+    pypi_id: django-authorizenet
+    labels: []
+    category: payment-subscriptions

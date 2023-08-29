@@ -871,3 +871,8 @@ projects:
     pypi_id: django-subscription
     labels: []
     category: payment-subscriptions
+  - name: django-flexible-subscriptions
+    github_id: studybuffalo/django-flexible-subscriptions
+    pypi_id: django-flexible-subscriptions
+    labels: []
+    category: payment-subscriptions

@@ -96,6 +96,8 @@ categories:
     subtitle: SaaS frameworks, subscription-based tutorials etc. which use Django under the hood.
   - category: payment-subscriptions
     title: Payment and Subscription (Stripe, etc.)
+  - category: emails
+    title: Emails
 
 labels:
   # - label: "python"
@@ -946,3 +948,14 @@ projects:
     pypi_id: django-oscar-paypal
     labels: []
     category: payment-subscriptions
+
+  - name: django-post-office
+    github_id: ui/django-post_office
+    pypi_id: django-post-office
+    labels:  []
+    category: emails
+  - name: django-ses
+    github_id: django-ses/django-ses
+    pypi_id: django-ses
+    labels:  []
+    category: emails

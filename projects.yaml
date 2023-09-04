@@ -89,8 +89,6 @@ categories:
     title: Data exploration
   - category: multiple-tenants
     title: Multiple tenants
-  - category: htmx-integration
-    title: HTMX Integration
   - category: value-as-a-service-framework
     title: Value-as-a-Service frameworks based on Django
     subtitle: SaaS frameworks, subscription-based tutorials etc. which use Django under the hood.
@@ -833,12 +831,6 @@ projects:
     labels: []
     category: multiple-tenants
 
-  - name: django-htmx
-    github_id: adamchainz/django-htmx
-    pypi_id: django-htmx
-    labels: []
-    category: htmx-integration
-
   - name: djaodjin-saas
     github_id: djaodjin/djaodjin-saas
     pypi_id: djaodjin-saas
@@ -962,6 +954,11 @@ projects:
     labels:  []
     category: emails
 
+  - name: django-htmx
+    github_id: adamchainz/django-htmx
+    pypi_id: django-htmx
+    labels: []
+    category: templates
   - name: django-compressor
     github_id: django-compressor/django-compressor
     pypi_id: django-compressor

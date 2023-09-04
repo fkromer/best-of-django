@@ -98,6 +98,8 @@ categories:
     title: Payment and Subscription (Stripe, etc.)
   - category: emails
     title: Emails
+  - category: templates
+    title: Templates
 
 labels:
   # - label: "python"
@@ -959,3 +961,9 @@ projects:
     pypi_id: django-ses
     labels:  []
     category: emails
+
+  - name: django-compressor
+    github_id: django-compressor/django-compressor
+    pypi_id: django-compressor
+    labels:  []
+    category: templates

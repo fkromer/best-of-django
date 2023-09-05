@@ -953,6 +953,11 @@ projects:
     pypi_id: django-ses
     labels:  []
     category: emails
+  - name: django-mailbox
+    github_id: coddingtonbear/django-mailbox
+    pypi_id: django-mailbox
+    labels:  []
+    category: emails
 
   - name: django-htmx
     github_id: adamchainz/django-htmx

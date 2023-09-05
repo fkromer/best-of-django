@@ -376,6 +376,11 @@ projects:
     pypi_id: viewflow
     labels: []
     category: finite-state-machine
+  - name: djangorestframework-fsm
+    github_id: 27medkamal/djangorestframework-fsm
+    pypi_id: djangorestframework-fsm
+    labels: []
+    category: finite-state-machine
 
   - name: django-rest-framework
     github_id: encode/django-rest-framework

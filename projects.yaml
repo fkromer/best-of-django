@@ -981,7 +981,12 @@ projects:
   - name: django-compressor
     github_id: django-compressor/django-compressor
     pypi_id: django-compressor
-    labels:  []
+    labels: []
+    category: templates
+  - name: django-template-partials
+    github_id: carltongibson/django-template-partials
+    pypi_id: django-template-partials
+    labels: []
     category: templates
 
   - name: django-test-migrations

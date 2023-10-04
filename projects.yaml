@@ -995,3 +995,8 @@ projects:
     pypi_id: django-reusable-app-template
     labels:  []
     category: reusable-app-templates
+  - name: cookiecutter-djangopackage
+    github_id: pydanny/cookiecutter-djangopackage
+    pypi_id: cookiecutter-djangopackage
+    labels:  []
+    category: reusable-app-templates

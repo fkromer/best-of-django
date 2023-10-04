@@ -1020,9 +1020,9 @@ projects:
     pypi_id: django-app-template
     labels: []
     category: reusable-app-templates
-  - name: django-app-template
-    github_id: mlavin/django-app-template
-    pypi_id: django-app-template
+  - name: django-package-template
+    github_id: thermondo/django-package-template
+    pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
   - name: django-package-template

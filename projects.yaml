@@ -1040,3 +1040,8 @@ projects:
     pypi_id: cookiecutter-django-app
     labels: []
     category: reusable-app-templates
+  - name: cookiecutter-sveetch-djangoapp
+    github_id: sveetch/cookiecutter-sveetch-djangoapp
+    pypi_id: cookiecutter-sveetch-djangoapp
+    labels: []
+    category: reusable-app-templates

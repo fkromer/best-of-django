@@ -102,6 +102,8 @@ categories:
     title: Migrations
   - category: reusable-app-templates
     title: Reusable app templates
+  - category: project-templates
+    title: Project templates
 
 labels:
   # - label: "python"
@@ -1050,3 +1052,9 @@ projects:
     pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
+
+  - name: django-project-template
+    github_id: thorgate/django-project-template
+    pypi_id: django-project-template
+    labels: []
+    category: project-templates

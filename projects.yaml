@@ -1010,3 +1010,8 @@ projects:
     pypi_id: cookiecutter-django-crud
     labels:  []
     category: reusable-app-templates
+  - name: django-app-template
+    github_id: mlavin/django-app-template
+    pypi_id: django-app-template
+    labels:  []
+    category: reusable-app-templates

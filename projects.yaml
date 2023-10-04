@@ -1025,9 +1025,9 @@ projects:
     pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
-  - name: django-package-template
-    github_id: thermondo/django-package-template
-    pypi_id: django-package-template
+  - name: django-reusable-app
+    github_id: AndreGuerra123/django-reusable-app
+    pypi_id: django-reusable-app
     labels: []
     category: reusable-app-templates
   - name: cookiecutter-django-app

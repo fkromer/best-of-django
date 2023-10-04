@@ -100,6 +100,8 @@ categories:
     title: Templates
   - category: migrations
     title: Migrations
+  - category: reusable-app-templates
+    title: Reusable app templates
 
 labels:
   # - label: "python"
@@ -987,3 +989,9 @@ projects:
     pypi_id: django-test-migrations
     labels:  []
     category: migrations
+
+  - name: django-reusable-app-template
+    github_id: bitlabstudio/django-reusable-app-template
+    pypi_id: django-reusable-app-template
+    labels:  []
+    category: reusable-app-templates

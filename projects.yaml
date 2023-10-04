@@ -1000,3 +1000,8 @@ projects:
     pypi_id: cookiecutter-djangopackage
     labels:  []
     category: reusable-app-templates
+  - name: django-package-template
+    github_id: KryptedGaming/django-package-template
+    pypi_id: django-package-template
+    labels:  []
+    category: reusable-app-templates

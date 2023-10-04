@@ -965,6 +965,11 @@ projects:
     pypi_id: django-mailbox
     labels:  []
     category: emails
+  - name: aiosmtpd
+    github_id: aio-libs/aiosmtpd
+    pypi_id: aiosmtpd
+    labels:  []
+    category: emails
 
   - name: django-htmx
     github_id: adamchainz/django-htmx

@@ -992,36 +992,42 @@ projects:
   - name: django-test-migrations
     github_id: wemake-services/django-test-migrations
     pypi_id: django-test-migrations
-    labels:  []
+    labels: []
     category: migrations
 
   - name: django-reusable-app-template
     github_id: bitlabstudio/django-reusable-app-template
     pypi_id: django-reusable-app-template
-    labels:  []
+    labels: []
     category: reusable-app-templates
   - name: cookiecutter-djangopackage
     github_id: pydanny/cookiecutter-djangopackage
     pypi_id: cookiecutter-djangopackage
-    labels:  []
+    labels: []
     category: reusable-app-templates
   - name: django-package-template
     github_id: KryptedGaming/django-package-template
     pypi_id: django-package-template
-    labels:  []
+    labels: []
     category: reusable-app-templates
   - name: cookiecutter-django-crud
     github_id: wildfish/cookiecutter-django-crud
     pypi_id: cookiecutter-django-crud
-    labels:  []
+    labels: []
     category: reusable-app-templates
   - name: django-app-template
     github_id: mlavin/django-app-template
     pypi_id: django-app-template
-    labels:  []
+    labels: []
     category: reusable-app-templates
   - name: django-app-template
     github_id: mlavin/django-app-template
     pypi_id: django-app-template
-    labels:  []
+    labels: []
     category: reusable-app-templates
+  - name: django-package-template
+    github_id: thermondo/django-package-template
+    pypi_id: django-package-template
+    labels: []
+    category: reusable-app-templates
+

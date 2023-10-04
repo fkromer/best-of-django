@@ -1045,3 +1045,8 @@ projects:
     pypi_id: cookiecutter-sveetch-djangoapp
     labels: []
     category: reusable-app-templates
+  - name: django-package-template
+    github_id: timossavva/django-package-template
+    pypi_id: django-package-template
+    labels: []
+    category: reusable-app-templates

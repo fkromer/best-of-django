@@ -1035,3 +1035,8 @@ projects:
     pypi_id: cookiecutter-django-app
     labels: []
     category: reusable-app-templates
+  - name: cookiecutter-django-app
+    github_id: wooyek/cookiecutter-django-app
+    pypi_id: cookiecutter-django-app
+    labels: []
+    category: reusable-app-templates

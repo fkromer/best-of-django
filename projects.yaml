@@ -61,6 +61,9 @@ categories:
   - category: ecommerce-framework
     title: E-Commerce frameworks based on Django
     subtitle: E-Commerce frameworks which use Django under the hood.
+  - category: analytics-framework
+    title: Analytics frameworks based on Django
+    subtitle: Analytics frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -556,6 +559,12 @@ projects:
     pypi_id: shuup
     labels: []
     category: ecommerce-framework
+
+  - name: shynet
+    github_id: milesmcc/shynet
+    pypi_id: shynet
+    labels: []
+    category: analytics-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

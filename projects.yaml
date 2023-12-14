@@ -29,6 +29,8 @@ categories:
     subtitle: Packages which help w.r.t. configration topics.
   - category: debugging
     title: Debugging
+  - category: development
+    title: Development
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
@@ -230,6 +232,12 @@ projects:
     pypi_id: django-debug-toolbar
     labels: []
     category: debugging
+
+  - name: django-browser-reload
+    github_id: adamchainz/django-browser-reload
+    pypi_id: django-browser-reload
+    labels: []
+    category: development
 
   - name: django-guid
     github_id: snok/django-guid

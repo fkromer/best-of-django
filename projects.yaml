@@ -200,6 +200,11 @@ projects:
     pypi_id: django-extensions
     labels: []
     category: management-commands
+  - name: django-rich
+    github_id: adamchainz/django-rich
+    pypi_id: django-rich
+    labels: []
+    category: management-commands
 
   - name: django-environ
     github_id: joke2k/django-environ

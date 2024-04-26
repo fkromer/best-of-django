@@ -205,6 +205,11 @@ projects:
     pypi_id: django-rich
     labels: []
     category: management-commands
+  - name: django-typer
+    github_id: bckohan/django-typer
+    pypi_id: django-typer
+    labels: []
+    category: management-commands
 
   - name: django-environ
     github_id: joke2k/django-environ

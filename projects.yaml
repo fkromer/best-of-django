@@ -109,6 +109,8 @@ categories:
     title: Reusable app templates
   - category: project-templates
     title: Project templates
+  - category: static-file-serving
+    title: Static file serving
 
 labels:
   # - label: "python"
@@ -1085,3 +1087,9 @@ projects:
     pypi_id: django-project-template
     labels: []
     category: project-templates
+
+  - name: whitenoise
+    github_id: evansd/whitenoise
+    pypi_id: whitenoise
+    labels: []
+    category: static-file-serving

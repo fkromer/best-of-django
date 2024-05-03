@@ -1116,3 +1116,8 @@ projects:
     pypi_id: django-use-email-as-username
     labels: []
     category: custom-user
+  - name: django-improved-user
+    github_id: jambonsw/django-improved-user
+    pypi_id: django-improved-user
+    labels: []
+    category: custom-user

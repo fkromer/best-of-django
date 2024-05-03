@@ -36,6 +36,8 @@ categories:
     subtitle: Packages which improve logging and debugging.
   - category: authentication-authorization
     title: Authentication and Authorization
+  - category: authorization
+    title: Authorization
   - category: task-queues
     title: Task Queues
   - category: finite-state-machine
@@ -339,6 +341,12 @@ projects:
     pypi_id: django-ratelimit
     labels: []
     category: authentication-authorization
+
+  - name: django-rules
+    github_id: dfunckt/django-rules
+    pypi_id: django-rules
+    labels: []
+    category: authorization
 
   - name: django-optimistic-lock
     github_id: gavinwahl/django-optimistic-lock

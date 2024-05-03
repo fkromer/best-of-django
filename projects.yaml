@@ -1106,3 +1106,8 @@ projects:
     pypi_id: django-custom-user
     labels: []
     category: custom-user
+  - name: django-unique-user-email
+    github_id: carltongibson/django-unique-user-email
+    pypi_id: django-unique-user-email
+    labels: []
+    category: custom-user

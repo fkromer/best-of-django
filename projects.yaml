@@ -1111,3 +1111,8 @@ projects:
     pypi_id: django-unique-user-email
     labels: []
     category: custom-user
+  - name: django-use-email-as-username
+    github_id: jmfederico/django-use-email-as-username
+    pypi_id: django-use-email-as-username
+    labels: []
+    category: custom-user

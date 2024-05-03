@@ -111,6 +111,8 @@ categories:
     title: Project templates
   - category: static-file-serving
     title: Static file serving
+  - category: custom-user
+    title: Custom user
 
 labels:
   # - label: "python"
@@ -1093,3 +1095,14 @@ projects:
     pypi_id: whitenoise
     labels: []
     category: static-file-serving
+
+  - name: django-authtools
+    github_id: fusionbox/django-authtools
+    pypi_id: django-authtools
+    labels: []
+    category: custom-user
+  - name: django-custom-user
+    github_id: jcugat/django-custom-user
+    pypi_id: django-custom-user
+    labels: []
+    category: custom-user

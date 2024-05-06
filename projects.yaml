@@ -74,6 +74,9 @@ categories:
   - category: monitoring-framework
     title: Monitoring frameworks based on Django
     subtitle: Monitoring frameworks which use Django under the hood.
+  - category: photo-management-framework
+    title: Photo management frameworks based on Django
+    subtitle: Photo management frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -620,6 +623,11 @@ projects:
     github_id: getsentry/sentry
     labels: []
     category: monitoring-framework
+
+  - name: librephotos
+    github_id: LibrePhotos/librephotos
+    labels: []
+    category: photo-management-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

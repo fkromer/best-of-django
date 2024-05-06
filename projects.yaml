@@ -89,6 +89,9 @@ categories:
   - category: crawler-management-system
     title: Crawler management system based on Django
     subtitle: Web crawler management systems which use Django under the hood.
+  - category: network-automation-system
+    title: Network automation system based on Django
+    subtitle: Network automation systems which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -660,6 +663,11 @@ projects:
     github_id: https://github.com/Gerapy/Gerapy
     labels: []
     category: crawler-management-system
+
+  - name: netbox
+    github_id: netbox-community/netbox
+    labels: []
+    category: network-automation-system
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

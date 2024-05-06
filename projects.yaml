@@ -83,6 +83,9 @@ categories:
   - category: document-management-framework
     title: Document management frameworks based on Django
     subtitle: Document management frameworks which use Django under the hood.
+  - category: inventory-management-system
+    title: Inventory management system based on Django
+    subtitle: Inventory management systems which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -644,6 +647,11 @@ projects:
     github_id: paperless-ngx/paperless-ngx
     labels: []
     category: document-management-framework
+
+  - name: InvenTree
+    github_id: inventree/InvenTree
+    labels: []
+    category: inventory-management-system
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

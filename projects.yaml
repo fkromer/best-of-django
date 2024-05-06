@@ -77,6 +77,9 @@ categories:
   - category: photo-management-framework
     title: Photo management frameworks based on Django
     subtitle: Photo management frameworks which use Django under the hood.
+  - category: recipe-management-framework
+    title: Recipe management frameworks based on Django
+    subtitle: Recipe management frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -628,6 +631,11 @@ projects:
     github_id: LibrePhotos/librephotos
     labels: []
     category: photo-management-framework
+
+  - name: Tandoor Recipes
+    github_id: TandoorRecipes/recipes
+    labels: []
+    category: recipe-management-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

@@ -68,6 +68,9 @@ categories:
   - category: analytics-framework
     title: Analytics frameworks based on Django
     subtitle: Analytics frameworks which use Django under the hood.
+  - category: project-management-framework
+    title: Project management frameworks based on Django
+    subtitle: Project management frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -600,6 +603,15 @@ projects:
     pypi_id: shynet
     labels: []
     category: analytics-framework
+
+  - name: taiga
+    github_id: kaleidos-ventures/taiga
+    labels: []
+    category: project-management-framework
+  - name: plane
+    github_id: makeplane/plane
+    labels: []
+    category: project-management-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

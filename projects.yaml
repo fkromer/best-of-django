@@ -71,6 +71,9 @@ categories:
   - category: project-management-framework
     title: Project management frameworks based on Django
     subtitle: Project management frameworks which use Django under the hood.
+  - category: monitoring-framework
+    title: Monitoring frameworks based on Django
+    subtitle: Monitoring frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -612,6 +615,11 @@ projects:
     github_id: makeplane/plane
     labels: []
     category: project-management-framework
+
+  - name: sentry
+    github_id: getsentry/sentry
+    labels: []
+    category: monitoring-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

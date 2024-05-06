@@ -80,6 +80,9 @@ categories:
   - category: recipe-management-framework
     title: Recipe management frameworks based on Django
     subtitle: Recipe management frameworks which use Django under the hood.
+  - category: document-management-framework
+    title: Document management frameworks based on Django
+    subtitle: Document management frameworks which use Django under the hood.
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -636,6 +639,11 @@ projects:
     github_id: TandoorRecipes/recipes
     labels: []
     category: recipe-management-framework
+
+  - name: Paperless-ngx
+    github_id: paperless-ngx/paperless-ngx
+    labels: []
+    category: document-management-framework
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

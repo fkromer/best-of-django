@@ -114,8 +114,12 @@ categories:
     title: Example data
   - category: fake-data
     title: Fake data
-  - category: mvt-css-framework-integration
-    title: CSS Framework Integration (Django MVT application)
+  - category: mvt-bootstrap-css-framework-integration
+    title: Bootstrap CSS Framework Integration (Django MVT application)
+  - category: mvt-bulma-css-framework-integration
+    title: Bulma CSS Framework Integration (Django MVT application)
+  - category: mvt-tailwind-css-framework-integration
+    title: TailwindCSS CSS Framework Integration (Django MVT application)
   - category: data-exploration
     title: Data exploration
   - category: multiple-tenants
@@ -899,39 +903,50 @@ projects:
     github_id: timonweb/django-tailwind
     pypi_id: django-tailwind
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-tailwind-css-framework-integration
+  - name: pytailwindcss
+    github_id: timonweb/pytailwindcss
+    pypi_id: pytailwindcss
+    labels: []
+    category: mvt-tailwind-css-framework-integration
+  - name: django-tailwind-cli
+    github_id: oliverandrich/django-tailwind-cli
+    pypi_id: django-tailwind-cli
+    labels: []
+    category: mvt-tailwind-css-framework-integration
+
   - name: django-bootstrap5
     github_id: zostera/django-bootstrap5
     pypi_id: django-bootstrap5
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-bootstrap-css-framework-integration
   - name: django-bootstrap4
     github_id: zostera/django-bootstrap4
     pypi_id: django-bootstrap4
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-bootstrap-css-framework-integration
   - name: django-bootstrap3
     github_id: zostera/django-bootstrap3
     pypi_id: django-bootstrap3
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-bootstrap-css-framework-integration
   - name: django-bootstrap-v5
     github_id: zelenij/django-bootstrap-v5
     pypi_id: django-bootstrap-v5
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-bootstrap-css-framework-integration
+
   - name: django-bulma
     github_id: timonweb/django-bulma
     pypi_id: django-bulma
     labels: []
-    category: mvt-css-framework-integration
+    category: mvt-bulma-css-framework-integration
 
   - name: django-data-browser
     github_id: tolomea/django-data-browser
     pypi_id: django-data-browser
     labels: []
     category: data-exploration
-
 
   - name: django-tenants
     github_id: django-tenants/django-tenants

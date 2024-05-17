@@ -59,6 +59,9 @@ categories:
     subtitle: Packages which add application layer statistic functionality.
   - category: testing
     title: Testing
+  - category: m-framework
+    title: Monitoring frameworks based on Django
+    subtitle: Monitoring (Application Performance Monitoring, ...) frameworks which use Django under the hood.
   - category: cms-framework
     title: CMS frameworks based on Django
     subtitle: Content Management Systems which use Django under the hood.
@@ -585,6 +588,11 @@ projects:
     pypi_id: factory_boy
     labels: []
     category: testing
+
+  - name: sentry
+    github_id: getsentry/sentry
+    labels: []
+    category: m-framework
 
   - name: wagtail
     github_id: wagtail/wagtail

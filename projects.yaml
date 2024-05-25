@@ -1210,6 +1210,10 @@ projects:
     github_id: wq/wq-django-template
     labels: []
     category: reusable-app-templates
+  - name: python-library-template
+    github_id: Opus10/python-library-template
+    labels: []
+    category: reusable-app-templates
 
   - name: falco
     github_id: Tobi-De/falco

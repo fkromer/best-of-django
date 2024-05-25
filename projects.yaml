@@ -1140,6 +1140,10 @@ projects:
     labels: []
     category: migrations
 
+  - name: wemake-django-template
+    github_id: wemake-services/wemake-django-template
+    labels: []
+    category: reusable-app-templates
   - name: django-reusable-app-template
     github_id: bitlabstudio/django-reusable-app-template
     pypi_id: django-reusable-app-template

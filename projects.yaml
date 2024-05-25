@@ -1187,6 +1187,11 @@ projects:
     pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
+  - name: falco
+    github_id: Tobi-De/falco
+    pypi_id: falco
+    labels: []
+    category: reusable-app-templates
 
   - name: django-project-template
     github_id: thorgate/django-project-template

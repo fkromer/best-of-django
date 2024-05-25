@@ -1193,19 +1193,22 @@ projects:
     pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
-  - name: falco
-    github_id: Tobi-De/falco
-    pypi_id: falco
-    labels: []
-    category: reusable-app-templates
   - name: wq-django-template
     github_id: wq/wq-django-template
     labels: []
     category: reusable-app-templates
 
+  - name: falco
+    github_id: Tobi-De/falco
+    pypi_id: falco
+    labels: []
+    category: project-templates
   - name: django-project-template
     github_id: thorgate/django-project-template
-    pypi_id: django-project-template
+    labels: []
+    category: project-templates
+  - name: django-base-template
+    github_id: Alex-CodeLab/django-base-template
     labels: []
     category: project-templates
 

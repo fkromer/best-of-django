@@ -24,6 +24,8 @@ categories:
   - category: management-commands
     title: Management Commands
     subtitle: Packages which add or help working with management commands.
+  - category: caching
+    title: Caching
   - category: configuration
     title: Configuration
     subtitle: Packages which help w.r.t. configration topics.
@@ -250,6 +252,17 @@ projects:
     pypi_id: django-typer
     labels: []
     category: management-commands
+
+  - name: django-cachalot
+    github_id: noripyt/django-cachalot
+    pypi_id: django-cachalot
+    labels: []
+    category: caching
+  - name: django-cacheops
+    github_id: Suor/django-cacheops
+    pypi_id: django-cacheops
+    labels: []
+    category: caching
 
   - name: django-environ
     github_id: joke2k/django-environ

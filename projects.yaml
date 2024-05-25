@@ -1146,7 +1146,6 @@ projects:
     category: reusable-app-templates
   - name: django-reusable-app-template
     github_id: bitlabstudio/django-reusable-app-template
-    pypi_id: django-reusable-app-template
     labels: []
     category: reusable-app-templates
   - name: cookiecutter-djangopackage
@@ -1166,17 +1165,14 @@ projects:
     category: reusable-app-templates
   - name: django-app-template
     github_id: mlavin/django-app-template
-    pypi_id: django-app-template
     labels: []
     category: reusable-app-templates
   - name: django-package-template
     github_id: thermondo/django-package-template
-    pypi_id: django-package-template
     labels: []
     category: reusable-app-templates
   - name: django-reusable-app
     github_id: AndreGuerra123/django-reusable-app
-    pypi_id: django-reusable-app
     labels: []
     category: reusable-app-templates
   - name: cookiecutter-django-app
@@ -1186,12 +1182,10 @@ projects:
     category: reusable-app-templates
   - name: cookiecutter-django-app
     github_id: wooyek/cookiecutter-django-app
-    pypi_id: cookiecutter-django-app
     labels: []
     category: reusable-app-templates
   - name: cookiecutter-sveetch-djangoapp
     github_id: sveetch/cookiecutter-sveetch-djangoapp
-    pypi_id: cookiecutter-sveetch-djangoapp
     labels: []
     category: reusable-app-templates
   - name: django-package-template

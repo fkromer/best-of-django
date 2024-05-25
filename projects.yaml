@@ -1198,6 +1198,10 @@ projects:
     pypi_id: falco
     labels: []
     category: reusable-app-templates
+  - name: wq-django-template
+    github_id: wq/wq-django-template
+    labels: []
+    category: reusable-app-templates
 
   - name: django-project-template
     github_id: thorgate/django-project-template

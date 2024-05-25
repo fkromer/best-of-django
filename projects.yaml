@@ -1268,6 +1268,10 @@ projects:
     github_id: jpadilla/django-project-template
     labels: []
     category: project-templates
+  - name: django-startproject
+    github_id: oliverandrich/django-startproject
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

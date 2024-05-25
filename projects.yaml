@@ -1224,6 +1224,50 @@ projects:
     github_id: Alex-CodeLab/django-base-template
     labels: []
     category: project-templates
+  - name: sidewinder
+    github_id: stribny/sidewinder
+    labels: []
+    category: project-templates
+  - name: launchr
+    github_id: jayfk/launchr
+    labels: []
+    category: project-templates
+  - name: cookiecutter-vue-django
+    github_id: ilikerobots/cookiecutter-vue-django
+    labels: []
+    category: project-templates
+  - name: django-docker-heroku-template
+    github_id: bfirsh/django-docker-heroku-template
+    labels: []
+    category: project-templates
+  - name: sos-django-template
+    github_id: erayerdin/sos-django-template
+    labels: []
+    category: project-templates
+  - name: django-webpack-starter
+    github_id: khadegd/django-webpack-starter
+    labels: []
+    category: project-templates
+  - name: wemake-django-template
+    github_id: wemake-services/wemake-django-template
+    labels: []
+    category: project-templates
+  - name: django-startproject
+    github_id: jefftriplett/django-startproject
+    labels: []
+    category: project-templates
+  - name: django-docker-template
+    github_id: amerkurev/django-docker-template
+    labels: []
+    category: project-templates
+  - name: docker-django
+    github_id: jpbruinsslot/docker-django
+    labels: []
+    category: project-templates
+  - name: django-project-template
+    github_id: jpadilla/django-project-template
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

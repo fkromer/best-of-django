@@ -51,6 +51,8 @@ categories:
     title: RESTful API (Django Ninja)
   - category: pydantic-integration
     title: Pydantic integration
+  - category: pandas-integration
+    title: Pandas integration
   - category: graphql-api
     title: GraphQL API
     subtitle: Packages to implement GraphQL API.
@@ -520,6 +522,11 @@ projects:
     labels: []
     category: restful-api-ninja
 
+  - name: djantic2
+    github_id: jonathan-s/djantic2
+    pypi_id: djantic
+    labels: []
+    category: pydantic-integration
   - name: djantic
     github_id: jordaneremieff/djantic
     pypi_id: djantic
@@ -535,6 +542,12 @@ projects:
     pypi_id: pyngo
     labels: []
     category: pydantic-integration
+
+  - name: django-pandas
+    github_id: 
+    pypi_id: django-pandas
+    labels: []
+    category: pandas-integration
 
   - name: graphene
     github_id: graphql-python/graphene

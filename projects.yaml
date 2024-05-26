@@ -1288,6 +1288,14 @@ projects:
     github_id: Lightmatter/django-hydra
     labels: []
     category: project-templates
+  - name: django-bootstrap-htmx-template-2023
+    github_id: digipodium/django-bootstrap-htmx-template-2023
+    labels: []
+    category: project-templates
+  - name: saas-boilerplate
+    github_id: apptension/saas-boilerplate
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

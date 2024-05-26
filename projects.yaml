@@ -1276,6 +1276,18 @@ projects:
     github_id: oliverandrich/django-startproject
     labels: []
     category: project-templates
+  - name: django-react-boilerplate
+    github_id: vintasoftware/django-react-boilerplate
+    labels: []
+    category: project-templates
+  - name: django-react-boilerplate
+    github_id: justdjango/django-react-boilerplate
+    labels: []
+    category: project-templates
+  - name: django-hydra
+    github_id: Lightmatter/django-hydra
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

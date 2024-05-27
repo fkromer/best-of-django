@@ -1159,6 +1159,11 @@ projects:
     pypi_id: django-template-partials
     labels: []
     category: templates
+  - name: inertia-django
+    github_id: inertiajs/inertia-django
+    pypi_id: inertia-django
+    labels: []
+    category: templates
 
   - name: django-test-migrations
     github_id: wemake-services/django-test-migrations

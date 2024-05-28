@@ -472,6 +472,11 @@ projects:
     pypi_id: djangorestframework-fsm
     labels: []
     category: finite-state-machine
+  - name: transitions
+    github_id: pytransitions/transitions
+    pypi_id: transitions
+    labels: []
+    category: finite-state-machine
 
   - name: django-rest-framework
     github_id: encode/django-rest-framework

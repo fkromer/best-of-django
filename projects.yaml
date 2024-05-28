@@ -544,7 +544,7 @@ projects:
     category: pydantic-integration
 
   - name: django-pandas
-    github_id: 
+    github_id: chrisdev/django-pandas
     pypi_id: django-pandas
     labels: []
     category: pandas-integration

@@ -1141,6 +1141,11 @@ projects:
     pypi_id: aiosmtpd
     labels:  []
     category: emails
+  - name: django-anymail
+    github_id: anymail/django-anymail
+    pypi_id: django-anymail
+    labels:  []
+    category: emails
 
   - name: django-htmx
     github_id: adamchainz/django-htmx

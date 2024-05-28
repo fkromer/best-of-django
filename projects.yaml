@@ -143,8 +143,6 @@ categories:
     title: Emails
   - category: templates
     title: Templates
-  - category: migrations
-    title: Migrations
   - category: reusable-app-templates
     title: Reusable app templates
   - category: project-templates
@@ -1164,12 +1162,6 @@ projects:
     pypi_id: inertia-django
     labels: []
     category: templates
-
-  - name: django-test-migrations
-    github_id: wemake-services/django-test-migrations
-    pypi_id: django-test-migrations
-    labels: []
-    category: migrations
 
   - name: wemake-django-template
     github_id: wemake-services/wemake-django-template

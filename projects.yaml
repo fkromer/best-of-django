@@ -587,6 +587,16 @@ projects:
     pypi_id: django-graphql-auth
     labels: []
     category: graphql-api
+  - name: ariadne
+    github_id: mirumee/ariadne
+    pypi_id: ariadne
+    labels: []
+    category: graphql-api
+  - name: ariadne-django
+    github_id: mirumee/ariadne-django
+    pypi_id: ariadne-django
+    labels: []
+    category: graphql-api
 
   - name: django-waffle
     github_id: django-waffle/django-waffle

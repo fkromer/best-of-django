@@ -493,6 +493,11 @@ projects:
     pypi_id: django-rest-passwordreset
     labels: []
     category: restful-api-drf
+  - name: django-restql
+    github_id: yezyilomo/django-restql
+    pypi_id: django-restql
+    labels: []
+    category: restful-api-drf
 
   - name: django-ninja
     github_id: vitalik/django-ninja

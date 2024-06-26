@@ -498,6 +498,11 @@ projects:
     pypi_id: django-restql
     labels: []
     category: restful-api-drf
+  - name: django-rest-pandas
+    github_id: wq/django-rest-pandas
+    pypi_id: django-rest-pandas
+    labels: []
+    category: restful-api-drf
 
   - name: django-ninja
     github_id: vitalik/django-ninja

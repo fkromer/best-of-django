@@ -322,6 +322,16 @@ projects:
     pypi_id: django-loguru
     labels: []
     category: logging
+  - name: structlog
+    github_id: hynek/structlog
+    pypi_id: structlog
+    labels: []
+    category: logging
+  - name: django-structlog
+    github_id: jrobichaud/django-structlog
+    pypi_id: django-structlog
+    labels: []
+    category: logging
 
   - name: django-allauth
     github_id: pennersr/django-allauth

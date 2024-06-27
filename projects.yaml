@@ -306,6 +306,11 @@ projects:
     pypi_id: django-browser-reload
     labels: []
     category: development
+  - name: tach
+    github_id: gauge-sh/tach
+    pypi_id: tach
+    labels: []
+    category: development
 
   - name: django-guid
     github_id: snok/django-guid

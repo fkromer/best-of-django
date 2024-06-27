@@ -29,6 +29,8 @@ categories:
   - category: configuration
     title: Configuration
     subtitle: Packages which help w.r.t. configration topics.
+  - category: dependency-injection
+    title: Dependency Injection
   - category: debugging
     title: Debugging
   - category: development
@@ -294,6 +296,22 @@ projects:
     pypi_id: dj-database-url
     labels: []
     category: configuration
+
+  - name: injector
+    github_id: python-injector/injector
+    pypi_id: injector
+    labels: []
+    category: dependency-injection
+  - name: django_injector
+    github_id: blubber/django_injector
+    pypi_id: django_injector
+    labels: []
+    category: dependency-injection
+  - name: wireup
+    github_id: maldoinc/wireup
+    pypi_id: wireup
+    labels: []
+    category: dependency-injection
 
   - name: django-debug-toolbar
     github_id: jazzband/django-debug-toolbar

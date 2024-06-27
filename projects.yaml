@@ -312,6 +312,16 @@ projects:
     pypi_id: django-guid
     labels: []
     category: logging
+  - name: loguru
+    github_id: Delgan/loguru
+    pypi_id: loguru
+    labels: []
+    category: logging
+  - name: django-loguru
+    github_id: tarsil/django-loguru
+    pypi_id: django-loguru
+    labels: []
+    category: logging
 
   - name: django-allauth
     github_id: pennersr/django-allauth

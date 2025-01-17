@@ -31,7 +31,7 @@ This curated list contains 230 awesome open-source projects with a total of 520K
 - [Debugging](#debugging) _1 projects_
 - [Development](#development) _2 projects_
 - [Logging](#logging) _5 projects_
-- [Application Monitoring (Platforms)](#application-monitoring-platforms) _2 projects_
+- [Application Monitoring (Platforms)](#application-monitoring-platforms) _1 projects_
 - [Authentication and Authorization](#authentication-and-authorization) _17 projects_
 - [Authorization](#authorization) _1 projects_
 - [Task Queues](#task-queues) _5 projects_
@@ -48,7 +48,7 @@ This curated list contains 230 awesome open-source projects with a total of 520K
 - [E-Commerce frameworks based on Django](#e-commerce-frameworks-based-on-django) _4 projects_
 - [Analytics frameworks based on Django](#analytics-frameworks-based-on-django) _1 projects_
 - [Project management frameworks based on Django](#project-management-frameworks-based-on-django) _2 projects_
-- [Monitoring frameworks based on Django](#monitoring-frameworks-based-on-django) _0 projects_
+- [Monitoring frameworks based on Django](#monitoring-frameworks-based-on-django) _1 projects_
 - [Photo management frameworks based on Django](#photo-management-frameworks-based-on-django) _1 projects_
 - [Recipe management frameworks based on Django](#recipe-management-frameworks-based-on-django) _1 projects_
 - [Document management frameworks based on Django](#document-management-frameworks-based-on-django) _1 projects_
@@ -368,7 +368,7 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇36 ·  ⭐ 3K · 📈) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇36 ·  ⭐ 3K) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 97 · 🔀 310 · 📥 140 · 📦 240K · 📋 250 - 25% open · ⏱️ 13.01.2025):
 
@@ -392,7 +392,7 @@ _Packages which add or help working with management commands._
 	pip install dj-database-url
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈33 ·  ⭐ 1.7K · 📈) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈33 ·  ⭐ 1.7K) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-constance) (👨‍💻 150 · 🔀 290 · 📦 2.2K · 📋 300 - 3% open · ⏱️ 14.01.2025):
 
@@ -550,7 +550,7 @@ _Packages which improve logging and debugging._
 	pip install loguru
 	```
 </details>
-<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 3.7K · 📈) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 3.7K) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/hynek/structlog) (👨‍💻 120 · 🔀 230 · 📦 16K · 📋 350 - 8% open · ⏱️ 16.01.2025):
 
@@ -562,7 +562,7 @@ _Packages which improve logging and debugging._
 	pip install structlog
 	```
 </details>
-<details><summary><b><a href="https://github.com/jrobichaud/django-structlog">django-structlog</a></b> (🥉26 ·  ⭐ 450 · 📉) - Structured Logging for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jrobichaud/django-structlog">django-structlog</a></b> (🥉26 ·  ⭐ 450) - Structured Logging for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jrobichaud/django-structlog) (👨‍💻 21 · 🔀 33 · 📦 720 · 📋 67 - 2% open · ⏱️ 13.01.2025):
 
@@ -596,19 +596,7 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/getsentry/sentry">sentry</a></b> (🥇40 ·  ⭐ 40K) - Developer-first error tracking and performance monitoring. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 900 · 🔀 4.2K · 📥 41K · 📦 510 · 📋 14K - 13% open · ⏱️ 17.01.2025):
-
-	```
-	git clone https://github.com/getsentry/sentry
-	```
-- [PyPi](https://pypi.org/project/sentry) (📥 9.8K / month):
-	```
-	pip install sentry
-	```
-</details>
-<details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥉31 ·  ⭐ 2.6K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥇31 ·  ⭐ 2.6K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pydantic/logfire) (👨‍💻 44 · 🔀 83 · 📦 450 · 📋 230 - 27% open · ⏱️ 17.01.2025):
 
@@ -987,7 +975,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install django-rest-passwordreset
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">djangorestframework-simplejwt</a></b> (🥉28 ·  ⭐ 4.1K · 📈) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">djangorestframework-simplejwt</a></b> (🥉28 ·  ⭐ 4.1K) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/djangorestframework-simplejwt) (👨‍💻 120 · 🔀 620 · 📋 480 - 25% open · ⏱️ 13.01.2025):
 
@@ -1314,7 +1302,7 @@ _Packages which add application layer statistic functionality._
 	pip install pytest-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model_bakery</a></b> (🥈27 ·  ⭐ 860 · 📈) - Object factory for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model_bakery</a></b> (🥈27 ·  ⭐ 860) - Object factory for Django. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 58 · 🔀 87 · 📦 4.7K · 📋 150 - 18% open · ⏱️ 06.01.2025):
 
@@ -1514,6 +1502,14 @@ _Project management frameworks which use Django under the hood._
 
 _Monitoring frameworks which use Django under the hood._
 
+<details><summary><b><a href="https://github.com/getsentry/sentry">sentry</a></b> (🥇38 ·  ⭐ 40K · 📉) - Developer-first error tracking and performance monitoring. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 900 · 🔀 4.2K · 📥 41K · 📦 510 · 📋 14K - 13% open · ⏱️ 17.01.2025):
+
+	```
+	git clone https://github.com/getsentry/sentry
+	```
+</details>
 <br>
 
 ## Photo management frameworks based on Django
@@ -1773,7 +1769,7 @@ _Network automation systems which use Django under the hood._
 	pip install django-reversion
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-auditlog">django-auditlog</a></b> (🥈30 ·  ⭐ 1.2K · 📉) - A Django app that keeps a log of changes made to an object. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-auditlog">django-auditlog</a></b> (🥈30 ·  ⭐ 1.2K) - A Django app that keeps a log of changes made to an object. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-auditlog) (👨‍💻 86 · 🔀 380 · 📥 480 · 📦 1.3K · 📋 290 - 24% open · ⏱️ 03.12.2024):
 
@@ -1785,7 +1781,7 @@ _Network automation systems which use Django under the hood._
 	pip install django-auditlog
 	```
 </details>
-<details><summary><b><a href="https://github.com/soynatan/django-easy-audit">django-easy-audit</a></b> (🥉24 ·  ⭐ 760 · 📉) - Yet another Django audit log app, hopefully the simplest one. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/soynatan/django-easy-audit">django-easy-audit</a></b> (🥉24 ·  ⭐ 760) - Yet another Django audit log app, hopefully the simplest one. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/soynatan/django-easy-audit) (👨‍💻 50 · 🔀 180 · 📦 320 · 📋 160 - 49% open · ⏱️ 26.11.2024):
 

@@ -360,11 +360,6 @@ projects:
     pypi_id: logfire
     labels: []
     category: apm
-  - name: sentry
-    github_id: getsentry/sentry
-    pypi_id: sentry
-    labels: []
-    category: apm
 
   - name: django-allauth
     github_id: pennersr/django-allauth

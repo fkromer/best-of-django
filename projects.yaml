@@ -328,6 +328,11 @@ projects:
     pypi_id: tach
     labels: []
     category: development
+  - name: django-fastdev
+    github_id: boxed/django-fastdev
+    pypi_id: django-fastdev
+    labels: []
+    category: development
 
   - name: django-guid
     github_id: snok/django-guid

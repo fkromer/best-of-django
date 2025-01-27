@@ -782,7 +782,7 @@ projects:
     category: inventory-management-system
 
   - name: Gerapy
-    github_id: https://github.com/Gerapy/Gerapy
+    github_id: Gerapy/Gerapy
     labels: []
     category: crawler-management-system
 

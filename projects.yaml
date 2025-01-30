@@ -82,6 +82,9 @@ categories:
   - category: monitoring-framework
     title: Monitoring frameworks based on Django
     subtitle: Monitoring frameworks which use Django under the hood.
+  - category: security-framework
+    title: Security frameworks based on Django
+    subtitle: Security frameworks which use Django under the hood.
   - category: photo-management-framework
     title: Photo management frameworks based on Django
     subtitle: Photo management frameworks which use Django under the hood.
@@ -755,6 +758,11 @@ projects:
     github_id: getsentry/sentry
     labels: []
     category: monitoring-framework
+
+  - name: DefectDojo
+    github_id: DefectDojo/django-DefectDojo
+    labels: []
+    category: security-framework
 
   - name: librephotos
     github_id: LibrePhotos/librephotos

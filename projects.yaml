@@ -85,6 +85,8 @@ categories:
   - category: security-framework
     title: Security frameworks based on Django
     subtitle: Security frameworks which use Django under the hood.
+  - category: grc-framework
+    title: Governance, Risk and Compliance frameworks based on Django
   - category: photo-management-framework
     title: Photo management frameworks based on Django
     subtitle: Photo management frameworks which use Django under the hood.
@@ -763,6 +765,11 @@ projects:
     github_id: DefectDojo/django-DefectDojo
     labels: []
     category: security-framework
+
+  - name: CISO Assistant (Community Edition)
+    github_id: intuitem/ciso-assistant-community
+    labels: []
+    category: grc-framework
 
   - name: librephotos
     github_id: LibrePhotos/librephotos

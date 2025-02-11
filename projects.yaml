@@ -1268,6 +1268,11 @@ projects:
     pypi_id: inertia-django
     labels: []
     category: templates
+  - name: wrabit/django-cotton
+    github_id: wrabit/django-cotton
+    pypi_id: django-cotton
+    labels: []
+    category: templates
 
   - name: wemake-django-template
     github_id: wemake-services/wemake-django-template

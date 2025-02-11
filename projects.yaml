@@ -89,6 +89,8 @@ categories:
     subtitle: Security frameworks which use Django under the hood.
   - category: grc-framework
     title: Governance, Risk and Compliance frameworks based on Django
+  - category: pam-framework
+    title: Privileged Access Management frameworks based on Django
   - category: photo-management-framework
     title: Photo management frameworks based on Django
     subtitle: Photo management frameworks which use Django under the hood.
@@ -778,6 +780,11 @@ projects:
     github_id: intuitem/ciso-assistant-community
     labels: []
     category: grc-framework
+
+  - name: JumpServer (Community Edition)
+    github_id: jumpserver/jumpserver
+    labels: []
+    category: pam-framework
 
   - name: librephotos
     github_id: LibrePhotos/librephotos

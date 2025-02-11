@@ -67,6 +67,8 @@ categories:
     subtitle: Packages which add application layer statistic functionality.
   - category: testing
     title: Testing
+  - category: vulnerability-database
+    title: Vulnerability databases based on Django
   - category: cms-framework
     title: CMS frameworks based on Django
     subtitle: Content Management Systems which use Django under the hood.
@@ -703,6 +705,12 @@ projects:
     pypi_id: factory_boy
     labels: []
     category: testing
+
+  - name: vulnerablecode
+    github_id: aboutcode-org/vulnerablecode
+    pypi_id: vulnerablecode
+    labels: []
+    category: vulnerability-database
 
   - name: wagtail
     github_id: wagtail/wagtail

@@ -60,7 +60,7 @@ This curated list contains 240 awesome open-source projects with a total of 570K
 - [Inventory management system based on Django](#inventory-management-system-based-on-django) _1 projects_
 - [Crawler management system based on Django](#crawler-management-system-based-on-django) _1 projects_
 - [Network automation system based on Django](#network-automation-system-based-on-django) _1 projects_
-- [Test automation systems based on Django](#test-automation-systems-based-on-django) _1 projects_
+- [Test automation systems based on Django](#test-automation-systems-based-on-django) _2 projects_
 - [Fields (encrypted)](#fields-encrypted) _6 projects_
 - [Fields (phone numbers)](#fields-phone-numbers) _2 projects_
 - [Fields (addresses)](#fields-addresses) _5 projects_
@@ -1707,9 +1707,10 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://gitlab.com/lava/lava">Linaro Automated Validation Architecture (LAVA)</a></b> (🥇7 ·  ⭐ 14 · 💤) - LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kernelci/dashboard">KernelCI (distributed test automation system focused on upstream kernel development) dashboard backend.</a></b> (🥇14 ·  ⭐ 3 · ➕) - KernelCI web dashboard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://gitlab.com/lava/lava">Linaro Automated Validation Architecture (LAVA)</a></b> (🥉7 ·  ⭐ 14 · 💤) - LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running.. <code>❗Unlicensed</code>
 </details>
 <br>
 

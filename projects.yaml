@@ -114,8 +114,6 @@ categories:
     subtitle: Network automation systems which use Django under the hood.
   - category: test-automation-system
     title: Test automation systems based on Django
-  - category: 
-    title: Fields (encrypted)
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers

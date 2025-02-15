@@ -828,6 +828,16 @@ projects:
     labels: []
     category: test-automation-system
 
+  - name: Linaro Android Report
+    gitlab_id: Linaro/android-report
+    labels: []
+    category: test-automation-system
+
+  - name: Squad (Software Quality Dashboard for LAVA) backend.
+    gitlab_id: Linaro/squad/squad
+    labels: []
+    category: test-automation-system
+
   - name: KernelCI (distributed test automation system focused on upstream kernel development) dashboard backend.
     github_id: kernelci/dashboard
     labels: []
@@ -840,11 +850,6 @@ projects:
 
   - name: Avocado (fully automated testing primarily designed to test the Linux kernel) server backend.
     github_id: avocado-framework/avocado-server
-    labels: []
-    category: test-automation-system
-
-  - name: Squad (Software Quality Dashboard for LAVA) backend.
-    gitlab_id: Linaro/squad/squad
     labels: []
     category: test-automation-system
 

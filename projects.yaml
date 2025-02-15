@@ -112,6 +112,10 @@ categories:
   - category: network-automation-system
     title: Network automation system based on Django
     subtitle: Network automation systems which use Django under the hood.
+  - category: test-automation-system
+    title: Test automation systems based on Django
+  - category: 
+    title: Fields (encrypted)
   - category: encrpyted-fields
     title: Fields (encrypted)
   - category: fields-phone-numbers
@@ -820,6 +824,11 @@ projects:
     github_id: netbox-community/netbox
     labels: []
     category: network-automation-system
+
+  - name: Linaro Automated Validation Architecture (LAVA)
+    gitlab_id: lava/lava
+    labels: []
+    category: test-automation-system
 
   - name: django-concurrency
     github_id: saxix/django-concurrency

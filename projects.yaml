@@ -833,6 +833,11 @@ projects:
     labels: []
     category: test-automation-system
 
+  - name: Autotest (fully automated testing primarily designed to test the Linux kernel) dashboard backend.
+    github_id: autotest/autotest
+    labels: []
+    category: test-automation-system
+
   - name: django-concurrency
     github_id: saxix/django-concurrency
     pypi_id: django-concurrency

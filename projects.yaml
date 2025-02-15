@@ -828,6 +828,11 @@ projects:
     labels: []
     category: test-automation-system
 
+  - name: KernelCI (distributed test automation system focused on upstream kernel development) dashboard backend.
+    github_id: kernelci/dashboard
+    labels: []
+    category: test-automation-system
+
   - name: django-concurrency
     github_id: saxix/django-concurrency
     pypi_id: django-concurrency

@@ -60,7 +60,7 @@ This curated list contains 240 awesome open-source projects with a total of 570K
 - [Inventory management system based on Django](#inventory-management-system-based-on-django) _1 projects_
 - [Crawler management system based on Django](#crawler-management-system-based-on-django) _1 projects_
 - [Network automation system based on Django](#network-automation-system-based-on-django) _1 projects_
-- [Test automation systems based on Django](#test-automation-systems-based-on-django) _2 projects_
+- [Test automation systems based on Django](#test-automation-systems-based-on-django) _5 projects_
 - [Fields (encrypted)](#fields-encrypted) _6 projects_
 - [Fields (phone numbers)](#fields-phone-numbers) _2 projects_
 - [Fields (addresses)](#fields-addresses) _5 projects_
@@ -537,7 +537,7 @@ _Packages which add or help working with management commands._
 </details>
 <details><summary><b><a href="https://github.com/boxed/django-fastdev">django-fastdev</a></b> (🥉17 ·  ⭐ 170) - An app to make it safer, faster and more fun to develop in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/boxed/django-fastdev) (👨‍💻 11 · 🔀 15 · 📦 97 · 📋 34 - 47% open · ⏱️ 31.12.2024):
+- [GitHub](https://github.com/boxed/django-fastdev) (👨‍💻 11 · 🔀 15 · 📦 98 · 📋 34 - 47% open · ⏱️ 31.12.2024):
 
 	```
 	git clone https://github.com/boxed/django-fastdev
@@ -1060,7 +1060,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 </details>
 <details><summary><b><a href="https://github.com/eadwinCode/django-ninja-extra">django-ninja-extra</a></b> (🥈23 ·  ⭐ 430) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/eadwinCode/django-ninja-extra) (👨‍💻 20 · 🔀 33 · 📋 78 - 21% open · ⏱️ 26.01.2025):
+- [GitHub](https://github.com/eadwinCode/django-ninja-extra) (👨‍💻 20 · 🔀 33 · 📋 78 - 21% open · ⏱️ 15.02.2025):
 
 	```
 	git clone https://github.com/eadwinCode/django-ninja-extra
@@ -1515,7 +1515,7 @@ _Project management frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/makeplane/plane">plane</a></b> (🥇27 ·  ⭐ 32K) - Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/makeplane/plane) (👨‍💻 100 · 🔀 1.9K · 📥 690 · 📋 1.1K - 36% open · ⏱️ 14.02.2025):
+- [GitHub](https://github.com/makeplane/plane) (👨‍💻 100 · 🔀 1.9K · 📥 700 · 📋 1.1K - 36% open · ⏱️ 14.02.2025):
 
 	```
 	git clone https://github.com/makeplane/plane
@@ -1707,10 +1707,20 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary>Show 2 hidden projects...</summary>
+<details><summary><b><a href="https://github.com/autotest/autotest">Autotest (fully automated testing primarily designed to test the Linux kernel) dashboard backend.</a></b> (🥇18 ·  ⭐ 710 · 💤) - Autotest - Fully automated tests on Linux. <code>❗Unlicensed</code></summary>
 
-- <b><a href="https://github.com/kernelci/dashboard">KernelCI (distributed test automation system focused on upstream kernel development) dashboard backend.</a></b> (🥇14 ·  ⭐ 3 · ➕) - KernelCI web dashboard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- [GitHub](https://github.com/autotest/autotest) (👨‍💻 300 · 🔀 340 · 📦 35 · 📋 400 - 28% open · ⏱️ 01.12.2023):
+
+	```
+	git clone https://github.com/autotest/autotest
+	```
+</details>
+<details><summary>Show 4 hidden projects...</summary>
+
+- <b><a href="https://github.com/kernelci/dashboard">KernelCI (distributed test automation system focused on upstream kernel development) dashboard backend.</a></b> (🥈14 ·  ⭐ 3) - KernelCI web dashboard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://gitlab.com/lava/lava">Linaro Automated Validation Architecture (LAVA)</a></b> (🥉7 ·  ⭐ 14 · 💤) - LAVA is a continuous integration system for deploying operating systems onto physical and virtual hardware for running.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/avocado-framework/avocado-server">Avocado (fully automated testing primarily designed to test the Linux kernel) server backend.</a></b> (🥉6 ·  ⭐ 3 · 💀) - REST based interface for applications to interact with an avocado server. <code>❗Unlicensed</code>
+- <b><a href="https://gitlab.com/Linaro/squad/squad">Squad (Software Quality Dashboard for LAVA) backend.</a></b> (🥉1 · ➕) -  <code>❗Unlicensed</code>
 </details>
 <br>
 

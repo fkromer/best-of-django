@@ -838,6 +838,16 @@ projects:
     labels: []
     category: test-automation-system
 
+  - name: Avocado (fully automated testing primarily designed to test the Linux kernel) server backend.
+    github_id: avocado-framework/avocado-server
+    labels: []
+    category: test-automation-system
+
+  - name: Squad (Software Quality Dashboard for LAVA) backend.
+    gitlab_id: Linaro/squad/squad
+    labels: []
+    category: test-automation-system
+
   - name: django-concurrency
     github_id: saxix/django-concurrency
     pypi_id: django-concurrency

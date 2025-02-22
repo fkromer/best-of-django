@@ -777,6 +777,10 @@ projects:
     github_id: DefectDojo/django-DefectDojo
     labels: []
     category: security-framework
+  - name: Mobile Security Framework (MobSF)
+    github_id: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+    labels: []
+    category: security-framework
 
   - name: CISO Assistant (Community Edition)
     github_id: intuitem/ciso-assistant-community

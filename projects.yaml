@@ -778,7 +778,7 @@ projects:
     labels: []
     category: security-framework
   - name: Mobile Security Framework (MobSF)
-    github_id: https://github.com/MobSF/Mobile-Security-Framework-MobSF
+    github_id: MobSF/Mobile-Security-Framework-MobSF
     labels: []
     category: security-framework
 

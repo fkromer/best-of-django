@@ -1456,6 +1456,10 @@ projects:
     github_id: apptension/saas-boilerplate
     labels: []
     category: project-templates
+  - name: Lithium
+    github_id: wsvincent/lithium
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

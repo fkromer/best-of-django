@@ -15,7 +15,7 @@
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 250 awesome open-source projects with a total of 570K stars grouped into 63 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 250 awesome open-source projects with a total of 590K stars grouped into 63 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -50,7 +50,7 @@ This curated list contains 250 awesome open-source projects with a total of 570K
 - [Analytics frameworks based on Django](#analytics-frameworks-based-on-django) _1 projects_
 - [Project management frameworks based on Django](#project-management-frameworks-based-on-django) _2 projects_
 - [Monitoring frameworks based on Django](#monitoring-frameworks-based-on-django) _1 projects_
-- [Security frameworks based on Django](#security-frameworks-based-on-django) _1 projects_
+- [Security frameworks based on Django](#security-frameworks-based-on-django) _2 projects_
 - [Governance, Risk and Compliance frameworks based on Django](#governance-risk-and-compliance-frameworks-based-on-django) _1 projects_
 - [Privileged Access Management frameworks based on Django](#privileged-access-management-frameworks-based-on-django) _1 projects_
 - [Photo management frameworks based on Django](#photo-management-frameworks-based-on-django) _1 projects_
@@ -157,7 +157,7 @@ _Packages to replace or improve the default Django admin interface._
 	pip install django-grappelli
 	```
 </details>
-<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉26 ·  ⭐ 930 · 📉) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉26 ·  ⭐ 930) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 17 · 🔀 94 · 📦 440 · 📋 190 - 1% open · ⏱️ 12.12.2024):
 
@@ -301,7 +301,7 @@ _Packages which add or help working with management commands._
 	pip install django-dbbackup
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-commons/django-typer">django-typer</a></b> (🥉22 ·  ⭐ 130 · 📈) - Use Typer (type hints) to define the interface for your Django management commands. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-commons/django-typer">django-typer</a></b> (🥉22 ·  ⭐ 130) - Use Typer (type hints) to define the interface for your Django management commands. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/django-commons/django-typer) (👨‍💻 6 · 🔀 2 · 📥 2 · 📦 50 · 📋 120 - 9% open · ⏱️ 17.02.2025):
 
@@ -968,7 +968,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/encode/django-rest-framework">django-rest-framework</a></b> (🥇39 ·  ⭐ 29K · 📉) - Web APIs for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/encode/django-rest-framework">django-rest-framework</a></b> (🥇39 ·  ⭐ 29K) - Web APIs for Django. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/encode/django-rest-framework) (👨‍💻 1.4K · 🔀 6.8K · 📦 770K · ⏱️ 17.02.2025):
 
@@ -1561,6 +1561,14 @@ _Security frameworks which use Django under the hood._
 	git clone https://github.com/DefectDojo/django-DefectDojo
 	```
 </details>
+<details><summary><b><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">Mobile Security Framework (MobSF)</a></b> (🥉27 ·  ⭐ 18K · 📈) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (👨‍💻 100 · 🔀 3.2K · 📦 3 · 📋 1.5K - 0% open · ⏱️ 05.02.2025):
+
+	```
+	git clone https://github.com/MobSF/Mobile-Security-Framework-MobSF
+	```
+</details>
 <br>
 
 ## Governance, Risk and Compliance frameworks based on Django
@@ -1877,7 +1885,7 @@ _Network automation systems which use Django under the hood._
 	pip install django-reversion
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-auditlog">django-auditlog</a></b> (🥈31 ·  ⭐ 1.2K · 📈) - A Django app that keeps a log of changes made to an object. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-auditlog">django-auditlog</a></b> (🥈31 ·  ⭐ 1.2K) - A Django app that keeps a log of changes made to an object. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-auditlog) (👨‍💻 86 · 🔀 380 · 📥 490 · 📦 1.4K · 📋 300 - 25% open · ⏱️ 19.02.2025):
 
@@ -1971,7 +1979,7 @@ _Network automation systems which use Django under the hood._
 	pip install django-sms
 	```
 </details>
-<details><summary><b><a href="https://github.com/Ninjaclasher/django-discord-integration">django-discord-integration</a></b> (🥉9 ·  ⭐ 22 · 📉) - Discord integration for Django, supporting error reporting via webhooks. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Ninjaclasher/django-discord-integration">django-discord-integration</a></b> (🥉9 ·  ⭐ 22) - Discord integration for Django, supporting error reporting via webhooks. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/Ninjaclasher/django-discord-integration) (👨‍💻 2 · 🔀 1 · 📦 7 · 📋 3 - 33% open · ⏱️ 28.05.2024):
 
@@ -1993,7 +2001,7 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jschneier/django-storages">django-storages</a></b> (🥇36 ·  ⭐ 2.8K · 📈) - https://django-storages.readthedocs.io/. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jschneier/django-storages">django-storages</a></b> (🥇36 ·  ⭐ 2.8K) - https://django-storages.readthedocs.io/. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jschneier/django-storages) (👨‍💻 280 · 🔀 820 · 📦 190K · 📋 730 - 14% open · ⏱️ 18.02.2025):
 
@@ -2542,7 +2550,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇32 ·  ⭐ 1.7K · 📈) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇32 ·  ⭐ 1.7K) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/anymail/django-anymail) (👨‍💻 67 · 🔀 130 · 📥 160 · 📦 7.2K · 📋 230 - 1% open · ⏱️ 22.02.2025):
 
@@ -2608,7 +2616,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/adamchainz/django-htmx">django-htmx</a></b> (🥇28 ·  ⭐ 1.7K · 📈) - Extensions for using Django with htmx. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adamchainz/django-htmx">django-htmx</a></b> (🥇28 ·  ⭐ 1.7K) - Extensions for using Django with htmx. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/adamchainz/django-htmx) (👨‍💻 24 · 🔀 140 · 📦 3.8K · 📋 79 - 5% open · ⏱️ 19.02.2025):
 
@@ -2747,20 +2755,20 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	pip install falco
 	```
 </details>
+<details><summary><b><a href="https://github.com/wsvincent/lithium">Lithium</a></b> (🥈14 ·  ⭐ 2.3K · 📈) - Django starter project with. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/wsvincent/lithium) (👨‍💻 20 · 🔀 410 · 📋 45 - 8% open · ⏱️ 22.02.2025):
+
+	```
+	git clone https://github.com/wsvincent/lithium
+	```
+</details>
 <details><summary><b><a href="https://github.com/ilikerobots/cookiecutter-vue-django">cookiecutter-vue-django</a></b> (🥈14 ·  ⭐ 220 · 💤) - Vue 3 + Vite + Django with no compromises. Use Vue SFCs directly in Django Templates, DRF not required. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/ilikerobots/cookiecutter-vue-django) (👨‍💻 400 · 🔀 25 · 📋 15 - 26% open · ⏱️ 20.11.2023):
 
 	```
 	git clone https://github.com/ilikerobots/cookiecutter-vue-django
-	```
-</details>
-<details><summary><b><a href="https://github.com/wsvincent/lithium">Lithium</a></b> (🥈13 ·  ⭐ 2.3K · ➕) - Django starter project with. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/wsvincent/lithium) (👨‍💻 20 · 🔀 410 · 📋 44 - 9% open · ⏱️ 22.02.2025):
-
-	```
-	git clone https://github.com/wsvincent/lithium
 	```
 </details>
 <details><summary><b><a href="https://github.com/gone/django-hydra">django-hydra</a></b> (🥈13 ·  ⭐ 90) - A django/htmx/alpine/tailwind project template. <code>❗Unlicensed</code></summary>

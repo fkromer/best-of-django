@@ -781,6 +781,10 @@ projects:
     github_id: MobSF/Mobile-Security-Framework-MobSF
     labels: []
     category: security-framework
+  - name: Intel owl
+    github_id: intelowlproject/IntelOwl
+    labels: []
+    category: security-framework
 
   - name: CISO Assistant (Community Edition)
     github_id: intuitem/ciso-assistant-community

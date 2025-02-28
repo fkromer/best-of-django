@@ -344,6 +344,11 @@ projects:
     pypi_id: django-fastdev
     labels: []
     category: development
+  - name: django-harlequin
+    github_id: adamchainz/django-harlequin
+    pypi_id: django-harlequin
+    labels: []
+    category: development
 
   - name: django-guid
     github_id: snok/django-guid

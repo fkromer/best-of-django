@@ -1473,6 +1473,10 @@ projects:
     github_id: wsvincent/lithium
     labels: []
     category: project-templates
+  - name: Zango
+    github_id: Healthlane-Technologies/Zango
+    labels: []
+    category: project-templates
 
   - name: whitenoise
     github_id: evansd/whitenoise

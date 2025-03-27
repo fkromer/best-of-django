@@ -35,6 +35,8 @@ categories:
     title: Debugging
   - category: development
     title: Development
+  - category: type-stubs
+    title: Type stubs
   - category: logging
     title: Logging
     subtitle: Packages which improve logging and debugging.
@@ -349,6 +351,17 @@ projects:
     pypi_id: django-harlequin
     labels: []
     category: development
+
+  - name: django-stubs
+    github_id: typeddjango/django-stubs
+    pypi_id: django-stubs
+    labels: []
+    category: type-stubs
+  - name: djangorestframework-stubs
+    github_id: typeddjango/djangorestframework-stubs
+    pypi_id: djangorestframework-stubs
+    labels: []
+    category: type-stubs
 
   - name: django-guid
     github_id: snok/django-guid

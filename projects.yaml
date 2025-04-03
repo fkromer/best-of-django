@@ -132,6 +132,8 @@ categories:
     title: Event Bus
   - category: event-sourcing
     title: Event Sourcing
+  - category: event-streaming
+    title: Event Streaming
   - category: locking
     title: Locking
   - category: configuration
@@ -1076,6 +1078,12 @@ projects:
     pypi_id: eventsourcing-axonserver
     labels: []
     category: event-sourcing
+
+  - name: FastStream
+    github_id: ag2ai/faststream
+    pypi_id: faststream
+    labels: []
+    category: event-streaming
 
   - name: django-split-settings
     github_id: wemake-services/django-split-settings

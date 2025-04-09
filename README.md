@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-260-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-270-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 260 awesome open-source projects with a total of 630K stars grouped into 67 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 270 awesome open-source projects with a total of 630K stars grouped into 68 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -32,7 +32,8 @@ This curated list contains 260 awesome open-source projects with a total of 630K
 - [Development](#development) _4 projects_
 - [Type stubs](#type-stubs) _2 projects_
 - [Logging](#logging) _5 projects_
-- [Application Monitoring (Platforms)](#application-monitoring-platforms) _9 projects_
+- [Application Monitoring (Platforms)](#application-monitoring-platforms) _4 projects_
+- [Application Monitoring SaaS](#application-monitoring-saas) _8 projects_
 - [Authentication and Authorization](#authentication-and-authorization) _17 projects_
 - [Authorization](#authorization) _1 projects_
 - [Task Queues](#task-queues) _5 projects_
@@ -660,16 +661,6 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗&nbsp;<b><a href="https://www.datadoghq.com/product/apm/">DataDog APM</a></b>  
-
-🔗&nbsp;<b><a href="https://sentry.io/for/performance/">Sentry APM</a></b>  
-
-🔗&nbsp;<b><a href="https://www.scoutapm.com/">Scout APM</a></b>  
-
-🔗&nbsp;<b><a href="https://www.solarwinds.com/solarwinds-observability">Solarwinds Observability SaaS</a></b>  
-
-🔗&nbsp;<b><a href="https://www.atatus.com/application-monitoring/">atatus APM</a></b>  
-
 <details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥇32 ·  ⭐ 2.9K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pydantic/logfire) (👨‍💻 50 · 🔀 110 · 📦 1.1K · 📋 290 - 32% open · ⏱️ 09.04.2025):
@@ -694,7 +685,7 @@ _Packages which improve logging and debugging._
 	pip install django-prometheus
 	```
 </details>
-<details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉27 ·  ⭐ 8.1K · ➕) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉27 ·  ⭐ 8.1K) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/highlight/highlight) (👨‍💻 81 · 🔀 400 · 📦 360 · 📋 2.8K - 10% open · ⏱️ 08.04.2025):
 
@@ -702,7 +693,7 @@ _Packages which improve logging and debugging._
 	git clone https://github.com/highlight/highlight
 	```
 </details>
-<details><summary><b><a href="https://github.com/Checkmk/checkmk">CheckMK</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Checkmk - Best-in-class infrastructure & application monitoring. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Checkmk/checkmk">CheckMK</a></b> (🥉23 ·  ⭐ 1.8K) - Checkmk - Best-in-class infrastructure & application monitoring. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
 - [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 360 · 🔀 470 · ⏱️ 09.04.2025):
 
@@ -710,6 +701,28 @@ _Packages which improve logging and debugging._
 	git clone https://github.com/Checkmk/checkmk
 	```
 </details>
+<br>
+
+## Application Monitoring SaaS
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+🔗&nbsp;<b><a href="https://www.atatus.com/application-monitoring/">atatus APM</a></b>  
+
+🔗&nbsp;<b><a href="https://checkmk.com/product/checkmk-cloud-saas">CheckMK Cloud SaaS</a></b>  
+
+🔗&nbsp;<b><a href="https://www.datadoghq.com/product/apm/">DataDog APM</a></b>  
+
+🔗&nbsp;<b><a href="https://pydantic.dev/logfire">Pydantic Logfire</a></b>  
+
+🔗&nbsp;<b><a href="https://www.paessler.com/application-monitoring">Paessler Application Monitoring</a></b>  
+
+🔗&nbsp;<b><a href="https://www.scoutapm.com/">Scout APM</a></b>  
+
+🔗&nbsp;<b><a href="https://sentry.io/for/performance/">Sentry APM</a></b>  
+
+🔗&nbsp;<b><a href="https://www.solarwinds.com/solarwinds-observability">Solarwinds Observability SaaS</a></b>  
+
 <br>
 
 ## Authentication and Authorization
@@ -1546,6 +1559,18 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install saleor
 	```
 </details>
+<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉26 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 990 · 📦 230 · 📋 380 - 23% open · ⏱️ 28.02.2021):
+
+	```
+	git clone https://github.com/awesto/django-shop
+	```
+- [PyPi](https://pypi.org/project/django-shop) (📥 3.2K / month):
+	```
+	pip install django-shop
+	```
+</details>
 <details><summary><b><a href="https://github.com/shuup/shuup">shuup</a></b> (🥉25 ·  ⭐ 2.3K · 💤) - E-Commerce Platform. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/shuup/shuup) (👨‍💻 67 · 🔀 1.1K · 📥 710 · 📦 180 · 📋 440 - 33% open · ⏱️ 18.08.2021):
@@ -1556,18 +1581,6 @@ _E-Commerce frameworks which use Django under the hood._
 - [PyPi](https://pypi.org/project/shuup) (📥 14K / month):
 	```
 	pip install shuup
-	```
-</details>
-<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉22 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 990 · 📋 380 - 23% open · ⏱️ 28.02.2021):
-
-	```
-	git clone https://github.com/awesto/django-shop
-	```
-- [PyPi](https://pypi.org/project/django-shop) (📥 3.2K / month):
-	```
-	pip install django-shop
 	```
 </details>
 <br>
@@ -1796,7 +1809,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/netbox-community/netbox">netbox</a></b> (🥇32 ·  ⭐ 17K) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 400 · 🔀 2.7K · 📋 11K - 3% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 400 · 🔀 2.7K · 📋 11K - 3% open · ⏱️ 09.04.2025):
 
 	```
 	git clone https://github.com/netbox-community/netbox
@@ -2906,15 +2919,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/ilikerobots/cookiecutter-vue-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/gone/django-hydra">django-hydra</a></b> (🥈11 ·  ⭐ 90) - A django/htmx/alpine/tailwind project template. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/gone/django-hydra) (👨‍💻 39 · 🔀 10 · 📋 16 - 18% open · ⏱️ 28.01.2025):
-
-	```
-	git clone https://github.com/Lightmatter/django-hydra
-	```
-</details>
-<details><summary><b><a href="https://github.com/jayfk/launchr">launchr</a></b> (🥉10 ·  ⭐ 240 · 💤) - Launchr is an open source SaaS starter kit, based on Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jayfk/launchr">launchr</a></b> (🥈10 ·  ⭐ 240 · 💤) - Launchr is an open source SaaS starter kit, based on Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jayfk/launchr) (🔀 41 · 📋 25 - 8% open · ⏱️ 23.01.2021):
 
@@ -2922,7 +2927,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/jayfk/launchr
 	```
 </details>
-<details><summary><b><a href="https://github.com/stribny/sidewinder">sidewinder</a></b> (🥉10 ·  ⭐ 210) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stribny/sidewinder">sidewinder</a></b> (🥈10 ·  ⭐ 210) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stribny/sidewinder) (🔀 13 · 📋 29 - 13% open · ⏱️ 27.04.2024):
 
@@ -2930,7 +2935,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/stribny/sidewinder
 	```
 </details>
-<details><summary><b><a href="https://github.com/amerkurev/django-docker-template">django-docker-template</a></b> (🥉10 ·  ⭐ 200) - Dockerized Django with Postgres, Gunicorn, and Traefik or Caddy (with auto renew Lets Encrypt). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/amerkurev/django-docker-template">django-docker-template</a></b> (🥈10 ·  ⭐ 200) - Dockerized Django with Postgres, Gunicorn, and Traefik or Caddy (with auto renew Lets Encrypt). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/amerkurev/django-docker-template) (👨‍💻 6 · 🔀 38 · 📋 12 - 25% open · ⏱️ 01.04.2025):
 
@@ -2938,12 +2943,20 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/amerkurev/django-docker-template
 	```
 </details>
-<details><summary><b><a href="https://github.com/thorgate/django-project-template">django-project-template</a></b> (🥉10 ·  ⭐ 120) - Thorgates Django project template - Django, React, Sass, optional Docker and more. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/thorgate/django-project-template">django-project-template</a></b> (🥈10 ·  ⭐ 120) - Thorgates Django project template - Django, React, Sass, optional Docker and more. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/thorgate/django-project-template) (👨‍💻 34 · 🔀 16 · 📋 5 - 40% open · ⏱️ 14.05.2024):
 
 	```
 	git clone https://github.com/thorgate/django-project-template
+	```
+</details>
+<details><summary><b><a href="https://github.com/gone/django-hydra">django-hydra</a></b> (🥈10 ·  ⭐ 90 · 📉) - A django/htmx/alpine/tailwind project template. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/gone/django-hydra) (👨‍💻 39 · 🔀 10 · 📋 16 - 18% open · ⏱️ 28.01.2025):
+
+	```
+	git clone https://github.com/Lightmatter/django-hydra
 	```
 </details>
 <details><summary><b><a href="https://github.com/jefftriplett/django-startproject">django-startproject</a></b> (🥉9 ·  ⭐ 250) - Django Start Project template with batteries. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -2972,7 +2985,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-- <b><a href="https://github.com/jpbruinsslot/docker-django">docker-django</a></b> (🥉10 ·  ⭐ 180 · 💀) - A project to get you started with Docker and Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/jpbruinsslot/docker-django">docker-django</a></b> (🥈10 ·  ⭐ 180 · 💀) - A project to get you started with Docker and Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/erayerdin/sos-django-template">sos-django-template</a></b> (🥉8 ·  ⭐ 24 · 💤) - SOS Django Template is a starter template for new Django projects with modern defaults, power cable included. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
 - <b><a href="https://github.com/bfirsh/django-docker-heroku-template">django-docker-heroku-template</a></b> (🥉3 ·  ⭐ 36 · 💤) - Get a Django app up and running in dev, test, and production with best practices in 10 minutes. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/digipodium/django-bootstrap-htmx-template-2023">django-bootstrap-htmx-template-2023</a></b> ( ⭐ 2 · 💤) - Django Website Template 2023 is a ready-to-use template for building websites using Django, Bootstrap 5, and Htmx. <code>❗Unlicensed</code>

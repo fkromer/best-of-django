@@ -42,6 +42,8 @@ categories:
     subtitle: Packages which improve logging and debugging.
   - category: apm
     title: Application Monitoring (Platforms)
+  - categy: aps
+    title: Application Monitoring SaaS
   - category: authentication-authorization
     title: Authentication and Authorization
   - category: authorization
@@ -403,11 +405,6 @@ projects:
     github_id: highlight/highlight
     labels: []
     category: apm
-  - name: DataDog APM
-    homepage: https://www.datadoghq.com/product/apm/
-    resource: True
-    labels: []
-    category: apm
   - name: logfire
     github_id: pydantic/logfire
     pypi_id: logfire
@@ -418,26 +415,47 @@ projects:
     pypi_id: django-prometheus
     labels: []
     category: apm
-  - name: Sentry APM
-    homepage: https://sentry.io/for/performance/
-    resource: True
-    labels: []
-    category: apm
-  - name: Scout APM
-    homepage: https://www.scoutapm.com/
-    resource: True
-    labels: []
-    category: apm
-  - name: Solarwinds Observability SaaS
-    homepage: https://www.solarwinds.com/solarwinds-observability
-    resource: True
-    labels: []
-    category: apm
+
   - name: atatus APM
     homepage: https://www.atatus.com/application-monitoring/
     resource: True
     labels: []
-    category: apm
+    category: aps
+  - name: CheckMK Cloud SaaS
+    homepage: https://checkmk.com/product/checkmk-cloud-saas
+    resource: True
+    labels: []
+    category: aps
+  - name: DataDog APM
+    homepage: https://www.datadoghq.com/product/apm/
+    resource: True
+    labels: []
+    category: aps
+  - name: Pydantic Logfire
+    homepage: https://pydantic.dev/logfire
+    resource: True
+    labels: []
+    category: aps
+  - name: Paessler Application Monitoring
+    homepage: https://www.paessler.com/application-monitoring
+    resource: True
+    labels: []
+    category: aps
+  - name: Scout APM
+    homepage: https://www.scoutapm.com/
+    resource: True
+    labels: []
+    category: aps
+  - name: Sentry APM
+    homepage: https://sentry.io/for/performance/
+    resource: True
+    labels: []
+    category: aps
+  - name: Solarwinds Observability SaaS
+    homepage: https://www.solarwinds.com/solarwinds-observability
+    resource: True
+    labels: []
+    category: aps
 
   - name: django-allauth
     github_id: pennersr/django-allauth

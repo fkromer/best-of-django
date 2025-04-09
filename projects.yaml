@@ -403,6 +403,11 @@ projects:
     github_id: highlight/highlight
     labels: []
     category: apm
+  - name: DataDog APM
+    homepage: https://www.datadoghq.com/product/apm/
+    resource: True
+    labels: []
+    category: apm
   - name: logfire
     github_id: pydantic/logfire
     pypi_id: logfire
@@ -411,6 +416,16 @@ projects:
   - name: django-prometheus
     github_id: korfuri/django-prometheus
     pypi_id: django-prometheus
+    labels: []
+    category: apm
+  - name: Sentry APM
+    homepage: https://sentry.io/for/performance/
+    resource: True
+    labels: []
+    category: apm
+  - name: Scout APM
+    homepage: https://www.scoutapm.com/
+    resource: True
     labels: []
     category: apm
   - name: Solarwinds Observability SaaS

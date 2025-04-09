@@ -796,6 +796,10 @@ projects:
     github_id: getsentry/sentry
     labels: []
     category: monitoring-framework
+  - name: openwisp-monitoring
+    github_id: openwisp/openwisp-monitoring
+    labels: []
+    category: openwisp-monitoring
 
   - name: DefectDojo
     github_id: DefectDojo/django-DefectDojo

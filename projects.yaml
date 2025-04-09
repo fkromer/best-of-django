@@ -42,7 +42,7 @@ categories:
     subtitle: Packages which improve logging and debugging.
   - category: apm
     title: Application Monitoring (Platforms)
-  - categy: aps
+  - category: aps
     title: Application Monitoring SaaS
   - category: authentication-authorization
     title: Authentication and Authorization

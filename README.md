@@ -15,7 +15,7 @@
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 260 awesome open-source projects with a total of 620K stars grouped into 67 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 260 awesome open-source projects with a total of 630K stars grouped into 67 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -32,7 +32,7 @@ This curated list contains 260 awesome open-source projects with a total of 620K
 - [Development](#development) _4 projects_
 - [Type stubs](#type-stubs) _2 projects_
 - [Logging](#logging) _5 projects_
-- [Application Monitoring (Platforms)](#application-monitoring-platforms) _4 projects_
+- [Application Monitoring (Platforms)](#application-monitoring-platforms) _9 projects_
 - [Authentication and Authorization](#authentication-and-authorization) _17 projects_
 - [Authorization](#authorization) _1 projects_
 - [Task Queues](#task-queues) _5 projects_
@@ -282,7 +282,7 @@ _Packages to replace or improve the default Django admin interface._
 
 _Packages which add or help working with management commands._
 
-<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇40 ·  ⭐ 6.7K · 📈) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇40 ·  ⭐ 6.7K) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 590 · 🔀 1.1K · 📦 250K · 📋 910 - 19% open · ⏱️ 09.04.2025):
 
@@ -348,7 +348,7 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥇30 ·  ⭐ 2.2K · 📈) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥇30 ·  ⭐ 2.2K) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/Suor/django-cacheops) (👨‍💻 71 · 🔀 220 · 📦 1.5K · 📋 340 - 4% open · ⏱️ 04.04.2025):
 
@@ -378,7 +378,7 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇35 ·  ⭐ 3.1K · 📈) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇35 ·  ⭐ 3.1K) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 97 · 🔀 310 · 📥 140 · 📦 260K · 📋 260 - 25% open · ⏱️ 13.01.2025):
 
@@ -390,7 +390,7 @@ _Packages which add or help working with management commands._
 	pip install django-environ
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈32 ·  ⭐ 1.8K · 📉) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈32 ·  ⭐ 1.8K) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-constance) (👨‍💻 150 · 🔀 290 · 📦 2.3K · 📋 300 - 4% open · ⏱️ 04.02.2025):
 
@@ -604,7 +604,7 @@ _Packages which improve logging and debugging._
 
 <details><summary><b><a href="https://github.com/Delgan/loguru">loguru</a></b> (🥇38 ·  ⭐ 21K) - Python logging made (stupidly) simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 66 · 🔀 720 · 📦 120K · 📋 1.1K - 19% open · ⏱️ 01.03.2025):
+- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 66 · 🔀 720 · 📦 130K · 📋 1.1K - 19% open · ⏱️ 01.03.2025):
 
 	```
 	git clone https://github.com/Delgan/loguru
@@ -614,7 +614,7 @@ _Packages which improve logging and debugging._
 	pip install loguru
 	```
 </details>
-<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 3.9K · 📉) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 3.9K) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 240 · 📦 19K · 📋 360 - 9% open · ⏱️ 08.04.2025):
 
@@ -660,6 +660,12 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+🔗&nbsp;<b><a href="https://www.datadoghq.com/product/apm/">DataDog APM</a></b>  
+
+🔗&nbsp;<b><a href="https://sentry.io/for/performance/">Sentry APM</a></b>  
+
+🔗&nbsp;<b><a href="https://www.scoutapm.com/">Scout APM</a></b>  
+
 🔗&nbsp;<b><a href="https://www.solarwinds.com/solarwinds-observability">Solarwinds Observability SaaS</a></b>  
 
 🔗&nbsp;<b><a href="https://www.atatus.com/application-monitoring/">atatus APM</a></b>  
@@ -676,7 +682,7 @@ _Packages which improve logging and debugging._
 	pip install logfire
 	```
 </details>
-<details><summary><b><a href="https://github.com/korfuri/django-prometheus">django-prometheus</a></b> (🥉29 ·  ⭐ 1.5K · ➕) - Export Django monitoring metrics for Prometheus.io. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/korfuri/django-prometheus">django-prometheus</a></b> (🥈29 ·  ⭐ 1.5K) - Export Django monitoring metrics for Prometheus.io. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/korfuri/django-prometheus) (👨‍💻 58 · 🔀 240 · 📦 3.8K · 📋 160 - 41% open · ⏱️ 09.12.2024):
 
@@ -686,6 +692,22 @@ _Packages which improve logging and debugging._
 - [PyPi](https://pypi.org/project/django-prometheus) (📥 1.1M / month):
 	```
 	pip install django-prometheus
+	```
+</details>
+<details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉27 ·  ⭐ 8.1K · ➕) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/highlight/highlight) (👨‍💻 81 · 🔀 400 · 📦 360 · 📋 2.8K - 10% open · ⏱️ 08.04.2025):
+
+	```
+	git clone https://github.com/highlight/highlight
+	```
+</details>
+<details><summary><b><a href="https://github.com/Checkmk/checkmk">CheckMK</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Checkmk - Best-in-class infrastructure & application monitoring. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
+
+- [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 360 · 🔀 470 · ⏱️ 09.04.2025):
+
+	```
+	git clone https://github.com/Checkmk/checkmk
 	```
 </details>
 <br>
@@ -996,7 +1018,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install viewflow
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-fsm-log">django-fsm-log</a></b> (🥈24 ·  ⭐ 240 · 📉) - Automatic logging for Django FSM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-fsm-log">django-fsm-log</a></b> (🥈24 ·  ⭐ 240) - Automatic logging for Django FSM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-fsm-log) (👨‍💻 28 · 🔀 75 · 📦 160 · 📋 49 - 24% open · ⏱️ 14.03.2025):
 
@@ -1180,7 +1202,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	pip install djantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉18 ·  ⭐ 87 · 📉) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉18 ·  ⭐ 87) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/yezz123/pyngo) (👨‍💻 8 · 🔀 8 · 📦 23 · ⏱️ 10.03.2025):
 
@@ -1524,18 +1546,6 @@ _E-Commerce frameworks which use Django under the hood._
 	pip install saleor
 	```
 </details>
-<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉26 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 990 · 📦 230 · 📋 380 - 23% open · ⏱️ 28.02.2021):
-
-	```
-	git clone https://github.com/awesto/django-shop
-	```
-- [PyPi](https://pypi.org/project/django-shop) (📥 3.2K / month):
-	```
-	pip install django-shop
-	```
-</details>
 <details><summary><b><a href="https://github.com/shuup/shuup">shuup</a></b> (🥉25 ·  ⭐ 2.3K · 💤) - E-Commerce Platform. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/shuup/shuup) (👨‍💻 67 · 🔀 1.1K · 📥 710 · 📦 180 · 📋 440 - 33% open · ⏱️ 18.08.2021):
@@ -1546,6 +1556,18 @@ _E-Commerce frameworks which use Django under the hood._
 - [PyPi](https://pypi.org/project/shuup) (📥 14K / month):
 	```
 	pip install shuup
+	```
+</details>
+<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉22 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 990 · 📋 380 - 23% open · ⏱️ 28.02.2021):
+
+	```
+	git clone https://github.com/awesto/django-shop
+	```
+- [PyPi](https://pypi.org/project/django-shop) (📥 3.2K / month):
+	```
+	pip install django-shop
 	```
 </details>
 <br>
@@ -1834,7 +1856,7 @@ _Network automation systems which use Django under the hood._
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/orcasgit/django-fernet-fields">django-fernet-fields</a></b> (🥇18 ·  ⭐ 190 · 💀) - Fernet symmetric encryption for Django model fields. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/foundertherapy/django-cryptographic-fields">django-cryptographic-fields</a></b> (🥉12 ·  ⭐ 31 · 💀) - A set of fields that wrap standard Django fields with encryption provided by the python cryptography library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/foundertherapy/django-cryptographic-fields">django-cryptographic-fields</a></b> (🥉14 ·  ⭐ 31 · 💀) - A set of fields that wrap standard Django fields with encryption provided by the python cryptography library. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://gitlab.com/lansharkconsulting/django/django-encrypted-model-fields">django-encrypted-model-fields</a></b> (🥉11 ·  ⭐ 33 · 💀) - A set of fields that wrap standard Django fields with encryption provided by the python cryptography library. <code>❗Unlicensed</code>
 - <b><a href="https://gitlab.com/guywillett/django-searchable-encrypted-fields">django-searchable-encrypted-fields</a></b> (🥉6 ·  ⭐ 9 · 💀) -  <code>❗Unlicensed</code>
 </details>
@@ -2170,7 +2192,7 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/saxix/django-concurrency">django-concurrency</a></b> (🥇26 ·  ⭐ 450 · 📈) - Optimistic lock implementation for Django. Prevents users from doing concurrent editing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/saxix/django-concurrency">django-concurrency</a></b> (🥇26 ·  ⭐ 450) - Optimistic lock implementation for Django. Prevents users from doing concurrent editing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/saxix/django-concurrency) (👨‍💻 26 · 🔀 50 · 📦 200 · 📋 75 - 6% open · ⏱️ 03.04.2025):
 
@@ -2655,7 +2677,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇32 ·  ⭐ 1.7K · 📈) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇32 ·  ⭐ 1.7K) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/anymail/django-anymail) (👨‍💻 67 · 🔀 130 · 📥 160 · 📦 7.4K · 📋 230 - 1% open · ⏱️ 03.04.2025):
 
@@ -3057,7 +3079,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	pip install django-notifications-hq
 	```
 </details>
-<details><summary><b><a href="https://github.com/openwisp/openwisp-monitoring">openwisp-monitoring</a></b> (🥉18 ·  ⭐ 180 · ➕) - Network monitoring system written in Python and Django, designed to be extensible, programmable, scalable and easy to.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/openwisp/openwisp-monitoring">openwisp-monitoring</a></b> (🥉18 ·  ⭐ 180) - Network monitoring system written in Python and Django, designed to be extensible, programmable, scalable and easy to.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/openwisp/openwisp-monitoring) (👨‍💻 23 · 🔀 130 · 📦 4 · 📋 280 - 11% open · ⏱️ 27.03.2025):
 

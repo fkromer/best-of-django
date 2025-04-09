@@ -400,6 +400,21 @@ projects:
     pypi_id: logfire
     labels: []
     category: apm
+  - name: django-prometheus
+    github_id: korfuri/django-prometheus
+    pypi_id: django-prometheus
+    labels: []
+    category: apm
+  - name: Solarwinds Observability SaaS
+    homepage: https://www.solarwinds.com/solarwinds-observability
+    resource: True
+    labels: []
+    category: apm
+  - name: atatus APM
+    homepage: https://www.atatus.com/application-monitoring/
+    resource: True
+    labels: []
+    category: apm
 
   - name: django-allauth
     github_id: pennersr/django-allauth

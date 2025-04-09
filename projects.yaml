@@ -395,6 +395,14 @@ projects:
     labels: []
     category: logging
 
+  - name: CheckMK
+    github_id: Checkmk/checkmk
+    labels: []
+    category: apm
+  - name: highlight
+    github_id: highlight/highlight
+    labels: []
+    category: apm
   - name: logfire
     github_id: pydantic/logfire
     pypi_id: logfire

@@ -36,7 +36,7 @@ This curated list contains 270 awesome open-source projects with a total of 630K
 - [Application Monitoring SaaS](#application-monitoring-saas) _8 projects_
 - [Authentication and Authorization](#authentication-and-authorization) _17 projects_
 - [Authorization](#authorization) _1 projects_
-- [Task Queues](#task-queues) _5 projects_
+- [Task Queues](#task-queues) _6 projects_
 - [Finite State Machine](#finite-state-machine) _7 projects_
 - [RESTful API (Django Rest Framework)](#restful-api-django-rest-framework) _5 projects_
 - [RESTful API (Django Ninja)](#restful-api-django-ninja) _6 projects_
@@ -349,7 +349,7 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥇30 ·  ⭐ 2.2K) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥇29 ·  ⭐ 2.2K · 📉) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/Suor/django-cacheops) (👨‍💻 71 · 🔀 220 · 📦 1.5K · 📋 340 - 4% open · ⏱️ 04.04.2025):
 
@@ -361,7 +361,7 @@ _Packages which add or help working with management commands._
 	pip install django-cacheops
 	```
 </details>
-<details><summary><b><a href="https://github.com/noripyt/django-cachalot">django-cachalot</a></b> (🥉29 ·  ⭐ 1.3K) - No effort, no worry, maximum performance. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/noripyt/django-cachalot">django-cachalot</a></b> (🥇29 ·  ⭐ 1.3K) - No effort, no worry, maximum performance. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/noripyt/django-cachalot) (👨‍💻 38 · 🔀 150 · 📦 920 · 📋 170 - 17% open · ⏱️ 27.03.2025):
 
@@ -617,7 +617,7 @@ _Packages which improve logging and debugging._
 </details>
 <details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 3.9K) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 240 · 📦 19K · 📋 360 - 9% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 240 · 📦 19K · 📋 360 - 10% open · ⏱️ 08.04.2025):
 
 	```
 	git clone https://github.com/hynek/structlog
@@ -663,7 +663,7 @@ _Packages which improve logging and debugging._
 
 <details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥇32 ·  ⭐ 2.9K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pydantic/logfire) (👨‍💻 50 · 🔀 110 · 📦 1.1K · 📋 290 - 32% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/pydantic/logfire) (👨‍💻 53 · 🔀 110 · 📦 1.1K · 📋 290 - 32% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/pydantic/logfire
@@ -687,7 +687,7 @@ _Packages which improve logging and debugging._
 </details>
 <details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉27 ·  ⭐ 8.1K) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/highlight/highlight) (👨‍💻 81 · 🔀 400 · 📦 360 · 📋 2.8K - 10% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/highlight/highlight) (👨‍💻 81 · 🔀 400 · 📦 360 · 📋 2.8K - 10% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/highlight/highlight
@@ -695,7 +695,7 @@ _Packages which improve logging and debugging._
 </details>
 <details><summary><b><a href="https://github.com/Checkmk/checkmk">CheckMK</a></b> (🥉23 ·  ⭐ 1.8K) - Checkmk - Best-in-class infrastructure & application monitoring. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 360 · 🔀 470 · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 360 · 🔀 470 · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/Checkmk/checkmk
@@ -951,7 +951,7 @@ _Packages which improve logging and debugging._
 	pip install rq
 	```
 </details>
-<details><summary><b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥉32 ·  ⭐ 1.9K) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥈32 ·  ⭐ 1.9K) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/rq/django-rq) (👨‍💻 130 · 🔀 280 · 📦 4K · 📋 360 - 27% open · ⏱️ 03.03.2025):
 
@@ -961,6 +961,18 @@ _Packages which improve logging and debugging._
 - [PyPi](https://pypi.org/project/django-rq) (📥 390K / month):
 	```
 	pip install django-rq
+	```
+</details>
+<details><summary><b><a href="https://github.com/Bogdanp/dramatiq">dramatiq</a></b> (🥉31 ·  ⭐ 4.6K · ➕) - A fast and reliable background task processing library for Python 3. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/Bogdanp/dramatiq) (👨‍💻 120 · 🔀 320 · 📥 54 · 📦 1.4K · 📋 400 - 14% open · ⏱️ 30.03.2025):
+
+	```
+	git clone https://github.com/Bogdanp/dramatiq
+	```
+- [PyPi](https://pypi.org/project/dramatiq) (📥 350K / month):
+	```
+	pip install dramatiq
 	```
 </details>
 <details><summary><b><a href="https://github.com/Koed00/django-q">django-q</a></b> (🥉30 ·  ⭐ 1.9K · 💤) - A multiprocessing distributed task queue for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1068,7 +1080,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <details><summary><b><a href="https://github.com/encode/django-rest-framework">django-rest-framework</a></b> (🥇39 ·  ⭐ 29K) - Web APIs for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/encode/django-rest-framework) (👨‍💻 1.4K · 🔀 6.8K · 📦 810K · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/encode/django-rest-framework) (👨‍💻 1.4K · 🔀 6.8K · 📦 810K · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/encode/django-rest-framework
@@ -1134,7 +1146,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇31 ·  ⭐ 8K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 160 · 🔀 480 · 📋 890 - 35% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 160 · 🔀 480 · 📋 900 - 35% open · ⏱️ 08.04.2025):
 
 	```
 	git clone https://github.com/vitalik/django-ninja
@@ -1473,7 +1485,7 @@ _Packages which add application layer statistic functionality._
 
 <details><summary><b><a href="https://github.com/aboutcode-org/vulnerablecode">vulnerablecode</a></b> (🥇26 ·  ⭐ 570) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aboutcode-org/vulnerablecode) (👨‍💻 50 · 🔀 230 · 📥 380 · 📋 1.1K - 55% open · ⏱️ 07.04.2025):
+- [GitHub](https://github.com/aboutcode-org/vulnerablecode) (👨‍💻 50 · 🔀 230 · 📥 390 · 📋 1.1K - 55% open · ⏱️ 07.04.2025):
 
 	```
 	git clone https://github.com/aboutcode-org/vulnerablecode
@@ -1493,7 +1505,7 @@ _Content Management Systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> (🥇42 ·  ⭐ 19K) - A Django content management system focused on flexibility and user experience. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 980 · 🔀 4K · 📦 11K · 📋 5.2K - 16% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 980 · 🔀 4K · 📦 11K · 📋 5.2K - 16% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/wagtail/wagtail
@@ -1549,7 +1561,7 @@ _E-Commerce frameworks which use Django under the hood._
 </details>
 <details><summary><b><a href="https://github.com/saleor/saleor">saleor</a></b> (🥈33 ·  ⭐ 21K) - Saleor Core: the high performance, composable, headless commerce API. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/saleor/saleor) (👨‍💻 300 · 🔀 5.5K · 📥 670 · 📦 6 · 📋 4.4K - 4% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/saleor/saleor) (👨‍💻 300 · 🔀 5.5K · 📥 670 · 📦 6 · 📋 4.4K - 4% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/saleor/saleor
@@ -1613,7 +1625,7 @@ _Project management frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/makeplane/plane">plane</a></b> (🥇28 ·  ⭐ 35K) - Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/makeplane/plane) (👨‍💻 110 · 🔀 2.1K · 📥 11K · 📋 1.2K - 38% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/makeplane/plane) (👨‍💻 110 · 🔀 2.1K · 📥 12K · 📋 1.2K - 38% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/makeplane/plane
@@ -1637,7 +1649,7 @@ _Monitoring frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/getsentry/sentry">sentry</a></b> (🥇39 ·  ⭐ 41K) - Developer-first error tracking and performance monitoring. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 910 · 🔀 4.3K · 📥 39K · 📦 540 · 📋 15K - 14% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 910 · 🔀 4.3K · 📥 39K · 📦 540 · 📋 15K - 14% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/getsentry/sentry
@@ -1697,7 +1709,7 @@ _Security frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/jumpserver/jumpserver">JumpServer (Community Edition)</a></b> (🥇35 ·  ⭐ 26K) - An open-source PAM tool alternative to CyberArk. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/jumpserver/jumpserver) (👨‍💻 170 · 🔀 5.3K · 📥 94K · 📦 21 · 📋 7K - 0% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/jumpserver/jumpserver) (👨‍💻 170 · 🔀 5.3K · 📥 94K · 📦 21 · 📋 7K - 0% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/jumpserver/jumpserver
@@ -1759,9 +1771,9 @@ _Document management frameworks which use Django under the hood._
 
 _Education frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/openedx/edx-platform">Open edX</a></b> (🥇29 ·  ⭐ 7.7K) - The Open edX LMS & Studio, powering education sites around the world!. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/openedx/edx-platform">Open edX</a></b> (🥇28 ·  ⭐ 7.7K · 📉) - The Open edX LMS & Studio, powering education sites around the world!. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/openedx/edx-platform) (👨‍💻 1.5K · 🔀 3.7K · 📦 3 · 📋 690 - 31% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/openedx/edx-platform) (👨‍💻 1.4K · 🔀 3.7K · 📋 690 - 31% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/openedx/edx-platform
@@ -1777,7 +1789,7 @@ _Inventory management systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/inventree/InvenTree">InvenTree</a></b> (🥇28 ·  ⭐ 4.9K) - Open Source Inventory Management System. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/inventree/InvenTree) (👨‍💻 100 · 🔀 880 · 📥 1.3K · 📦 1 · 📋 2.9K - 7% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/inventree/InvenTree) (👨‍💻 100 · 🔀 880 · 📥 1.3K · 📦 1 · 📋 2.9K - 7% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/inventree/InvenTree
@@ -1809,7 +1821,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/netbox-community/netbox">netbox</a></b> (🥇32 ·  ⭐ 17K) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 400 · 🔀 2.7K · 📋 11K - 3% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 400 · 🔀 2.7K · 📋 11K - 3% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/netbox-community/netbox
@@ -1881,7 +1893,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/stefanfoulis/django-phonenumber-field">django-phonenumber-field</a></b> (🥇34 ·  ⭐ 1.5K) - A django model and form field for normalised phone numbers using python-phonenumbers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/stefanfoulis/django-phonenumber-field) (👨‍💻 110 · 🔀 300 · 📥 33 · 📦 31K · 📋 230 - 3% open · ⏱️ 01.04.2025):
+- [GitHub](https://github.com/stefanfoulis/django-phonenumber-field) (👨‍💻 110 · 🔀 300 · 📥 33 · 📦 31K · 📋 230 - 2% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/stefanfoulis/django-phonenumber-field
@@ -1923,7 +1935,7 @@ _Network automation systems which use Django under the hood._
 </details>
 <details><summary><b><a href="https://github.com/openwisp/django-loci">django-loci</a></b> (🥈23 ·  ⭐ 180) - Reusable Django app for storing geographic and indoor coordinates. Maintained by the OpenWISP Project. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/openwisp/django-loci) (👨‍💻 32 · 🔀 49 · 📦 15 · 📋 44 - 6% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/openwisp/django-loci) (👨‍💻 32 · 🔀 49 · 📦 15 · 📋 45 - 8% open · ⏱️ 08.04.2025):
 
 	```
 	git clone https://github.com/openwisp/django-loci
@@ -2189,7 +2201,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/ag2ai/faststream">FastStream</a></b> (🥇33 ·  ⭐ 3.7K) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ag2ai/faststream) (👨‍💻 87 · 🔀 210 · 📦 560 · 📋 730 - 11% open · ⏱️ 09.04.2025):
+- [GitHub](https://github.com/ag2ai/faststream) (👨‍💻 88 · 🔀 210 · 📦 560 · 📋 730 - 11% open · ⏱️ 10.04.2025):
 
 	```
 	git clone https://github.com/ag2ai/faststream
@@ -2378,7 +2390,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/timonweb/django-tailwind">django-tailwind</a></b> (🥇28 ·  ⭐ 1.5K) - Django + Tailwind CSS =. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/timonweb/django-tailwind) (👨‍💻 22 · 🔀 98 · 📦 6K · 📋 160 - 1% open · ⏱️ 04.04.2025):
+- [GitHub](https://github.com/timonweb/django-tailwind) (👨‍💻 22 · 🔀 98 · 📦 6K · 📋 160 - 2% open · ⏱️ 04.04.2025):
 
 	```
 	git clone https://github.com/timonweb/django-tailwind
@@ -2492,7 +2504,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <details><summary><b><a href="https://github.com/djaodjin/djaodjin-saas">djaodjin-saas</a></b> (🥇19 ·  ⭐ 580) - Django application for software-as-service and subscription businesses. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/djaodjin/djaodjin-saas) (👨‍💻 13 · 🔀 130 · 📦 12 · 📋 110 - 12% open · ⏱️ 08.04.2025):
+- [GitHub](https://github.com/djaodjin/djaodjin-saas) (👨‍💻 13 · 🔀 130 · 📦 12 · 📋 110 - 12% open · ⏱️ 09.04.2025):
 
 	```
 	git clone https://github.com/djaodjin/djaodjin-saas
@@ -2770,7 +2782,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 </details>
 <details><summary><b><a href="https://github.com/wrabit/django-cotton">wrabit/django-cotton</a></b> (🥈25 ·  ⭐ 800) - Enabling Modern UI Composition in Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wrabit/django-cotton) (👨‍💻 10 · 🔀 40 · 📦 190 · 📋 94 - 3% open · ⏱️ 01.04.2025):
+- [GitHub](https://github.com/wrabit/django-cotton) (👨‍💻 10 · 🔀 40 · 📦 190 · 📋 95 - 3% open · ⏱️ 01.04.2025):
 
 	```
 	git clone https://github.com/wrabit/django-cotton
@@ -2951,7 +2963,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/thorgate/django-project-template
 	```
 </details>
-<details><summary><b><a href="https://github.com/gone/django-hydra">django-hydra</a></b> (🥈10 ·  ⭐ 90 · 📉) - A django/htmx/alpine/tailwind project template. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/gone/django-hydra">django-hydra</a></b> (🥈10 ·  ⭐ 90) - A django/htmx/alpine/tailwind project template. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/gone/django-hydra) (👨‍💻 39 · 🔀 10 · 📋 16 - 18% open · ⏱️ 28.01.2025):
 
@@ -3094,7 +3106,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 </details>
 <details><summary><b><a href="https://github.com/openwisp/openwisp-monitoring">openwisp-monitoring</a></b> (🥉18 ·  ⭐ 180) - Network monitoring system written in Python and Django, designed to be extensible, programmable, scalable and easy to.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/openwisp/openwisp-monitoring) (👨‍💻 23 · 🔀 130 · 📦 4 · 📋 280 - 11% open · ⏱️ 27.03.2025):
+- [GitHub](https://github.com/openwisp/openwisp-monitoring) (👨‍💻 23 · 🔀 130 · 📦 4 · 📋 280 - 10% open · ⏱️ 09.04.2025):
 
 	```
 	git clone https://github.com/openwisp/openwisp-monitoring

@@ -1606,3 +1606,8 @@ projects:
     pypi_id: django-improved-user
     labels: []
     category: custom-user
+  - name: dramatiq
+    github_id: Bogdanp/dramatiq
+    pypi_id: dramatiq
+    labels: []
+    category: task-queues

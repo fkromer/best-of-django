@@ -431,6 +431,11 @@ projects:
     resource: True
     labels: []
     category: aps
+  - name: Honeycomb Observability Platform
+    homepage: https://www.honeycomb.io/platform
+    resource: True
+    labels: []
+    category: aps
   - name: Pydantic Logfire
     homepage: https://pydantic.dev/logfire
     resource: True

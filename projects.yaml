@@ -35,6 +35,10 @@ categories:
     title: Debugging
   - category: development
     title: Development
+  - category: Kubernetes CI/CD
+    title: k8s-cicd
+  - category: Kubernetes CI/CD SaaS
+    title: k8s-cicd-saas
   - category: type-stubs
     title: Type stubs
   - category: logging
@@ -359,6 +363,22 @@ projects:
     pypi_id: django-harlequin
     labels: []
     category: development
+
+  - name: Garden
+    github_id: garden-io/garden
+    labels: []
+    category: k8s-cicd
+
+  - name: Codefresh GitOps Platform
+    homepage: https://codefresh.io/
+    resource: True
+    labels: []
+    category: k8s-cicd-saas
+  - name: Garden Cloud
+    homepage: https://app.garden.io/login
+    resource: True
+    labels: []
+    category: k8s-cicd-saas
 
   - name: django-stubs
     github_id: typeddjango/django-stubs

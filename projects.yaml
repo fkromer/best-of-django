@@ -1447,6 +1447,11 @@ projects:
     pypi_id: django-cotton
     labels: []
     category: templates
+  - name: django-components
+    github_id: django-components/django-components
+    pypi_id: django-components
+    labels: []
+    category: templates
 
   - name: wemake-django-template
     github_id: wemake-services/wemake-django-template

@@ -177,6 +177,8 @@ categories:
     title: Static file serving
   - category: custom-user
     title: Custom user
+  - category: mqtt
+    title: MQTT
 
 labels:
   # - label: "python"
@@ -1641,3 +1643,9 @@ projects:
     pypi_id: dramatiq
     labels: []
     category: task-queues
+
+  - name: iotcore
+    github_id: tomvictor/iotcore 
+    pypi_id: iotcore
+    labels: []
+    category: mqtt

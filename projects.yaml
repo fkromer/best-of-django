@@ -35,10 +35,10 @@ categories:
     title: Debugging
   - category: development
     title: Development
-  - category: Kubernetes CI/CD
-    title: k8s-cicd
-  - category: Kubernetes CI/CD SaaS
-    title: k8s-cicd-saas
+  - category: k8s-cicd
+    title: Kubernetes CI/CD
+  - category: k8s-cicd-saas
+    title: Kubernetes CI/CD SaaS
   - category: type-stubs
     title: Type stubs
   - category: logging

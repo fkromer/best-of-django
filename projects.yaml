@@ -179,6 +179,8 @@ categories:
     title: Custom user
   - category: mqtt
     title: MQTT
+  - category: http-server
+    title: HTTP server
 
 labels:
   # - label: "python"
@@ -1649,3 +1651,10 @@ projects:
     pypi_id: iotcore
     labels: []
     category: mqtt
+
+  - name: granian
+    github_id: emmett-framework/granian 
+    pypi_id: granian
+    labels: []
+    category: http-server
+

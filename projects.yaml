@@ -340,6 +340,51 @@ projects:
     pypi_id: wireup
     labels: []
     category: dependency-injection
+  - name: Dependency Injector
+    github_id: ets-labs/python-dependency-injector
+    pypi_id: dependency-injector
+    labels: []
+    category: dependency-injection
+  - name: python-inject
+    github_id: ivankorobkov/python-inject
+    pypi_id: inject
+    labels: []
+    category: dependency-injection
+  - name: dishka
+    github_id: reagento/dishka
+    pypi_id: dishka
+    labels: []
+    category: dependency-injection
+  - name: kink
+    github_id: kodemore/kink
+    pypi_id: kink
+    labels: []
+    category: dependency-injection
+  - name: FastDepends
+    github_id: lancetnik/FastDepends
+    pypi_id: fast-depends
+    labels: []
+    category: dependency-injection
+  - name: punq
+    github_id: bobthemighty/punq
+    pypi_id: punq
+    labels: []
+    category: dependency-injection
+  - name: svcs
+    github_id: hynek/svcs
+    pypi_id: svcs
+    labels: []
+    category: dependency-injection
+  - name: django-svc
+    github_id: django-svcs/django-svcs
+    pypi_id: django-svcs
+    labels: []
+    category: dependency-injection
+  - name: di
+    github_id: adriangb/di
+    pypi_id: di
+    labels: []
+    category: dependency-injection
 
   - name: django-debug-toolbar
     github_id: jazzband/django-debug-toolbar

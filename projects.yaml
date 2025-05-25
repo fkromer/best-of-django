@@ -385,6 +385,41 @@ projects:
     pypi_id: di
     labels: []
     category: dependency-injection
+  - name: lagom
+    github_id: meadsteve/lagom
+    pypi_id: lagom
+    labels: []
+    category: dependency-injection
+  - name: rodi
+    github_id: Neoteroi/rodi
+    pypi_id: rodi
+    labels: []
+    category: dependency-injection
+  - name: that-depends
+    github_id: modern-python/that-depends
+    pypi_id: that-depends
+    labels: []
+    category: dependency-injection
+  - name: wireup
+    github_id: maldoinc/wireup
+    pypi_id: wireup
+    labels: []
+    category: dependency-injection
+  - name: injectable
+    github_id: roo-oliv/injectable
+    pypi_id: injectable
+    labels: []
+    category: dependency-injection
+  - name: opyoid
+    github_id: illuin-tech/opyoid
+    pypi_id: opyoid
+    labels: []
+    category: dependency-injection
+  - name: modern-di
+    github_id: modern-python/modern-di
+    pypi_id: modern-di
+    labels: []
+    category: dependency-injection
 
   - name: django-debug-toolbar
     github_id: jazzband/django-debug-toolbar

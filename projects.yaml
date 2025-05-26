@@ -75,6 +75,8 @@ categories:
     subtitle: Packages which add application layer statistic functionality.
   - category: testing
     title: Testing
+  - category: architecture-testing
+    title: Architecture Testing
   - category: vulnerability-database
     title: Vulnerability databases based on Django
   - category: cms-framework
@@ -898,6 +900,26 @@ projects:
     pypi_id: factory_boy
     labels: []
     category: testing
+
+  - name: PyTestArch
+    github_id: zyskarch/pytestarch
+    pypi_id: pytestarch
+    labels: []
+    category: architecture-testing
+  - name: pytest-archon
+    github_id: jwbargsten/pytest-archon
+    pypi_id: pytest-archon
+    labels: []
+    category: architecture-testing
+  - name: pytest-arch
+    github_id: nwilbert/pytest-arch
+    labels: []
+    category: architecture-testing
+  - name: pca-archunit
+    github_id: pcah/pca-archunit
+    labels: []
+    category: architecture-testing
+
 
   - name: vulnerablecode
     github_id: aboutcode-org/vulnerablecode

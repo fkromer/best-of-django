@@ -77,6 +77,8 @@ categories:
     title: Testing
   - category: architecture-testing
     title: Architecture Testing
+  - category: sca
+    title: Static Code Analysis
   - category: vulnerability-database
     title: Vulnerability databases based on Django
   - category: cms-framework
@@ -920,6 +922,16 @@ projects:
     labels: []
     category: architecture-testing
 
+  - name: ruff
+    github_id: astral-sh/ruff
+    pypi_id: ruff
+    labels: []
+    category: sca
+  - name: deptry
+    github_id: fpgmaas/deptry
+    pypi_id: deptry
+    labels: []
+    category: sca
 
   - name: vulnerablecode
     github_id: aboutcode-org/vulnerablecode

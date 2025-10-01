@@ -15,7 +15,7 @@
     <a href="https://github.com/fkromer/best-of-django/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-django?color=green&label=updated"></a>
 </p>
 
-This curated list contains 300 awesome open-source projects with a total of 680K stars grouped into 74 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 300 awesome open-source projects with a total of 730K stars grouped into 74 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-django/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-django/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-django/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -49,7 +49,7 @@ This curated list contains 300 awesome open-source projects with a total of 680K
 - [Statistics](#statistics) _1 projects_
 - [Testing](#testing) _5 projects_
 - [Architecture Testing](#architecture-testing) _4 projects_
-- [Static Code Analysis](#static-code-analysis) _1 projects_
+- [Static Code Analysis](#static-code-analysis) _2 projects_
 - [Vulnerability databases based on Django](#vulnerability-databases-based-on-django) _1 projects_
 - [CMS frameworks based on Django](#cms-frameworks-based-on-django) _3 projects_
 - [E-Commerce frameworks based on Django](#e-commerce-frameworks-based-on-django) _4 projects_
@@ -123,12 +123,12 @@ _Packages to replace or improve the default Django admin interface._
 
 <details><summary><b><a href="https://github.com/fabiocaccamo/django-admin-interface">django-admin-interface</a></b> (🥇33 ·  ⭐ 2K) - djangos default admin interface with superpowers - customizable themes, popup windows replaced by modals and many.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 41 · 🔀 170 · 📦 5.2K · 📋 220 - 4% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/fabiocaccamo/django-admin-interface) (👨‍💻 41 · 🔀 180 · 📦 5.2K · 📋 220 - 4% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/fabiocaccamo/django-admin-interface
 	```
-- [PyPi](https://pypi.org/project/django-admin-interface) (📥 160K / month):
+- [PyPi](https://pypi.org/project/django-admin-interface) (📥 180K / month):
 	```
 	pip install django-admin-interface
 	```
@@ -140,43 +140,43 @@ _Packages to replace or improve the default Django admin interface._
 	```
 	git clone https://github.com/farridav/django-jazzmin
 	```
-- [PyPi](https://pypi.org/project/django-jazzmin) (📥 340K / month):
+- [PyPi](https://pypi.org/project/django-jazzmin) (📥 380K / month):
 	```
 	pip install django-jazzmin
 	```
 </details>
-<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥈27 ·  ⭐ 3.9K) - A jazzy skin for the Django Admin-Interface (official repository). <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/sehmaschine/django-grappelli">django-grappelli</a></b> (🥈28 ·  ⭐ 3.9K) - A jazzy skin for the Django Admin-Interface (official repository). <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 91 · 🔀 640 · 📦 6.9K · 📋 730 - 1% open · ⏱️ 28.04.2025):
+- [GitHub](https://github.com/sehmaschine/django-grappelli) (👨‍💻 91 · 🔀 640 · 📦 6.9K · 📋 740 - 1% open · ⏱️ 28.04.2025):
 
 	```
 	git clone https://github.com/sehmaschine/django-grappelli
 	```
-- [PyPi](https://pypi.org/project/django-grappelli) (📥 240K / month):
+- [PyPi](https://pypi.org/project/django-grappelli) (📥 280K / month):
 	```
 	pip install django-grappelli
 	```
 </details>
-<details><summary><b><a href="https://github.com/viewflow/django-material">django-material</a></b> (🥈27 ·  ⭐ 2.5K · 📉) - Material Design for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/viewflow/django-material">django-material</a></b> (🥉26 ·  ⭐ 2.5K) - Material Design for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/viewflow/django-material) (👨‍💻 4 · 🔀 410 · 📦 1.9K · 📋 420 - 4% open · ⏱️ 30.06.2025):
 
 	```
 	git clone https://github.com/viewflow/django-material
 	```
-- [PyPi](https://pypi.org/project/django-material) (📥 13K / month):
+- [PyPi](https://pypi.org/project/django-material) (📥 14K / month):
 	```
 	pip install django-material
 	```
 </details>
-<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉26 ·  ⭐ 970) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/otto-torino/django-baton">django-baton</a></b> (🥉24 ·  ⭐ 970 · 📉) - A cool, modern and responsive django admin application based on bootstrap 5 that brings AI to the Django admin -.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 17 · 🔀 98 · 📦 470 · 📋 190 - 1% open · ⏱️ 08.07.2025):
+- [GitHub](https://github.com/otto-torino/django-baton) (👨‍💻 17 · 🔀 97 · 📦 470 · 📋 190 - 0% open · ⏱️ 08.07.2025):
 
 	```
 	git clone https://github.com/otto-torino/django-baton
 	```
-- [PyPi](https://pypi.org/project/django-baton) (📥 8.1K / month):
+- [PyPi](https://pypi.org/project/django-baton) (📥 11K / month):
 	```
 	pip install django-baton
 	```
@@ -200,7 +200,7 @@ _Packages to replace or improve the default Django admin interface._
 	```
 	git clone https://github.com/byashimov/django-controlcenter
 	```
-- [PyPi](https://pypi.org/project/django-controlcenter) (📥 8.6K / month):
+- [PyPi](https://pypi.org/project/django-controlcenter) (📥 8.8K / month):
 	```
 	pip install django-controlcenter
 	```
@@ -215,26 +215,26 @@ _Packages to replace or improve the default Django admin interface._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-import-export/django-import-export">django-import-export</a></b> (🥇38 ·  ⭐ 3.2K) - Django application and library for importing and exporting data with admin integration. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/django-import-export/django-import-export">django-import-export</a></b> (🥇39 ·  ⭐ 3.3K) - Django application and library for importing and exporting data with admin integration. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/django-import-export/django-import-export) (👨‍💻 240 · 🔀 770 · 📦 130K · 📋 1.1K - 2% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/django-import-export/django-import-export) (👨‍💻 240 · 🔀 770 · 📦 130K · 📋 1.1K - 1% open · ⏱️ 28.09.2025):
 
 	```
 	git clone https://github.com/django-import-export/django-import-export
 	```
-- [PyPi](https://pypi.org/project/django-import-export) (📥 1.6M / month):
+- [PyPi](https://pypi.org/project/django-import-export) (📥 1.9M / month):
 	```
 	pip install django-import-export
 	```
 </details>
 <details><summary><b><a href="https://github.com/jrief/django-admin-sortable2">django-admin-sortable2</a></b> (🥈27 ·  ⭐ 850) - Generic drag-and-drop ordering for objects in the Django admin interface. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/jrief/django-admin-sortable2) (👨‍💻 90 · 🔀 180 · 📦 2.9K · 📋 230 - 20% open · ⏱️ 15.05.2025):
+- [GitHub](https://github.com/jrief/django-admin-sortable2) (👨‍💻 90 · 🔀 180 · 📦 2.9K · 📋 240 - 20% open · ⏱️ 15.05.2025):
 
 	```
 	git clone https://github.com/jrief/django-admin-sortable2
 	```
-- [PyPi](https://pypi.org/project/django-admin-sortable2) (📥 930K / month):
+- [PyPi](https://pypi.org/project/django-admin-sortable2) (📥 920K / month):
 	```
 	pip install django-admin-sortable2
 	```
@@ -246,19 +246,19 @@ _Packages to replace or improve the default Django admin interface._
 	```
 	git clone https://github.com/jazzband/django-admin-sortable
 	```
-- [PyPi](https://pypi.org/project/django-admin-sortable) (📥 40K / month):
+- [PyPi](https://pypi.org/project/django-admin-sortable) (📥 41K / month):
 	```
 	pip install django-admin-sortable
 	```
 </details>
 <details><summary><b><a href="https://github.com/TrangPham/django-admin-confirm">django-admin-confirm</a></b> (🥉14 ·  ⭐ 140) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/TrangPham/django-admin-confirm) (👨‍💻 10 · 🔀 18 · 📥 3 · 📋 35 - 31% open · ⏱️ 06.05.2025):
+- [GitHub](https://github.com/TrangPham/django-admin-confirm) (👨‍💻 10 · 🔀 18 · 📥 3 · 📋 36 - 33% open · ⏱️ 06.05.2025):
 
 	```
 	git clone https://github.com/trangpham/django-admin-confirm
 	```
-- [PyPi](https://pypi.org/project/django-admin-confirm) (📥 57K / month):
+- [PyPi](https://pypi.org/project/django-admin-confirm) (📥 82K / month):
 	```
 	pip install django-admin-confirm
 	```
@@ -276,7 +276,7 @@ _Packages to replace or improve the default Django admin interface._
 	```
 	git clone https://github.com/lukasvinclav/django-admin-numeric-filter
 	```
-- [PyPi](https://pypi.org/project/django-admin-numeric-filter) (📥 13K / month):
+- [PyPi](https://pypi.org/project/django-admin-numeric-filter) (📥 17K / month):
 	```
 	pip install django-admin-numeric-filter
 	```
@@ -289,38 +289,38 @@ _Packages to replace or improve the default Django admin interface._
 
 _Packages which add or help working with management commands._
 
-<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇39 ·  ⭐ 6.7K) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-extensions/django-extensions">django-extensions</a></b> (🥇38 ·  ⭐ 6.7K · 📉) - This is a repository for collecting global custom management extensions for the Django Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 600 · 🔀 1.1K · 📦 270K · 📋 920 - 18% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/django-extensions/django-extensions) (👨‍💻 600 · 🔀 1.1K · 📦 270K · 📋 920 - 18% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/django-extensions/django-extensions
 	```
-- [PyPi](https://pypi.org/project/django-extensions) (📥 7M / month):
+- [PyPi](https://pypi.org/project/django-extensions) (📥 7.8M / month):
 	```
 	pip install django-extensions
 	```
 </details>
-<details><summary><b><a href="https://github.com/Archmonger/django-dbbackup">django-dbbackup</a></b> (🥈32 ·  ⭐ 1.1K) - Management commands to help backup and restore your project database and media files. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Archmonger/django-dbbackup">django-dbbackup</a></b> (🥈31 ·  ⭐ 1.1K) - Backup and restore your Django database and media. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/Archmonger/django-dbbackup) (👨‍💻 81 · 🔀 200 · 📥 2 · 📦 2.5K · 📋 300 - 2% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/Archmonger/django-dbbackup) (👨‍💻 81 · 🔀 200 · 📥 4 · 📦 2.5K · 📋 300 - 2% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/jazzband/django-dbbackup
 	```
-- [PyPi](https://pypi.org/project/django-dbbackup) (📥 160K / month):
+- [PyPi](https://pypi.org/project/django-dbbackup) (📥 180K / month):
 	```
 	pip install django-dbbackup
 	```
 </details>
 <details><summary><b><a href="https://github.com/django-commons/django-typer">django-typer</a></b> (🥉23 ·  ⭐ 220) - Use Typer (type hints) to define the interface for your Django management commands. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-commons/django-typer) (👨‍💻 7 · 🔀 3 · 📥 4 · 📦 73 · 📋 150 - 10% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/django-commons/django-typer) (👨‍💻 8 · 🔀 4 · 📥 4 · 📦 73 · 📋 150 - 11% open · ⏱️ 27.09.2025):
 
 	```
 	git clone https://github.com/bckohan/django-typer
 	```
-- [PyPi](https://pypi.org/project/django-typer) (📥 27K / month):
+- [PyPi](https://pypi.org/project/django-typer) (📥 45K / month):
 	```
 	pip install django-typer
 	```
@@ -332,14 +332,14 @@ _Packages which add or help working with management commands._
 	```
 	git clone https://github.com/GaretJax/django-click
 	```
-- [PyPi](https://pypi.org/project/django-click) (📥 73K / month):
+- [PyPi](https://pypi.org/project/django-click) (📥 76K / month):
 	```
 	pip install django-click
 	```
 </details>
-<details><summary><b><a href="https://github.com/adamchainz/django-rich">django-rich</a></b> (🥉19 ·  ⭐ 140) - Extensions for using Rich with Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adamchainz/django-rich">django-rich</a></b> (🥉20 ·  ⭐ 140) - Extensions for using Rich with Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adamchainz/django-rich) (👨‍💻 6 · 🔀 12 · 📦 200 · 📋 13 - 30% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/adamchainz/django-rich) (👨‍💻 6 · 🔀 12 · 📦 200 · 📋 13 - 23% open · ⏱️ 18.09.2025):
 
 	```
 	git clone https://github.com/adamchainz/django-rich
@@ -355,28 +355,28 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/noripyt/django-cachalot">django-cachalot</a></b> (🥇29 ·  ⭐ 1.4K) - No effort, no worry, maximum performance. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/noripyt/django-cachalot) (👨‍💻 39 · 🔀 150 · 📦 980 · 📋 170 - 16% open · ⏱️ 17.04.2025):
-
-	```
-	git clone https://github.com/noripyt/django-cachalot
-	```
-- [PyPi](https://pypi.org/project/django-cachalot) (📥 160K / month):
-	```
-	pip install django-cachalot
-	```
-</details>
-<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥉28 ·  ⭐ 2.2K) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/Suor/django-cacheops">django-cacheops</a></b> (🥇28 ·  ⭐ 2.2K) - A slick ORM cache with automatic granular event-driven invalidation. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/Suor/django-cacheops) (👨‍💻 72 · 🔀 220 · 📦 1.6K · 📋 350 - 5% open · ⏱️ 21.08.2025):
 
 	```
 	git clone https://github.com/Suor/django-cacheops
 	```
-- [PyPi](https://pypi.org/project/django-cacheops) (📥 270K / month):
+- [PyPi](https://pypi.org/project/django-cacheops) (📥 330K / month):
 	```
 	pip install django-cacheops
+	```
+</details>
+<details><summary><b><a href="https://github.com/noripyt/django-cachalot">django-cachalot</a></b> (🥇28 ·  ⭐ 1.4K) - No effort, no worry, maximum performance. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/noripyt/django-cachalot) (👨‍💻 39 · 🔀 150 · 📦 980 · 📋 170 - 16% open · ⏱️ 17.04.2025):
+
+	```
+	git clone https://github.com/noripyt/django-cachalot
+	```
+- [PyPi](https://pypi.org/project/django-cachalot) (📥 140K / month):
+	```
+	pip install django-cachalot
 	```
 </details>
 <br>
@@ -387,36 +387,36 @@ _Packages which add or help working with management commands._
 
 <details><summary><b><a href="https://github.com/joke2k/django-environ">django-environ</a></b> (🥇35 ·  ⭐ 3.1K) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 97 · 🔀 320 · 📥 150 · 📦 280K · 📋 260 - 27% open · ⏱️ 13.01.2025):
+- [GitHub](https://github.com/joke2k/django-environ) (👨‍💻 97 · 🔀 320 · 📥 160 · 📦 280K · 📋 260 - 27% open · ⏱️ 13.01.2025):
 
 	```
 	git clone https://github.com/joke2k/django-environ
 	```
-- [PyPi](https://pypi.org/project/django-environ) (📥 3.7M / month):
+- [PyPi](https://pypi.org/project/django-environ) (📥 4M / month):
 	```
 	pip install django-environ
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/dj-database-url">dj-database-url</a></b> (🥈34 ·  ⭐ 1.5K) - Use Database URLs in your Django Application. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/dj-database-url">dj-database-url</a></b> (🥇35 ·  ⭐ 1.5K) - Use Database URLs in your Django Application. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/dj-database-url) (👨‍💻 73 · 🔀 200 · 📦 310K · 📋 100 - 4% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/jazzband/dj-database-url) (👨‍💻 73 · 🔀 200 · 📦 310K · 📋 100 - 4% open · ⏱️ 22.09.2025):
 
 	```
 	git clone https://github.com/jazzband/dj-database-url
 	```
-- [PyPi](https://pypi.org/project/dj-database-url) (📥 3.2M / month):
+- [PyPi](https://pypi.org/project/dj-database-url) (📥 3.5M / month):
 	```
 	pip install dj-database-url
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈32 ·  ⭐ 1.8K · 📈) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-constance">django-constance</a></b> (🥈32 ·  ⭐ 1.8K) - Dynamic Django settings. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jazzband/django-constance) (👨‍💻 150 · 🔀 300 · 📦 2.4K · 📋 310 - 7% open · ⏱️ 19.05.2025):
 
 	```
 	git clone https://github.com/jazzband/django-constance
 	```
-- [PyPi](https://pypi.org/project/django-constance) (📥 460K / month):
+- [PyPi](https://pypi.org/project/django-constance) (📥 490K / month):
 	```
 	pip install django-constance
 	```
@@ -428,7 +428,7 @@ _Packages which add or help working with management commands._
 	```
 	git clone https://github.com/jazzband/django-configurations
 	```
-- [PyPi](https://pypi.org/project/django-configurations) (📥 250K / month):
+- [PyPi](https://pypi.org/project/django-configurations) (📥 280K / month):
 	```
 	pip install django-configurations
 	```
@@ -445,14 +445,14 @@ _Packages which add or help working with management commands._
 	pip install django-split-settings
 	```
 </details>
-<details><summary><b><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></b> (🥉23 ·  ⭐ 590) - config and manage typed extra settings using just the django admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/fabiocaccamo/django-extra-settings">django-extra-settings</a></b> (🥉23 ·  ⭐ 600) - config and manage typed extra settings using just the django admin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fabiocaccamo/django-extra-settings) (👨‍💻 12 · 🔀 32 · 📦 110 · 📋 40 - 12% open · ⏱️ 12.06.2025):
+- [GitHub](https://github.com/fabiocaccamo/django-extra-settings) (👨‍💻 13 · 🔀 32 · 📦 110 · 📋 41 - 12% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/fabiocaccamo/django-extra-settings
 	```
-- [PyPi](https://pypi.org/project/django-extra-settings) (📥 26K / month):
+- [PyPi](https://pypi.org/project/django-extra-settings) (📥 54K / month):
 	```
 	pip install django-extra-settings
 	```
@@ -465,194 +465,194 @@ _Packages which add or help working with management commands._
 
 <details><summary><b><a href="https://github.com/ets-labs/python-dependency-injector">Dependency Injector</a></b> (🥇35 ·  ⭐ 4.6K) - Dependency injection framework for Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/ets-labs/python-dependency-injector) (👨‍💻 39 · 🔀 330 · 📦 5.1K · 📋 620 - 30% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/ets-labs/python-dependency-injector) (👨‍💻 39 · 🔀 330 · 📦 5.2K · 📋 630 - 30% open · ⏱️ 19.09.2025):
 
 	```
 	git clone https://github.com/ets-labs/python-dependency-injector
 	```
-- [PyPi](https://pypi.org/project/dependency-injector) (📥 3.1M / month):
+- [PyPi](https://pypi.org/project/dependency-injector) (📥 3.2M / month):
 	```
 	pip install dependency-injector
 	```
 </details>
-<details><summary><b><a href="https://github.com/reagento/dishka">dishka</a></b> (🥇29 ·  ⭐ 800) - Cute dependency injection (DI) framework for Python with agreeable API and everything you need. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/reagento/dishka">dishka</a></b> (🥇29 ·  ⭐ 850) - Cute dependency injection (DI) framework for Python with agreeable API and everything you need. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/reagento/dishka) (👨‍💻 61 · 🔀 86 · 📦 640 · 📋 160 - 25% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/reagento/dishka) (👨‍💻 64 · 🔀 89 · 📦 640 · 📋 170 - 26% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/reagento/dishka
 	```
-- [PyPi](https://pypi.org/project/dishka) (📥 85K / month):
+- [PyPi](https://pypi.org/project/dishka) (📥 92K / month):
 	```
 	pip install dishka
 	```
 </details>
-<details><summary><b><a href="https://github.com/python-injector/injector">injector</a></b> (🥈26 ·  ⭐ 1.4K) - Python dependency injection framework, inspired by Guice. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/python-injector/injector">injector</a></b> (🥈26 ·  ⭐ 1.5K) - Python dependency injection framework, inspired by Guice. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/python-injector/injector) (👨‍💻 32 · 🔀 90 · 📦 3K · 📋 150 - 29% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/python-injector/injector) (👨‍💻 32 · 🔀 92 · 📦 3K · 📋 150 - 29% open · ⏱️ 18.08.2025):
 
 	```
 	git clone https://github.com/python-injector/injector
 	```
-- [PyPi](https://pypi.org/project/injector) (📥 2.3M / month):
+- [PyPi](https://pypi.org/project/injector) (📥 2.5M / month):
 	```
 	pip install injector
 	```
 </details>
-<details><summary><b><a href="https://github.com/Lancetnik/FastDepends">FastDepends</a></b> (🥈26 ·  ⭐ 420 · 📈) - FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. Async and sync.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ivankorobkov/python-inject">python-inject</a></b> (🥈26 ·  ⭐ 740 · 📈) - Python dependency injection. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Lancetnik/FastDepends) (👨‍💻 13 · 🔀 25 · 📦 660 · 📋 40 - 32% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/ivankorobkov/python-inject) (👨‍💻 35 · 🔀 80 · 📦 940 · 📋 72 - 33% open · ⏱️ 25.08.2025):
+
+	```
+	git clone https://github.com/ivankorobkov/python-inject
+	```
+- [PyPi](https://pypi.org/project/inject) (📥 790K / month):
+	```
+	pip install inject
+	```
+</details>
+<details><summary><b><a href="https://github.com/Lancetnik/FastDepends">FastDepends</a></b> (🥈26 ·  ⭐ 440) - FastDepends - FastAPI Dependency Injection system extracted from FastAPI and cleared of all HTTP logic. Async and sync.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Lancetnik/FastDepends) (👨‍💻 13 · 🔀 26 · 📦 670 · 📋 40 - 32% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/lancetnik/FastDepends
 	```
-- [PyPi](https://pypi.org/project/fast-depends) (📥 470K / month):
+- [PyPi](https://pypi.org/project/fast-depends) (📥 590K / month):
 	```
 	pip install fast-depends
 	```
 </details>
-<details><summary><b><a href="https://github.com/hynek/svcs">svcs</a></b> (🥈26 ·  ⭐ 370) - A Flexible Service Locator for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hynek/svcs">svcs</a></b> (🥈26 ·  ⭐ 380) - A Flexible Service Locator for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hynek/svcs) (👨‍💻 8 · 🔀 21 · 📦 300 · 📋 20 - 10% open · ⏱️ 04.08.2025):
+- [GitHub](https://github.com/hynek/svcs) (👨‍💻 10 · 🔀 21 · 📦 310 · 📋 21 - 4% open · ⏱️ 11.09.2025):
 
 	```
 	git clone https://github.com/hynek/svcs
 	```
-- [PyPi](https://pypi.org/project/svcs) (📥 3.8M / month):
+- [PyPi](https://pypi.org/project/svcs) (📥 4.4M / month):
 	```
 	pip install svcs
 	```
 </details>
-<details><summary><b><a href="https://github.com/meadsteve/lagom">lagom</a></b> (🥈25 ·  ⭐ 320) - Autowiring dependency injection container for python 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/meadsteve/lagom">lagom</a></b> (🥈24 ·  ⭐ 330) - Autowiring dependency injection container for python 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/meadsteve/lagom) (👨‍💻 13 · 🔀 19 · 📦 470 · 📋 140 - 18% open · ⏱️ 28.07.2025):
 
 	```
 	git clone https://github.com/meadsteve/lagom
 	```
-- [PyPi](https://pypi.org/project/lagom) (📥 140K / month):
+- [PyPi](https://pypi.org/project/lagom) (📥 170K / month):
 	```
 	pip install lagom
 	```
 </details>
-<details><summary><b><a href="https://github.com/maldoinc/wireup">wireup</a></b> (🥈23 ·  ⭐ 210) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/maldoinc/wireup">wireup</a></b> (🥉23 ·  ⭐ 220) - Performant, concise, and easy-to-use dependency injection container for Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/maldoinc/wireup) (👨‍💻 8 · 🔀 17 · 📦 24 · 📋 60 - 26% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/maldoinc/wireup) (👨‍💻 10 · 🔀 17 · 📦 25 · 📋 61 - 22% open · ⏱️ 28.09.2025):
 
 	```
 	git clone https://github.com/maldoinc/wireup
 	```
-- [PyPi](https://pypi.org/project/wireup) (📥 17K / month):
+- [PyPi](https://pypi.org/project/wireup) (📥 15K / month):
 	```
 	pip install wireup
 	```
 </details>
-<details><summary><b><a href="https://github.com/ivankorobkov/python-inject">python-inject</a></b> (🥉21 ·  ⭐ 730 · 📉) - Python dependency injection. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/ivankorobkov/python-inject) (👨‍💻 35 · 🔀 80 · 📋 72 - 33% open · ⏱️ 25.08.2025):
-
-	```
-	git clone https://github.com/ivankorobkov/python-inject
-	```
-- [PyPi](https://pypi.org/project/inject) (📥 1.1M / month):
-	```
-	pip install inject
-	```
-</details>
-<details><summary><b><a href="https://github.com/kodemore/kink">kink</a></b> (🥉21 ·  ⭐ 430) - Dependency injection container made for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kodemore/kink">kink</a></b> (🥉22 ·  ⭐ 430) - Dependency injection container made for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/kodemore/kink) (👨‍💻 14 · 🔀 28 · 📦 260 · 📋 28 - 25% open · ⏱️ 19.06.2025):
 
 	```
 	git clone https://github.com/kodemore/kink
 	```
-- [PyPi](https://pypi.org/project/kink) (📥 85K / month):
+- [PyPi](https://pypi.org/project/kink) (📥 120K / month):
 	```
 	pip install kink
 	```
 </details>
 <details><summary><b><a href="https://github.com/modern-python/that-depends">that-depends</a></b> (🥉21 ·  ⭐ 220) - Simple Dependency injection framework for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/modern-python/that-depends) (👨‍💻 15 · 🔀 14 · 📥 220 · 📦 16 · 📋 73 - 5% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/modern-python/that-depends) (👨‍💻 15 · 🔀 14 · 📥 220 · 📦 16 · 📋 73 - 5% open · ⏱️ 21.09.2025):
 
 	```
 	git clone https://github.com/modern-python/that-depends
 	```
-- [PyPi](https://pypi.org/project/that-depends) (📥 13K / month):
+- [PyPi](https://pypi.org/project/that-depends) (📥 21K / month):
 	```
 	pip install that-depends
 	```
 </details>
-<details><summary><b><a href="https://github.com/bobthemighty/punq">punq</a></b> (🥉20 ·  ⭐ 380) - An IoC container for Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bobthemighty/punq">punq</a></b> (🥉20 ·  ⭐ 390) - An IoC container for Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/bobthemighty/punq) (👨‍💻 12 · 🔀 18 · 📦 390 · 📋 46 - 30% open · ⏱️ 06.08.2025):
 
 	```
 	git clone https://github.com/bobthemighty/punq
 	```
-- [PyPi](https://pypi.org/project/punq) (📥 71K / month):
+- [PyPi](https://pypi.org/project/punq) (📥 76K / month):
 	```
 	pip install punq
 	```
 </details>
-<details><summary><b><a href="https://github.com/adriangb/di">di</a></b> (🥉20 ·  ⭐ 320 · 💤) - Pythonic dependency injection. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adriangb/di">di</a></b> (🥉20 ·  ⭐ 330 · 💤) - Pythonic dependency injection. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adriangb/di) (👨‍💻 9 · 🔀 13 · 📦 170 · 📋 49 - 18% open · ⏱️ 09.10.2023):
+- [GitHub](https://github.com/adriangb/di) (👨‍💻 9 · 🔀 14 · 📦 170 · 📋 49 - 18% open · ⏱️ 09.10.2023):
 
 	```
 	git clone https://github.com/adriangb/di
 	```
-- [PyPi](https://pypi.org/project/di) (📥 15K / month):
+- [PyPi](https://pypi.org/project/di) (📥 24K / month):
 	```
 	pip install di
 	```
 </details>
-<details><summary><b><a href="https://github.com/Neoteroi/rodi">rodi</a></b> (🥉20 ·  ⭐ 220) - Implementation of dependency injection for Python 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/illuin-tech/opyoid">opyoid</a></b> (🥉20 ·  ⭐ 75) - Dependency injection library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/illuin-tech/opyoid) (👨‍💻 6 · 🔀 6 · 📦 30 · ⏱️ 22.09.2025):
+
+	```
+	git clone https://github.com/illuin-tech/opyoid
+	```
+- [PyPi](https://pypi.org/project/opyoid) (📥 18K / month):
+	```
+	pip install opyoid
+	```
+</details>
+<details><summary><b><a href="https://github.com/Neoteroi/rodi">rodi</a></b> (🥉19 ·  ⭐ 220) - Implementation of dependency injection for Python 3. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Neoteroi/rodi) (👨‍💻 10 · 🔀 16 · 📦 310 · 📋 22 - 18% open · ⏱️ 12.04.2025):
 
 	```
 	git clone https://github.com/Neoteroi/rodi
 	```
-- [PyPi](https://pypi.org/project/rodi) (📥 33K / month):
+- [PyPi](https://pypi.org/project/rodi) (📥 46K / month):
 	```
 	pip install rodi
 	```
 </details>
-<details><summary><b><a href="https://github.com/illuin-tech/opyoid">opyoid</a></b> (🥉19 ·  ⭐ 75) - Dependency injection library for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/illuin-tech/opyoid) (👨‍💻 6 · 🔀 6 · 📦 30 · ⏱️ 12.08.2025):
-
-	```
-	git clone https://github.com/illuin-tech/opyoid
-	```
-- [PyPi](https://pypi.org/project/opyoid) (📥 6.3K / month):
-	```
-	pip install opyoid
-	```
-</details>
-<details><summary><b><a href="https://github.com/modern-python/modern-di">modern-di</a></b> (🥉17 ·  ⭐ 40) - Powerful DI-framework with scopes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/modern-python/modern-di) (👨‍💻 5 · 🔀 4 · 📦 5 · 📋 30 - 6% open · ⏱️ 27.08.2025):
-
-	```
-	git clone https://github.com/modern-python/modern-di
-	```
-- [PyPi](https://pypi.org/project/modern-di) (📥 1.5K / month):
-	```
-	pip install modern-di
-	```
-</details>
-<details><summary><b><a href="https://github.com/roo-oliv/injectable">injectable</a></b> (🥉16 ·  ⭐ 120 · 💤) - Python Dependency Injection for Humans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/roo-oliv/injectable">injectable</a></b> (🥉17 ·  ⭐ 120 · 💤) - Python Dependency Injection for Humans. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/roo-oliv/injectable) (👨‍💻 6 · 🔀 11 · 📦 32 · 📋 21 - 23% open · ⏱️ 05.08.2024):
 
 	```
 	git clone https://github.com/roo-oliv/injectable
 	```
-- [PyPi](https://pypi.org/project/injectable) (📥 4.2K / month):
+- [PyPi](https://pypi.org/project/injectable) (📥 5.5K / month):
 	```
 	pip install injectable
+	```
+</details>
+<details><summary><b><a href="https://github.com/modern-python/modern-di">modern-di</a></b> (🥉17 ·  ⭐ 40) - Powerful DI-framework with scopes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/modern-python/modern-di) (👨‍💻 6 · 🔀 4 · 📦 5 · 📋 34 - 8% open · ⏱️ 06.09.2025):
+
+	```
+	git clone https://github.com/modern-python/modern-di
+	```
+- [PyPi](https://pypi.org/project/modern-di) (📥 1.3K / month):
+	```
+	pip install modern-di
 	```
 </details>
 <details><summary><b><a href="https://github.com/blubber/django_injector">django_injector</a></b> (🥉11 ·  ⭐ 55 · 💤) - Dependency injection in Django. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
@@ -662,14 +662,14 @@ _Packages which add or help working with management commands._
 	```
 	git clone https://github.com/blubber/django_injector
 	```
-- [PyPi](https://pypi.org/project/django_injector) (📥 2K / month):
+- [PyPi](https://pypi.org/project/django_injector) (📥 2.8K / month):
 	```
 	pip install django_injector
 	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/django-svcs/django-svcs">django-svc</a></b> (🥉6 ·  ⭐ 12) - A Django integration for SVCS. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/django-svcs/django-svcs">django-svc</a></b> (🥉7 ·  ⭐ 12) - A Django integration for SVCS. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -679,12 +679,12 @@ _Packages which add or help working with management commands._
 
 <details><summary><b><a href="https://github.com/django-commons/django-debug-toolbar">django-debug-toolbar</a></b> (🥇40 ·  ⭐ 8.3K) - A configurable set of panels that display various debug information about the current request/response. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-commons/django-debug-toolbar) (👨‍💻 310 · 🔀 950 · 📥 300 · 📦 110K · 📋 980 - 7% open · ⏱️ 17.08.2025):
+- [GitHub](https://github.com/django-commons/django-debug-toolbar) (👨‍💻 310 · 🔀 950 · 📥 310 · 📦 110K · 📋 990 - 7% open · ⏱️ 24.09.2025):
 
 	```
 	git clone https://github.com/jazzband/django-debug-toolbar
 	```
-- [PyPi](https://pypi.org/project/django-debug-toolbar) (📥 5.1M / month):
+- [PyPi](https://pypi.org/project/django-debug-toolbar) (📥 5.5M / month):
 	```
 	pip install django-debug-toolbar
 	```
@@ -697,50 +697,50 @@ _Packages which add or help working with management commands._
 
 <details><summary><b><a href="https://github.com/gauge-sh/tach">tach</a></b> (🥇26 ·  ⭐ 2.5K) - A Python tool to visualize + enforce dependencies, using modular architecture Open source Installable via pip Able to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gauge-sh/tach) (👨‍💻 20 · 🔀 68 · 📦 72 · 📋 130 - 16% open · ⏱️ 04.06.2025):
+- [GitHub](https://github.com/gauge-sh/tach) (👨‍💻 20 · 🔀 70 · 📦 77 · 📋 130 - 16% open · ⏱️ 04.06.2025):
 
 	```
 	git clone https://github.com/gauge-sh/tach
 	```
-- [PyPi](https://pypi.org/project/tach) (📥 830K / month):
+- [PyPi](https://pypi.org/project/tach) (📥 860K / month):
 	```
 	pip install tach
 	```
 </details>
-<details><summary><b><a href="https://github.com/adamchainz/django-browser-reload">django-browser-reload</a></b> (🥈24 ·  ⭐ 610) - Automatically reload your browser in development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adamchainz/django-browser-reload">django-browser-reload</a></b> (🥈25 ·  ⭐ 620) - Automatically reload your browser in development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adamchainz/django-browser-reload) (👨‍💻 6 · 🔀 34 · 📦 6.7K · 📋 43 - 32% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/adamchainz/django-browser-reload) (👨‍💻 7 · 🔀 34 · 📦 6.8K · 📋 43 - 32% open · ⏱️ 22.09.2025):
 
 	```
 	git clone https://github.com/adamchainz/django-browser-reload
 	```
-- [PyPi](https://pypi.org/project/django-browser-reload) (📥 230K / month):
+- [PyPi](https://pypi.org/project/django-browser-reload) (📥 250K / month):
 	```
 	pip install django-browser-reload
 	```
 </details>
-<details><summary><b><a href="https://github.com/boxed/django-fastdev">django-fastdev</a></b> (🥉12 ·  ⭐ 190) - An app to make it safer, faster and more fun to develop in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/adamchainz/django-harlequin">django-harlequin</a></b> (🥉13 ·  ⭐ 82) - Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/adamchainz/django-harlequin) (👨‍💻 5 · 🔀 4 · 📦 8 · ⏱️ 18.09.2025):
+
+	```
+	git clone https://github.com/adamchainz/django-harlequin
+	```
+- [PyPi](https://pypi.org/project/django-harlequin) (📥 3.2K / month):
+	```
+	pip install django-harlequin
+	```
+</details>
+<details><summary><b><a href="https://github.com/boxed/django-fastdev">django-fastdev</a></b> (🥉12 ·  ⭐ 200) - An app to make it safer, faster and more fun to develop in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/boxed/django-fastdev) (👨‍💻 11 · 🔀 15 · 📋 34 - 47% open · ⏱️ 15.05.2025):
 
 	```
 	git clone https://github.com/boxed/django-fastdev
 	```
-- [PyPi](https://pypi.org/project/django-fastdev) (📥 3.8K / month):
+- [PyPi](https://pypi.org/project/django-fastdev) (📥 5.1K / month):
 	```
 	pip install django-fastdev
-	```
-</details>
-<details><summary><b><a href="https://github.com/adamchainz/django-harlequin">django-harlequin</a></b> (🥉12 ·  ⭐ 82) - Launch Harlequin, the SQL IDE for your Terminal, with your Django database configuration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/adamchainz/django-harlequin) (👨‍💻 5 · 🔀 3 · 📦 8 · ⏱️ 11.08.2025):
-
-	```
-	git clone https://github.com/adamchainz/django-harlequin
-	```
-- [PyPi](https://pypi.org/project/django-harlequin) (📥 2.5K / month):
-	```
-	pip install django-harlequin
 	```
 </details>
 <br>
@@ -749,9 +749,9 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/garden-io/garden">Garden</a></b> (🥇32 ·  ⭐ 3.5K) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
+<details><summary><b><a href="https://github.com/garden-io/garden">Garden</a></b> (🥇31 ·  ⭐ 3.5K) - Automation for Kubernetes development and testing. Spin up production-like environments for development, testing, and.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/garden-io/garden) (👨‍💻 120 · 🔀 280 · 📥 3.9M · 📦 3 · 📋 1.7K - 12% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/garden-io/garden) (👨‍💻 120 · 🔀 290 · 📥 4.1M · 📦 3 · 📋 1.7K - 12% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/garden-io/garden
@@ -773,26 +773,26 @@ _Packages which add or help working with management commands._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/typeddjango/django-stubs">django-stubs</a></b> (🥇36 ·  ⭐ 1.8K) - PEP-484 stubs for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/typeddjango/django-stubs">django-stubs</a></b> (🥇37 ·  ⭐ 1.8K) - PEP-484 stubs for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/typeddjango/django-stubs) (👨‍💻 310 · 🔀 420 · 📦 13K · 📋 820 - 20% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/typeddjango/django-stubs) (👨‍💻 320 · 🔀 420 · 📦 13K · 📋 830 - 21% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/typeddjango/django-stubs
 	```
-- [PyPi](https://pypi.org/project/django-stubs) (📥 3.2M / month):
+- [PyPi](https://pypi.org/project/django-stubs) (📥 3.5M / month):
 	```
 	pip install django-stubs
 	```
 </details>
-<details><summary><b><a href="https://github.com/typeddjango/djangorestframework-stubs">djangorestframework-stubs</a></b> (🥉30 ·  ⭐ 510) - PEP-484 stubs for django-rest-framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/typeddjango/djangorestframework-stubs">djangorestframework-stubs</a></b> (🥉31 ·  ⭐ 520) - PEP-484 stubs for django-rest-framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/typeddjango/djangorestframework-stubs) (👨‍💻 81 · 🔀 120 · 📦 3.8K · 📋 150 - 35% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/typeddjango/djangorestframework-stubs) (👨‍💻 87 · 🔀 120 · 📦 3.9K · 📋 160 - 33% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/typeddjango/djangorestframework-stubs
 	```
-- [PyPi](https://pypi.org/project/djangorestframework-stubs) (📥 1.7M / month):
+- [PyPi](https://pypi.org/project/djangorestframework-stubs) (📥 1.9M / month):
 	```
 	pip install djangorestframework-stubs
 	```
@@ -807,36 +807,36 @@ _Packages which improve logging and debugging._
 
 <details><summary><b><a href="https://github.com/Delgan/loguru">loguru</a></b> (🥇38 ·  ⭐ 23K) - Python logging made (stupidly) simple. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 68 · 🔀 740 · 📦 140K · 📋 1.1K - 20% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/Delgan/loguru) (👨‍💻 68 · 🔀 740 · 📦 140K · 📋 1.1K - 20% open · ⏱️ 28.09.2025):
 
 	```
 	git clone https://github.com/Delgan/loguru
 	```
-- [PyPi](https://pypi.org/project/loguru) (📥 36M / month):
+- [PyPi](https://pypi.org/project/loguru) (📥 41M / month):
 	```
 	pip install loguru
 	```
 </details>
-<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 4.2K) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/hynek/structlog">structlog</a></b> (🥈36 ·  ⭐ 4.3K) - Simple, powerful, and fast logging for Python. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/hynek/structlog) (👨‍💻 130 · 🔀 250 · 📦 25K · 📋 370 - 9% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/hynek/structlog) (👨‍💻 140 · 🔀 250 · 📦 26K · 📋 380 - 9% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/hynek/structlog
 	```
-- [PyPi](https://pypi.org/project/structlog) (📥 32M / month):
+- [PyPi](https://pypi.org/project/structlog) (📥 36M / month):
 	```
 	pip install structlog
 	```
 </details>
 <details><summary><b><a href="https://github.com/jrobichaud/django-structlog">django-structlog</a></b> (🥉28 ·  ⭐ 490) - Structured Logging for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jrobichaud/django-structlog) (👨‍💻 24 · 🔀 36 · 📦 920 · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/jrobichaud/django-structlog) (👨‍💻 24 · 🔀 36 · 📦 940 · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/jrobichaud/django-structlog
 	```
-- [PyPi](https://pypi.org/project/django-structlog) (📥 1M / month):
+- [PyPi](https://pypi.org/project/django-structlog) (📥 1.1M / month):
 	```
 	pip install django-structlog
 	```
@@ -848,7 +848,7 @@ _Packages which improve logging and debugging._
 	```
 	git clone https://github.com/snok/django-guid
 	```
-- [PyPi](https://pypi.org/project/django-guid) (📥 130K / month):
+- [PyPi](https://pypi.org/project/django-guid) (📥 140K / month):
 	```
 	pip install django-guid
 	```
@@ -863,33 +863,33 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥇33 ·  ⭐ 3.5K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pydantic/logfire">logfire</a></b> (🥇34 ·  ⭐ 3.6K) - Uncomplicated Observability for Python and beyond!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pydantic/logfire) (👨‍💻 68 · 🔀 140 · 📦 1.8K · 📋 420 - 33% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/pydantic/logfire) (👨‍💻 73 · 🔀 160 · 📦 1.8K · 📋 450 - 27% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/pydantic/logfire
 	```
-- [PyPi](https://pypi.org/project/logfire) (📥 3M / month):
+- [PyPi](https://pypi.org/project/logfire) (📥 2.7M / month):
 	```
 	pip install logfire
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-commons/django-prometheus">django-prometheus</a></b> (🥈32 ·  ⭐ 1.6K) - Export Django monitoring metrics for Prometheus.io. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/django-commons/django-prometheus">django-prometheus</a></b> (🥈31 ·  ⭐ 1.6K) - Export Django monitoring metrics for Prometheus.io. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/django-commons/django-prometheus) (👨‍💻 60 · 🔀 240 · 📦 4.2K · 📋 160 - 40% open · ⏱️ 25.06.2025):
+- [GitHub](https://github.com/django-commons/django-prometheus) (👨‍💻 61 · 🔀 240 · 📦 4.2K · 📋 160 - 40% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/korfuri/django-prometheus
 	```
-- [PyPi](https://pypi.org/project/django-prometheus) (📥 1.6M / month):
+- [PyPi](https://pypi.org/project/django-prometheus) (📥 1.7M / month):
 	```
 	pip install django-prometheus
 	```
 </details>
-<details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉26 ·  ⭐ 8.6K) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/highlight/highlight">highlight</a></b> (🥉26 ·  ⭐ 8.9K) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/highlight/highlight) (👨‍💻 85 · 🔀 450 · 📦 410 · 📋 2.8K - 9% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/highlight/highlight) (👨‍💻 85 · 🔀 460 · 📦 410 · 📋 2.8K - 9% open · ⏱️ 18.09.2025):
 
 	```
 	git clone https://github.com/highlight/highlight
@@ -897,7 +897,7 @@ _Packages which improve logging and debugging._
 </details>
 <details><summary><b><a href="https://github.com/Checkmk/checkmk">CheckMK</a></b> (🥉23 ·  ⭐ 2K) - Checkmk - Best-in-class infrastructure & application monitoring. <code><a href="http://bit.ly/2KucAZR">❗️GPL-2.0</a></code></summary>
 
-- [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 380 · 🔀 500 · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/Checkmk/checkmk) (👨‍💻 390 · 🔀 500 · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/Checkmk/checkmk
@@ -935,43 +935,55 @@ _Packages which improve logging and debugging._
 
 <details><summary><b><a href="https://github.com/pennersr/django-allauth">django-allauth</a></b> (🥇40 ·  ⭐ 10K) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pennersr/django-allauth) (👨‍💻 790 · 🔀 3K · 📦 270K · 📋 2.4K - 0% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/pennersr/django-allauth) (👨‍💻 790 · 🔀 3K · 📦 270K · 📋 2.4K - 0% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/pennersr/django-allauth
 	```
-- [PyPi](https://pypi.org/project/django-allauth) (📥 1.5M / month):
+- [PyPi](https://pypi.org/project/django-allauth) (📥 1.7M / month):
 	```
 	pip install django-allauth
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥇35 ·  ⭐ 3.8K · 📈) - Per object permissions for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/django-guardian/django-guardian">django-guardian</a></b> (🥇35 ·  ⭐ 3.8K) - Per object permissions for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/django-guardian/django-guardian) (👨‍💻 180 · 🔀 560 · 📦 7.6K · 📋 480 - 13% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/django-guardian/django-guardian) (👨‍💻 180 · 🔀 560 · 📦 7.6K · 📋 490 - 7% open · ⏱️ 24.09.2025):
 
 	```
 	git clone https://github.com/django-guardian/django-guardian
 	```
-- [PyPi](https://pypi.org/project/django-guardian) (📥 690K / month):
+- [PyPi](https://pypi.org/project/django-guardian) (📥 700K / month):
 	```
 	pip install django-guardian
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-oauth/django-oauth-toolkit">django-oauth-toolkit</a></b> (🥈33 ·  ⭐ 3.3K) - OAuth2 goodies for the Djangonauts!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/jazzband/django-two-factor-auth">django-two-factor-auth</a></b> (🥈33 ·  ⭐ 1.8K · 📈) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-oauth/django-oauth-toolkit) (👨‍💻 270 · 🔀 770 · 📦 12K · 📋 870 - 21% open · ⏱️ 13.08.2025):
+- [GitHub](https://github.com/jazzband/django-two-factor-auth) (👨‍💻 110 · 🔀 440 · 📦 2.4K · 📋 380 - 22% open · ⏱️ 27.09.2025):
+
+	```
+	git clone https://github.com/jazzband/django-two-factor-auth
+	```
+- [PyPi](https://pypi.org/project/django-two-factor-auth) (📥 820K / month):
+	```
+	pip install django-two-factor-auth
+	```
+</details>
+<details><summary><b><a href="https://github.com/django-oauth/django-oauth-toolkit">django-oauth-toolkit</a></b> (🥈32 ·  ⭐ 3.3K) - OAuth2 goodies for the Djangonauts!. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/django-oauth/django-oauth-toolkit) (👨‍💻 270 · 🔀 780 · 📦 12K · 📋 870 - 21% open · ⏱️ 13.08.2025):
 
 	```
 	git clone https://github.com/jazzband/django-oauth-toolkit
 	```
-- [PyPi](https://pypi.org/project/django-oauth-toolkit) (📥 2.2M / month):
+- [PyPi](https://pypi.org/project/django-oauth-toolkit) (📥 2.6M / month):
 	```
 	pip install django-oauth-toolkit
 	```
 </details>
 <details><summary><b><a href="https://github.com/python-social-auth/social-app-django">social-app-django</a></b> (🥈32 ·  ⭐ 2.1K) - Python Social Auth - Application - Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/python-social-auth/social-app-django) (👨‍💻 330 · 🔀 380 · 📦 52K · 📋 280 - 25% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/python-social-auth/social-app-django) (👨‍💻 340 · 🔀 380 · 📦 52K · 📋 270 - 16% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/python-social-auth/social-app-django
@@ -981,45 +993,21 @@ _Packages which improve logging and debugging._
 	pip install social-app-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/jazzband/django-two-factor-auth">django-two-factor-auth</a></b> (🥈30 ·  ⭐ 1.8K) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/juanifioren/django-oidc-provider">django-oidc-provider</a></b> (🥈29 ·  ⭐ 440) - OpenID Connect and OAuth2 provider implementation for the Django framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-two-factor-auth) (👨‍💻 110 · 🔀 440 · 📦 2.3K · 📋 380 - 22% open · ⏱️ 05.08.2025):
-
-	```
-	git clone https://github.com/jazzband/django-two-factor-auth
-	```
-- [PyPi](https://pypi.org/project/django-two-factor-auth) (📥 830K / month):
-	```
-	pip install django-two-factor-auth
-	```
-</details>
-<details><summary><b><a href="https://github.com/jsocol/django-ratelimit">django-ratelimit</a></b> (🥈27 ·  ⭐ 1.1K · 💤) - Cache-based rate-limiting for Django. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/jsocol/django-ratelimit) (👨‍💻 51 · 🔀 180 · 📦 4.3K · 📋 150 - 17% open · ⏱️ 05.12.2023):
-
-	```
-	git clone https://github.com/jsocol/django-ratelimit
-	```
-- [PyPi](https://pypi.org/project/django-ratelimit) (📥 1.6M / month):
-	```
-	pip install django-ratelimit
-	```
-</details>
-<details><summary><b><a href="https://github.com/juanifioren/django-oidc-provider">django-oidc-provider</a></b> (🥈27 ·  ⭐ 440) - OpenID Connect and OAuth2 provider implementation for the Django framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/juanifioren/django-oidc-provider) (👨‍💻 75 · 🔀 220 · 📦 430 · 📋 210 - 24% open · ⏱️ 24.05.2025):
+- [GitHub](https://github.com/juanifioren/django-oidc-provider) (👨‍💻 76 · 🔀 220 · 📦 430 · 📋 210 - 24% open · ⏱️ 23.09.2025):
 
 	```
 	git clone https://github.com/juanifioren/django-oidc-provider
 	```
-- [PyPi](https://pypi.org/project/django-oidc-provider) (📥 18K / month):
+- [PyPi](https://pypi.org/project/django-oidc-provider) (📥 21K / month):
 	```
 	pip install django-oidc-provider
 	```
 </details>
-<details><summary><b><a href="https://github.com/bennylope/django-organizations">django-organizations</a></b> (🥉26 ·  ⭐ 1.3K) - Multi-user accounts for Django projects. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bennylope/django-organizations">django-organizations</a></b> (🥈27 ·  ⭐ 1.3K) - Multi-user accounts for Django projects. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/bennylope/django-organizations) (👨‍💻 49 · 🔀 210 · 📦 320 · 📋 150 - 10% open · ⏱️ 10.06.2025):
+- [GitHub](https://github.com/bennylope/django-organizations) (👨‍💻 49 · 🔀 210 · 📦 320 · 📋 160 - 10% open · ⏱️ 10.06.2025):
 
 	```
 	git clone https://github.com/bennylope/django-organizations
@@ -1029,50 +1017,62 @@ _Packages which improve logging and debugging._
 	pip install django-organizations
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-otp/django-otp">django-otp</a></b> (🥉26 ·  ⭐ 590) - A pluggable framework for adding two-factor authentication to Django using one-time passwords. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
+<details><summary><b><a href="https://github.com/jsocol/django-ratelimit">django-ratelimit</a></b> (🥈27 ·  ⭐ 1.1K · 💤) - Cache-based rate-limiting for Django. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/jsocol/django-ratelimit) (👨‍💻 51 · 🔀 180 · 📦 4.3K · 📋 150 - 17% open · ⏱️ 05.12.2023):
+
+	```
+	git clone https://github.com/jsocol/django-ratelimit
+	```
+- [PyPi](https://pypi.org/project/django-ratelimit) (📥 2.1M / month):
+	```
+	pip install django-ratelimit
+	```
+</details>
+<details><summary><b><a href="https://github.com/django-otp/django-otp">django-otp</a></b> (🥉26 ·  ⭐ 600) - A pluggable framework for adding two-factor authentication to Django using one-time passwords. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code></summary>
 
 - [GitHub](https://github.com/django-otp/django-otp) (👨‍💻 50 · 🔀 110 · 📦 4.4K · 📋 87 - 13% open · ⏱️ 08.07.2025):
 
 	```
 	git clone https://github.com/django-otp/django-otp
 	```
-- [PyPi](https://pypi.org/project/django-otp) (📥 1.5M / month):
+- [PyPi](https://pypi.org/project/django-otp) (📥 1.7M / month):
 	```
 	pip install django-otp
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-cas-ng/django-cas-ng">django-cas-ng</a></b> (🥉26 ·  ⭐ 390) - Django CAS 1.0/2.0/3.0 client authentication library, supporting Django 4.2+ and Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-cas-ng/django-cas-ng">django-cas-ng</a></b> (🥉25 ·  ⭐ 390) - Django CAS 1.0/2.0/3.0 client authentication library, supporting Django 4.2+ and Python 3.8+. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/django-cas-ng/django-cas-ng) (👨‍💻 89 · 🔀 160 · 📥 720 · 📦 620 · 📋 160 - 1% open · ⏱️ 21.07.2025):
 
 	```
 	git clone https://github.com/django-cas-ng/django-cas-ng
 	```
-- [PyPi](https://pypi.org/project/django-cas-ng) (📥 32K / month):
+- [PyPi](https://pypi.org/project/django-cas-ng) (📥 40K / month):
 	```
 	pip install django-cas-ng
 	```
 </details>
-<details><summary><b><a href="https://github.com/snok/django-auth-adfs">django-auth-adfs</a></b> (🥉24 ·  ⭐ 290) - A Django authentication backend for Microsoft ADFS and AzureAD. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/snok/django-auth-adfs">django-auth-adfs</a></b> (🥉25 ·  ⭐ 290) - A Django authentication backend for Microsoft ADFS and AzureAD. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/snok/django-auth-adfs) (👨‍💻 49 · 🔀 100 · 📦 180 · 📋 220 - 15% open · ⏱️ 09.04.2025):
 
 	```
 	git clone https://github.com/snok/django-auth-adfs
 	```
-- [PyPi](https://pypi.org/project/django-auth-adfs) (📥 74K / month):
+- [PyPi](https://pypi.org/project/django-auth-adfs) (📥 83K / month):
 	```
 	pip install django-auth-adfs
 	```
 </details>
 <details><summary><b><a href="https://github.com/valohai/django-allauth-2fa">django-allauth-2fa</a></b> (🥉22 ·  ⭐ 220) - Two-factor authentication for Django Allauth. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/valohai/django-allauth-2fa) (👨‍💻 34 · 🔀 50 · 📥 30 · 📦 250 · 📋 74 - 17% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/valohai/django-allauth-2fa) (👨‍💻 34 · 🔀 51 · 📥 30 · 📦 250 · 📋 74 - 17% open · ⏱️ 11.08.2025):
 
 	```
 	git clone https://github.com/valohai/django-allauth-2fa
 	```
-- [PyPi](https://pypi.org/project/django-allauth-2fa) (📥 55K / month):
+- [PyPi](https://pypi.org/project/django-allauth-2fa) (📥 57K / month):
 	```
 	pip install django-allauth-2fa
 	```
@@ -1084,7 +1084,7 @@ _Packages which improve logging and debugging._
 	```
 	git clone https://github.com/caffeinehit/django-oauth2-provider
 	```
-- [PyPi](https://pypi.org/project/django-oauth2-provider) (📥 12K / month):
+- [PyPi](https://pypi.org/project/django-oauth2-provider) (📥 14K / month):
 	```
 	pip install django-oauth2-provider
 	```
@@ -1096,16 +1096,16 @@ _Packages which improve logging and debugging._
 	```
 	git clone https://github.com/idlesign/django-oauthost
 	```
-- [PyPi](https://pypi.org/project/django-oauthost) (📥 120 / month):
+- [PyPi](https://pypi.org/project/django-oauthost) (📥 42 / month):
 	```
 	pip install django-oauthost
 	```
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/dimagi/django-prbac">django-prbac</a></b> (🥉15 ·  ⭐ 140 · 💤) -  <code>❗Unlicensed</code>
-- <b><a href="https://github.com/dropseed/django-oauth-login">django-oauth-login</a></b> (🥉11 ·  ⭐ 17) - A minimal app that adds OAuth login support to your Django project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/jrd/django-oauth2-authcodeflow">django-oauth2-authcodeflow</a></b> (🥉9 ·  ⭐ 16) - Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dimagi/django-prbac">django-prbac</a></b> (🥉17 ·  ⭐ 150) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jrd/django-oauth2-authcodeflow">django-oauth2-authcodeflow</a></b> (🥉10 ·  ⭐ 17) - Authenticate with any OpenId Connect/Oauth2 provider through authorization code flow. PKCE is also supported. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/dropseed/django-oauth-login">django-oauth-login</a></b> (🥉10 ·  ⭐ 17) - A minimal app that adds OAuth login support to your Django project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -1113,14 +1113,14 @@ _Packages which improve logging and debugging._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/dfunckt/django-rules">django-rules</a></b> (🥇19 ·  ⭐ 1.9K) - Awesome Django authorization, without the database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dfunckt/django-rules">django-rules</a></b> (🥇19 ·  ⭐ 1.9K · 💤) - Awesome Django authorization, without the database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dfunckt/django-rules) (👨‍💻 32 · 🔀 140 · 📋 110 - 24% open · ⏱️ 02.09.2024):
+- [GitHub](https://github.com/dfunckt/django-rules) (👨‍💻 32 · 🔀 140 · 📋 120 - 25% open · ⏱️ 02.09.2024):
 
 	```
 	git clone https://github.com/dfunckt/django-rules
 	```
-- [PyPi](https://pypi.org/project/django-rules) (📥 240 / month):
+- [PyPi](https://pypi.org/project/django-rules) (📥 150 / month):
 	```
 	pip install django-rules
 	```
@@ -1133,62 +1133,62 @@ _Packages which improve logging and debugging._
 
 <details><summary><b><a href="https://github.com/celery/celery">celery</a></b> (🥇45 ·  ⭐ 27K) - Distributed Task Queue (development branch). <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/celery/celery) (👨‍💻 1.4K · 🔀 4.7K · 📦 180K · 📋 5.2K - 13% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/celery/celery) (👨‍💻 1.4K · 🔀 4.7K · 📦 180K · 📋 5.2K - 13% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/celery/celery
 	```
-- [PyPi](https://pypi.org/project/celery) (📥 26M / month):
+- [PyPi](https://pypi.org/project/celery) (📥 28M / month):
 	```
 	pip install celery
 	```
 </details>
-<details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥈37 ·  ⭐ 10K) - Simple job queues for Python. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/rq/rq">rq</a></b> (🥈38 ·  ⭐ 10K) - Simple job queues for Python. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/rq/rq) (👨‍💻 340 · 🔀 1.4K · 📦 21K · 📋 1.2K - 17% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/rq/rq) (👨‍💻 340 · 🔀 1.4K · 📦 21K · 📋 1.2K - 17% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/rq/rq
 	```
-- [PyPi](https://pypi.org/project/rq) (📥 3M / month):
+- [PyPi](https://pypi.org/project/rq) (📥 3.3M / month):
 	```
 	pip install rq
 	```
 </details>
-<details><summary><b><a href="https://github.com/Bogdanp/dramatiq">dramatiq</a></b> (🥈34 ·  ⭐ 4.8K) - A fast and reliable background task processing library for Python 3. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Bogdanp/dramatiq">dramatiq</a></b> (🥈34 ·  ⭐ 4.9K) - A fast and reliable background task processing library for Python 3. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Bogdanp/dramatiq) (👨‍💻 120 · 🔀 340 · 📥 56 · 📦 1.5K · 📋 420 - 10% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/Bogdanp/dramatiq) (👨‍💻 130 · 🔀 340 · 📥 56 · 📦 1.6K · 📋 420 - 9% open · ⏱️ 23.09.2025):
 
 	```
 	git clone https://github.com/Bogdanp/dramatiq
 	```
-- [PyPi](https://pypi.org/project/dramatiq) (📥 610K / month):
+- [PyPi](https://pypi.org/project/dramatiq) (📥 690K / month):
 	```
 	pip install dramatiq
 	```
 </details>
-<details><summary><b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥉33 ·  ⭐ 1.9K) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/celery/django-celery-beat">django-celery-beat</a></b> (🥈34 ·  ⭐ 1.8K) - Celery Periodic Tasks backed by the Django ORM. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/rq/django-rq) (👨‍💻 140 · 🔀 290 · 📦 4.2K · 📋 370 - 26% open · ⏱️ 31.08.2025):
-
-	```
-	git clone https://github.com/rq/django-rq
-	```
-- [PyPi](https://pypi.org/project/django-rq) (📥 470K / month):
-	```
-	pip install django-rq
-	```
-</details>
-<details><summary><b><a href="https://github.com/celery/django-celery-beat">django-celery-beat</a></b> (🥉32 ·  ⭐ 1.8K) - Celery Periodic Tasks backed by the Django ORM. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/celery/django-celery-beat) (👨‍💻 140 · 🔀 460 · 📥 12 · 📦 29K · 📋 460 - 21% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/celery/django-celery-beat) (👨‍💻 140 · 🔀 460 · 📥 14 · 📦 29K · 📋 460 - 22% open · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/celery/django-celery-beat
 	```
-- [PyPi](https://pypi.org/project/django-celery-beat) (📥 3.2M / month):
+- [PyPi](https://pypi.org/project/django-celery-beat) (📥 3.5M / month):
 	```
 	pip install django-celery-beat
+	```
+</details>
+<details><summary><b><a href="https://github.com/rq/django-rq">django-rq</a></b> (🥉32 ·  ⭐ 1.9K) - A simple app that provides django integration for RQ (Redis Queue). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/rq/django-rq) (👨‍💻 140 · 🔀 290 · 📦 4.2K · 📋 370 - 26% open · ⏱️ 30.09.2025):
+
+	```
+	git clone https://github.com/rq/django-rq
+	```
+- [PyPi](https://pypi.org/project/django-rq) (📥 490K / month):
+	```
+	pip install django-rq
 	```
 </details>
 <details><summary><b><a href="https://github.com/Koed00/django-q">django-q</a></b> (🥉30 ·  ⭐ 1.9K · 💤) - A multiprocessing distributed task queue for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1198,7 +1198,7 @@ _Packages which improve logging and debugging._
 	```
 	git clone https://github.com/Koed00/django-q
 	```
-- [PyPi](https://pypi.org/project/django-q) (📥 62K / month):
+- [PyPi](https://pypi.org/project/django-q) (📥 61K / month):
 	```
 	pip install django-q
 	```
@@ -1211,14 +1211,14 @@ _Packages which improve logging and debugging._
 
 _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
-<details><summary><b><a href="https://github.com/pytransitions/transitions">transitions</a></b> (🥇35 ·  ⭐ 6.2K) - A lightweight, object-oriented finite state machine implementation in Python with many extensions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pytransitions/transitions">transitions</a></b> (🥇34 ·  ⭐ 6.2K · 📉) - A lightweight, object-oriented finite state machine implementation in Python with many extensions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pytransitions/transitions) (👨‍💻 79 · 🔀 540 · 📦 4.1K · 📋 460 - 2% open · ⏱️ 03.07.2025):
+- [GitHub](https://github.com/pytransitions/transitions) (👨‍💻 80 · 🔀 540 · 📦 4.2K · 📋 470 - 2% open · ⏱️ 09.09.2025):
 
 	```
 	git clone https://github.com/pytransitions/transitions
 	```
-- [PyPi](https://pypi.org/project/transitions) (📥 1.5M / month):
+- [PyPi](https://pypi.org/project/transitions) (📥 1.4M / month):
 	```
 	pip install transitions
 	```
@@ -1230,7 +1230,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	```
 	git clone https://github.com/viewflow/django-fsm
 	```
-- [PyPi](https://pypi.org/project/django-fsm) (📥 470K / month):
+- [PyPi](https://pypi.org/project/django-fsm) (📥 490K / month):
 	```
 	pip install django-fsm
 	```
@@ -1242,14 +1242,14 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	```
 	git clone https://github.com/jazzband/django-fsm-log
 	```
-- [PyPi](https://pypi.org/project/django-fsm-log) (📥 60K / month):
+- [PyPi](https://pypi.org/project/django-fsm-log) (📥 56K / month):
 	```
 	pip install django-fsm-log
 	```
 </details>
-<details><summary><b><a href="https://github.com/viewflow/viewflow">viewflow</a></b> (🥉22 ·  ⭐ 2.8K) - Reusable workflow library for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/viewflow/viewflow">viewflow</a></b> (🥉23 ·  ⭐ 2.8K) - Reusable workflow library for Django. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/viewflow/viewflow) (👨‍💻 2 · 🔀 410 · 📦 360 · 📋 360 - 5% open · ⏱️ 25.07.2025):
+- [GitHub](https://github.com/viewflow/viewflow) (👨‍💻 2 · 🔀 410 · 📦 360 · 📋 360 - 5% open · ⏱️ 24.09.2025):
 
 	```
 	git clone https://github.com/viewflow/viewflow
@@ -1266,7 +1266,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	```
 	git clone https://github.com/gadventures/django-fsm-admin
 	```
-- [PyPi](https://pypi.org/project/django-fsm-admin) (📥 15K / month):
+- [PyPi](https://pypi.org/project/django-fsm-admin) (📥 11K / month):
 	```
 	pip install django-fsm-admin
 	```
@@ -1274,7 +1274,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/27medkamal/djangorestframework-fsm">djangorestframework-fsm</a></b> (🥉10 ·  ⭐ 19 · 💤) - Automatically hook your Django-FSM transitions up to Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/ming-tung/django-fsm-freeze">django-fsm-freeze</a></b> (🥉7 ·  ⭐ 3 · 💤) - django-fsm data immutability support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/ming-tung/django-fsm-freeze">django-fsm-freeze</a></b> (🥉8 ·  ⭐ 3 · 💤) - django-fsm data immutability support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -1282,38 +1282,38 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/encode/django-rest-framework">django-rest-framework</a></b> (🥇42 ·  ⭐ 29K) - Web APIs for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/encode/django-rest-framework">django-rest-framework</a></b> (🥇42 ·  ⭐ 30K) - Web APIs for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/encode/django-rest-framework) (👨‍💻 1.4K · 🔀 6.9K · 📦 850K · 📋 3.9K - 1% open · ⏱️ 21.08.2025):
+- [GitHub](https://github.com/encode/django-rest-framework) (👨‍💻 1.4K · 🔀 6.9K · 📦 850K · 📋 3.9K - 1% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/encode/django-rest-framework
 	```
-- [PyPi](https://pypi.org/project/django-rest-framework) (📥 140K / month):
+- [PyPi](https://pypi.org/project/django-rest-framework) (📥 150K / month):
 	```
 	pip install django-rest-framework
 	```
 </details>
 <details><summary><b><a href="https://github.com/jazzband/djangorestframework-simplejwt">djangorestframework-simplejwt</a></b> (🥈29 ·  ⭐ 4.2K) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/djangorestframework-simplejwt) (👨‍💻 140 · 🔀 640 · 📋 510 - 22% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/jazzband/djangorestframework-simplejwt) (👨‍💻 140 · 🔀 640 · 📋 510 - 22% open · ⏱️ 21.09.2025):
 
 	```
 	git clone https://github.com/jazzband/djangorestframework-simplejwt
 	```
-- [PyPi](https://pypi.org/project/djangorestframework-simplejwt) (📥 4.2M / month):
+- [PyPi](https://pypi.org/project/djangorestframework-simplejwt) (📥 4.5M / month):
 	```
 	pip install djangorestframework-simplejwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/anexia-it/django-rest-passwordreset">django-rest-passwordreset</a></b> (🥉26 ·  ⭐ 430) - An extension of django rest framework, providing a configurable password reset strategy. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/anexia-it/django-rest-passwordreset">django-rest-passwordreset</a></b> (🥉26 ·  ⭐ 440) - An extension of django rest framework, providing a configurable password reset strategy. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/anexia-it/django-rest-passwordreset) (👨‍💻 40 · 🔀 140 · 📦 4.4K · 📋 110 - 24% open · ⏱️ 13.11.2024):
 
 	```
 	git clone https://github.com/anexia-it/django-rest-passwordreset
 	```
-- [PyPi](https://pypi.org/project/django-rest-passwordreset) (📥 240K / month):
+- [PyPi](https://pypi.org/project/django-rest-passwordreset) (📥 260K / month):
 	```
 	pip install django-rest-passwordreset
 	```
@@ -1325,7 +1325,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	```
 	git clone https://github.com/yezyilomo/django-restql
 	```
-- [PyPi](https://pypi.org/project/django-restql) (📥 30K / month):
+- [PyPi](https://pypi.org/project/django-restql) (📥 36K / month):
 	```
 	pip install django-restql
 	```
@@ -1348,38 +1348,38 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇30 ·  ⭐ 8.5K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vitalik/django-ninja">django-ninja</a></b> (🥇30 ·  ⭐ 8.6K) - Fast, Async-ready, Openapi, type hints based framework for building APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 170 · 🔀 520 · 📋 940 - 36% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/vitalik/django-ninja) (👨‍💻 170 · 🔀 520 · 📋 950 - 36% open · ⏱️ 21.09.2025):
 
 	```
 	git clone https://github.com/vitalik/django-ninja
 	```
-- [PyPi](https://pypi.org/project/django-ninja) (📥 860K / month):
+- [PyPi](https://pypi.org/project/django-ninja) (📥 890K / month):
 	```
 	pip install django-ninja
 	```
 </details>
-<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-jwt">django-ninja-jwt</a></b> (🥈25 ·  ⭐ 200) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-jwt">django-ninja-jwt</a></b> (🥈26 ·  ⭐ 210) - A JSON Web Token authentication plugin for the Django REST Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/eadwinCode/django-ninja-jwt) (👨‍💻 88 · 🔀 28 · 📦 500 · 📋 39 - 46% open · ⏱️ 17.08.2025):
+- [GitHub](https://github.com/eadwinCode/django-ninja-jwt) (👨‍💻 88 · 🔀 30 · 📦 500 · 📋 39 - 46% open · ⏱️ 13.09.2025):
 
 	```
 	git clone https://github.com/eadwinCode/django-ninja-jwt
 	```
-- [PyPi](https://pypi.org/project/django-ninja-jwt) (📥 78K / month):
+- [PyPi](https://pypi.org/project/django-ninja-jwt) (📥 88K / month):
 	```
 	pip install django-ninja-jwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-extra">django-ninja-extra</a></b> (🥈23 ·  ⭐ 510) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/eadwinCode/django-ninja-extra">django-ninja-extra</a></b> (🥈23 ·  ⭐ 520) - Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/eadwinCode/django-ninja-extra) (👨‍💻 24 · 🔀 43 · 📋 96 - 19% open · ⏱️ 15.08.2025):
+- [GitHub](https://github.com/eadwinCode/django-ninja-extra) (👨‍💻 24 · 🔀 44 · 📋 97 - 19% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/eadwinCode/django-ninja-extra
 	```
-- [PyPi](https://pypi.org/project/django-ninja-extra) (📥 150K / month):
+- [PyPi](https://pypi.org/project/django-ninja-extra) (📥 170K / month):
 	```
 	pip install django-ninja-extra
 	```
@@ -1391,7 +1391,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 	```
 	git clone https://github.com/mawassk/django-ninja-apikey
 	```
-- [PyPi](https://pypi.org/project/django-ninja-apikey) (📥 1.6K / month):
+- [PyPi](https://pypi.org/project/django-ninja-apikey) (📥 2.5K / month):
 	```
 	pip install django-ninja-apikey
 	```
@@ -1399,7 +1399,7 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/eadwinCode/django-ninja-passwordreset">django-ninja-passwordreset</a></b> (🥉14 ·  ⭐ 5 · 💤) - An extension of django rest framework, providing a configurable password reset strategy. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
-- <b><a href="https://github.com/mugartec/django-ninja-auth">django-ninja-auth</a></b> (🥉7 ·  ⭐ 35 · 💤) -  <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
+- <b><a href="https://github.com/mugartec/django-ninja-auth">django-ninja-auth</a></b> (🥉6 ·  ⭐ 35 · 💤) -  <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
 </details>
 <br>
 
@@ -1409,48 +1409,48 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <details><summary><b><a href="https://github.com/pydantic/pydantic">pydantic</a></b> (🥇46 ·  ⭐ 25K) - Data validation using Python type hints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pydantic/pydantic) (👨‍💻 640 · 🔀 2.2K · 📦 900K · 📋 5.3K - 9% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/pydantic/pydantic) (👨‍💻 640 · 🔀 2.2K · 📦 910K · 📋 5.3K - 9% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/pydantic/pydantic
 	```
-- [PyPi](https://pypi.org/project/pydantic) (📥 400M / month):
+- [PyPi](https://pypi.org/project/pydantic) (📥 450M / month):
 	```
 	pip install pydantic
 	```
 </details>
-<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥈19 ·  ⭐ 460 · 💤) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥈20 ·  ⭐ 89) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 34 · 📦 85 · 📋 41 - 31% open · ⏱️ 13.02.2023):
-
-	```
-	git clone https://github.com/jordaneremieff/djantic
-	```
-- [PyPi](https://pypi.org/project/djantic) (📥 7.3K / month):
-	```
-	pip install djantic
-	```
-</details>
-<details><summary><b><a href="https://github.com/yezz123/pyngo">pyngo</a></b> (🥉18 ·  ⭐ 89) - Pydantic model support for Django & Django-Rest-Framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/yezz123/pyngo) (👨‍💻 8 · 🔀 8 · 📦 27 · ⏱️ 08.08.2025):
+- [GitHub](https://github.com/yezz123/pyngo) (👨‍💻 8 · 🔀 8 · 📦 27 · ⏱️ 08.09.2025):
 
 	```
 	git clone https://github.com/yezz123/pyngo
 	```
-- [PyPi](https://pypi.org/project/pyngo) (📥 17K / month):
+- [PyPi](https://pypi.org/project/pyngo) (📥 18K / month):
 	```
 	pip install pyngo
 	```
 </details>
-<details><summary><b><a href="https://github.com/jonathan-s/djantic2">djantic2</a></b> (🥉15 ·  ⭐ 86) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jordaneremieff/djantic">djantic</a></b> (🥉19 ·  ⭐ 460 · 💤) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jordaneremieff/djantic) (👨‍💻 4 · 🔀 34 · 📦 86 · 📋 41 - 31% open · ⏱️ 13.02.2023):
+
+	```
+	git clone https://github.com/jordaneremieff/djantic
+	```
+- [PyPi](https://pypi.org/project/djantic) (📥 7.5K / month):
+	```
+	pip install djantic
+	```
+</details>
+<details><summary><b><a href="https://github.com/jonathan-s/djantic2">djantic2</a></b> (🥉15 ·  ⭐ 88) - Pydantic model support for Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jonathan-s/djantic2) (👨‍💻 9 · 🔀 11 · 📦 5 · 📋 16 - 37% open · ⏱️ 27.05.2025):
 
 	```
 	git clone https://github.com/jonathan-s/djantic2
 	```
-- [PyPi](https://pypi.org/project/djantic) (📥 7.3K / month):
+- [PyPi](https://pypi.org/project/djantic) (📥 7.5K / month):
 	```
 	pip install djantic
 	```
@@ -1461,14 +1461,14 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/chrisdev/django-pandas">django-pandas</a></b> (🥇24 ·  ⭐ 810) - Tools for working with pandas in your Django projects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/chrisdev/django-pandas">django-pandas</a></b> (🥇25 ·  ⭐ 810) - Tools for working with pandas in your Django projects. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/chrisdev/django-pandas) (👨‍💻 36 · 🔀 120 · 📦 2.6K · 📋 86 - 17% open · ⏱️ 30.05.2025):
 
 	```
 	git clone https://github.com/chrisdev/django-pandas
 	```
-- [PyPi](https://pypi.org/project/django-pandas) (📥 140K / month):
+- [PyPi](https://pypi.org/project/django-pandas) (📥 150K / month):
 	```
 	pip install django-pandas
 	```
@@ -1481,40 +1481,40 @@ _Packages to implement Finite State Machines (e.g. to implement workflows)._
 
 _Packages to implement GraphQL API._
 
-<details><summary><b><a href="https://github.com/graphql-python/graphene">graphene</a></b> (🥇36 ·  ⭐ 8.2K) - GraphQL framework for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/graphql-python/graphene">graphene</a></b> (🥇37 ·  ⭐ 8.2K) - GraphQL framework for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/graphql-python/graphene) (👨‍💻 210 · 🔀 800 · 📦 29K · 📋 1K - 9% open · ⏱️ 09.11.2024):
+- [GitHub](https://github.com/graphql-python/graphene) (👨‍💻 210 · 🔀 800 · 📦 29K · 📋 1K - 8% open · ⏱️ 09.11.2024):
 
 	```
 	git clone https://github.com/graphql-python/graphene
 	```
-- [PyPi](https://pypi.org/project/graphene) (📥 23M / month):
+- [PyPi](https://pypi.org/project/graphene) (📥 24M / month):
 	```
 	pip install graphene
 	```
 </details>
-<details><summary><b><a href="https://github.com/mirumee/ariadne">ariadne</a></b> (🥈34 ·  ⭐ 2.3K) - Python library for implementing GraphQL servers using schema-first approach. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 85 · 🔀 190 · 📥 57 · 📦 2K · 📋 330 - 11% open · ⏱️ 15.07.2025):
-
-	```
-	git clone https://github.com/mirumee/ariadne
-	```
-- [PyPi](https://pypi.org/project/ariadne) (📥 860K / month):
-	```
-	pip install ariadne
-	```
-</details>
-<details><summary><b><a href="https://github.com/graphql-python/graphene-django">graphene-django</a></b> (🥈32 ·  ⭐ 4.4K · 📉) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/graphql-python/graphene-django">graphene-django</a></b> (🥈33 ·  ⭐ 4.4K) - Build powerful, efficient, and flexible GraphQL APIs with seamless Django integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/graphql-python/graphene-django) (👨‍💻 220 · 🔀 740 · 📦 16K · 📋 830 - 17% open · ⏱️ 23.06.2025):
 
 	```
 	git clone https://github.com/graphql-python/graphene-django
 	```
-- [PyPi](https://pypi.org/project/graphene-django) (📥 650K / month):
+- [PyPi](https://pypi.org/project/graphene-django) (📥 720K / month):
 	```
 	pip install graphene-django
+	```
+</details>
+<details><summary><b><a href="https://github.com/mirumee/ariadne">ariadne</a></b> (🥈33 ·  ⭐ 2.3K · 📉) - Python library for implementing GraphQL servers using schema-first approach. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/mirumee/ariadne) (👨‍💻 85 · 🔀 180 · 📥 57 · 📦 2K · 📋 330 - 11% open · ⏱️ 18.09.2025):
+
+	```
+	git clone https://github.com/mirumee/ariadne
+	```
+- [PyPi](https://pypi.org/project/ariadne) (📥 870K / month):
+	```
+	pip install ariadne
 	```
 </details>
 <details><summary><b><a href="https://github.com/flavors/django-graphql-jwt">django-graphql-jwt</a></b> (🥉28 ·  ⭐ 820 · 💤) - JSON Web Token (JWT) authentication for Graphene Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1524,31 +1524,31 @@ _Packages to implement GraphQL API._
 	```
 	git clone https://github.com/flavors/django-graphql-jwt
 	```
-- [PyPi](https://pypi.org/project/django-graphql-jwt) (📥 120K / month):
+- [PyPi](https://pypi.org/project/django-graphql-jwt) (📥 140K / month):
 	```
 	pip install django-graphql-jwt
 	```
 </details>
-<details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> (🥉27 ·  ⭐ 4.4K) - A GraphQL library for Python that leverages type annotations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/strawberry-graphql/strawberry">strawberry</a></b> (🥉26 ·  ⭐ 4.4K) - A GraphQL library for Python that leverages type annotations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 290 · 🔀 580 · 📥 420 · 📋 1.1K - 34% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/strawberry-graphql/strawberry) (👨‍💻 290 · 🔀 580 · 📥 420 · 📋 1.1K - 34% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/strawberry-graphql/strawberry
 	```
-- [PyPi](https://pypi.org/project/strawberry) (📥 820 / month):
+- [PyPi](https://pypi.org/project/strawberry) (📥 590 / month):
 	```
 	pip install strawberry
 	```
 </details>
 <details><summary><b><a href="https://github.com/strawberry-graphql/strawberry-django">strawberry-graphql-django</a></b> (🥉25 ·  ⭐ 470) - Strawberry GraphQL Django extension. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/strawberry-graphql/strawberry-django) (👨‍💻 100 · 🔀 140 · 📋 380 - 25% open · ⏱️ 14.08.2025):
+- [GitHub](https://github.com/strawberry-graphql/strawberry-django) (👨‍💻 100 · 🔀 140 · 📋 380 - 25% open · ⏱️ 23.09.2025):
 
 	```
 	git clone https://github.com/strawberry-graphql/strawberry-graphql-django
 	```
-- [PyPi](https://pypi.org/project/strawberry-graphql-django) (📥 500K / month):
+- [PyPi](https://pypi.org/project/strawberry-graphql-django) (📥 760K / month):
 	```
 	pip install strawberry-graphql-django
 	```
@@ -1560,7 +1560,7 @@ _Packages to implement GraphQL API._
 	```
 	git clone https://github.com/PedroBern/django-graphql-auth
 	```
-- [PyPi](https://pypi.org/project/django-graphql-auth) (📥 6K / month):
+- [PyPi](https://pypi.org/project/django-graphql-auth) (📥 5.6K / month):
 	```
 	pip install django-graphql-auth
 	```
@@ -1572,7 +1572,7 @@ _Packages to implement GraphQL API._
 	```
 	git clone https://github.com/mirumee/ariadne-django
 	```
-- [PyPi](https://pypi.org/project/ariadne-django) (📥 16K / month):
+- [PyPi](https://pypi.org/project/ariadne-django) (📥 20K / month):
 	```
 	pip install ariadne-django
 	```
@@ -1585,12 +1585,12 @@ _Packages to implement GraphQL API._
 
 <details><summary><b><a href="https://github.com/django-waffle/django-waffle">django-waffle</a></b> (🥇31 ·  ⭐ 1.2K) - A feature flipper for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-waffle/django-waffle) (👨‍💻 120 · 🔀 240 · 📦 1.6K · 📋 220 - 18% open · ⏱️ 14.06.2025):
+- [GitHub](https://github.com/django-waffle/django-waffle) (👨‍💻 120 · 🔀 240 · 📦 1.6K · 📋 220 - 18% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/django-waffle/django-waffle
 	```
-- [PyPi](https://pypi.org/project/django-waffle) (📥 960K / month):
+- [PyPi](https://pypi.org/project/django-waffle) (📥 1.5M / month):
 	```
 	pip install django-waffle
 	```
@@ -1610,7 +1610,7 @@ _Packages which add application layer statistic functionality._
 	```
 	git clone https://github.com/pennersr/django-trackstats
 	```
-- [PyPi](https://pypi.org/project/django-trackstats) (📥 1.8K / month):
+- [PyPi](https://pypi.org/project/django-trackstats) (📥 2.3K / month):
 	```
 	pip install django-trackstats
 	```
@@ -1621,21 +1621,21 @@ _Packages which add application layer statistic functionality._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pytest-dev/pytest-django">pytest-django</a></b> (🥇37 ·  ⭐ 1.5K) - A Django plugin for pytest. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/pytest-dev/pytest-django">pytest-django</a></b> (🥇36 ·  ⭐ 1.5K · 📉) - A Django plugin for pytest. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/pytest-dev/pytest-django) (👨‍💻 150 · 🔀 340 · 📦 93K · 📋 560 - 28% open · ⏱️ 15.08.2025):
+- [GitHub](https://github.com/pytest-dev/pytest-django) (👨‍💻 150 · 🔀 340 · 📦 94K · 📋 560 - 28% open · ⏱️ 02.09.2025):
 
 	```
 	git clone https://github.com/pytest-dev/pytest-django
 	```
-- [PyPi](https://pypi.org/project/pytest-django) (📥 13M / month):
+- [PyPi](https://pypi.org/project/pytest-django) (📥 9.8M / month):
 	```
 	pip install pytest-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/wemake-services/django-test-migrations">django-test-migrations</a></b> (🥈27 ·  ⭐ 560) - Test django schema and data migrations, including migrations order and best practices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wemake-services/django-test-migrations">django-test-migrations</a></b> (🥈26 ·  ⭐ 560) - Test django schema and data migrations, including migrations order and best practices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wemake-services/django-test-migrations) (👨‍💻 20 · 🔀 33 · 📦 980 · 📋 68 - 22% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/wemake-services/django-test-migrations) (👨‍💻 20 · 🔀 33 · 📦 980 · 📋 68 - 22% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/wemake-services/django-test-migrations
@@ -1647,36 +1647,36 @@ _Packages which add application layer statistic functionality._
 </details>
 <details><summary><b><a href="https://github.com/FactoryBoy/factory_boy">factory_boy</a></b> (🥉25 ·  ⭐ 3.7K) - A test fixtures replacement for Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FactoryBoy/factory_boy) (👨‍💻 130 · 🔀 400 · 📋 600 - 27% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/FactoryBoy/factory_boy) (👨‍💻 130 · 🔀 400 · 📋 600 - 26% open · ⏱️ 31.08.2025):
 
 	```
 	git clone https://github.com/FactoryBoy/factory_boy
 	```
-- [PyPi](https://pypi.org/project/factory_boy) (📥 9.9M / month):
+- [PyPi](https://pypi.org/project/factory_boy) (📥 11M / month):
 	```
 	pip install factory_boy
 	```
 </details>
-<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model_bakery</a></b> (🥉21 ·  ⭐ 930) - Object factory for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model_bakery</a></b> (🥉22 ·  ⭐ 940) - Object factory for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 63 · 🔀 96 · 📋 150 - 17% open · ⏱️ 12.08.2025):
+- [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 63 · 🔀 96 · 📋 150 - 16% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/model-bakers/model_bakery
 	```
-- [PyPi](https://pypi.org/project/model_bakery) (📥 930K / month):
+- [PyPi](https://pypi.org/project/model_bakery) (📥 1.1M / month):
 	```
 	pip install model_bakery
 	```
 </details>
-<details><summary><b><a href="https://github.com/revsys/django-test-plus">django-test-plus</a></b> (🥉19 ·  ⭐ 630) - Useful additions to Djangos default TestCase. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/revsys/django-test-plus">django-test-plus</a></b> (🥉18 ·  ⭐ 630) - Useful additions to Djangos default TestCase. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/revsys/django-test-plus) (👨‍💻 36 · 🔀 63 · 📋 59 - 10% open · ⏱️ 02.07.2025):
 
 	```
 	git clone https://github.com/revsys/django-test-plus
 	```
-- [PyPi](https://pypi.org/project/django-test-plus) (📥 97K / month):
+- [PyPi](https://pypi.org/project/django-test-plus) (📥 110K / month):
 	```
 	pip install django-test-plus
 	```
@@ -1689,24 +1689,24 @@ _Packages which add application layer statistic functionality._
 
 <details><summary><b><a href="https://github.com/zyskarch/pytestarch">PyTestArch</a></b> (🥇18 ·  ⭐ 120) - Test framework for software architecture based on imports between modules. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/zyskarch/pytestarch) (👨‍💻 11 · 🔀 9 · 📋 43 - 11% open · ⏱️ 22.08.2025):
+- [GitHub](https://github.com/zyskarch/pytestarch) (👨‍💻 11 · 🔀 9 · 📋 48 - 20% open · ⏱️ 22.08.2025):
 
 	```
 	git clone https://github.com/zyskarch/pytestarch
 	```
-- [PyPi](https://pypi.org/project/pytestarch) (📥 33K / month):
+- [PyPi](https://pypi.org/project/pytestarch) (📥 36K / month):
 	```
 	pip install pytestarch
 	```
 </details>
-<details><summary><b><a href="https://github.com/jwbargsten/pytest-archon">pytest-archon</a></b> (🥈15 ·  ⭐ 65 · 💤) - Rule your architecture like a real developer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/jwbargsten/pytest-archon">pytest-archon</a></b> (🥈16 ·  ⭐ 66) - Rule your architecture like a real developer. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/jwbargsten/pytest-archon) (👨‍💻 3 · 🔀 1 · 📦 17 · 📋 8 - 12% open · ⏱️ 26.02.2024):
+- [GitHub](https://github.com/jwbargsten/pytest-archon) (👨‍💻 3 · 🔀 2 · 📦 17 · 📋 9 - 22% open · ⏱️ 19.09.2025):
 
 	```
 	git clone https://github.com/jwbargsten/pytest-archon
 	```
-- [PyPi](https://pypi.org/project/pytest-archon) (📥 470K / month):
+- [PyPi](https://pypi.org/project/pytest-archon) (📥 640K / month):
 	```
 	pip install pytest-archon
 	```
@@ -1722,14 +1722,26 @@ _Packages which add application layer statistic functionality._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/fpgmaas/deptry">deptry</a></b> (🥇31 ·  ⭐ 1.2K) - Find unused, missing and transitive dependencies in a Python project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/astral-sh/ruff">ruff</a></b> (🥇47 ·  ⭐ 43K · 📈) - An extremely fast Python linter and code formatter, written in Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fpgmaas/deptry) (👨‍💻 13 · 🔀 27 · 📦 1.5K · 📋 190 - 20% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/astral-sh/ruff) (👨‍💻 730 · 🔀 1.5K · 📥 3.9M · 📦 130K · 📋 7.3K - 21% open · ⏱️ 30.09.2025):
+
+	```
+	git clone https://github.com/astral-sh/ruff
+	```
+- [PyPi](https://pypi.org/project/ruff) (📥 88M / month):
+	```
+	pip install ruff
+	```
+</details>
+<details><summary><b><a href="https://github.com/fpgmaas/deptry">deptry</a></b> (🥉31 ·  ⭐ 1.2K) - Find unused, missing and transitive dependencies in a Python project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/fpgmaas/deptry) (👨‍💻 13 · 🔀 28 · 📦 1.6K · 📋 190 - 20% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/fpgmaas/deptry
 	```
-- [PyPi](https://pypi.org/project/deptry) (📥 2.2M / month):
+- [PyPi](https://pypi.org/project/deptry) (📥 2.5M / month):
 	```
 	pip install deptry
 	```
@@ -1742,12 +1754,12 @@ _Packages which add application layer statistic functionality._
 
 <details><summary><b><a href="https://github.com/aboutcode-org/vulnerablecode">vulnerablecode</a></b> (🥇25 ·  ⭐ 630) - A free and open vulnerabilities database and the packages they impact. And the tools to aggregate and correlate these.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aboutcode-org/vulnerablecode) (👨‍💻 51 · 🔀 230 · 📥 500 · 📋 1.1K - 55% open · ⏱️ 01.08.2025):
+- [GitHub](https://github.com/aboutcode-org/vulnerablecode) (👨‍💻 51 · 🔀 230 · 📥 510 · 📋 1.1K - 55% open · ⏱️ 16.09.2025):
 
 	```
 	git clone https://github.com/aboutcode-org/vulnerablecode
 	```
-- [PyPi](https://pypi.org/project/vulnerablecode) (📥 140 / month):
+- [PyPi](https://pypi.org/project/vulnerablecode) (📥 150 / month):
 	```
 	pip install vulnerablecode
 	```
@@ -1762,36 +1774,36 @@ _Content Management Systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/wagtail/wagtail">wagtail</a></b> (🥇42 ·  ⭐ 20K) - A Django content management system focused on flexibility and user experience. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 1K · 🔀 4.1K · 📦 12K · 📋 5.4K - 15% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/wagtail/wagtail) (👨‍💻 1K · 🔀 4.1K · 📦 12K · 📋 5.4K - 15% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/wagtail/wagtail
 	```
-- [PyPi](https://pypi.org/project/wagtail) (📥 420K / month):
+- [PyPi](https://pypi.org/project/wagtail) (📥 430K / month):
 	```
 	pip install wagtail
 	```
 </details>
 <details><summary><b><a href="https://github.com/django-cms/django-cms">django-cms</a></b> (🥉40 ·  ⭐ 11K) - The easy-to-use and developer-friendly enterprise CMS powered by Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-cms/django-cms) (👨‍💻 590 · 🔀 3.1K · 📦 5.5K · 📋 3.6K - 0% open · ⏱️ 28.08.2025):
+- [GitHub](https://github.com/django-cms/django-cms) (👨‍💻 590 · 🔀 3.1K · 📦 5.5K · 📋 3.6K - 0% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/django-cms/django-cms
 	```
-- [PyPi](https://pypi.org/project/django-cms) (📥 82K / month):
+- [PyPi](https://pypi.org/project/django-cms) (📥 97K / month):
 	```
 	pip install django-cms
 	```
 </details>
-<details><summary><b><a href="https://github.com/stephenmcd/mezzanine">mezzanine</a></b> (🥉32 ·  ⭐ 4.8K) - CMS framework for Django. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/stephenmcd/mezzanine">mezzanine</a></b> (🥉33 ·  ⭐ 4.8K) - CMS framework for Django. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
 - [GitHub](https://github.com/stephenmcd/mezzanine) (👨‍💻 330 · 🔀 1.6K · 📦 2.5K · 📋 1.1K - 3% open · ⏱️ 06.04.2025):
 
 	```
 	git clone https://github.com/stephenmcd/mezzanine
 	```
-- [PyPi](https://pypi.org/project/mezzanine) (📥 5.4K / month):
+- [PyPi](https://pypi.org/project/mezzanine) (📥 8.5K / month):
 	```
 	pip install mezzanine
 	```
@@ -1806,36 +1818,36 @@ _E-Commerce frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/django-oscar/django-oscar">django-oscar</a></b> (🥇36 ·  ⭐ 6.5K) - Domain-driven e-commerce for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-oscar/django-oscar) (👨‍💻 380 · 🔀 2.2K · 📦 1.2K · 📋 1.5K - 6% open · ⏱️ 12.08.2025):
+- [GitHub](https://github.com/django-oscar/django-oscar) (👨‍💻 380 · 🔀 2.2K · 📦 1.2K · 📋 1.5K - 6% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/django-oscar/django-oscar
 	```
-- [PyPi](https://pypi.org/project/django-oscar) (📥 41K / month):
+- [PyPi](https://pypi.org/project/django-oscar) (📥 60K / month):
 	```
 	pip install django-oscar
 	```
 </details>
 <details><summary><b><a href="https://github.com/saleor/saleor">saleor</a></b> (🥈32 ·  ⭐ 22K) - Saleor Core: the high performance, composable, headless commerce API. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/saleor/saleor) (👨‍💻 310 · 🔀 5.6K · 📥 790 · 📦 7 · 📋 4.4K - 4% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/saleor/saleor) (👨‍💻 320 · 🔀 5.7K · 📥 790 · 📦 7 · 📋 4.4K - 4% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/saleor/saleor
 	```
-- [PyPi](https://pypi.org/project/saleor) (📥 49 / month):
+- [PyPi](https://pypi.org/project/saleor) (📥 21 / month):
 	```
 	pip install saleor
 	```
 </details>
-<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉26 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/awesto/django-shop">django-shop</a></b> (🥉25 ·  ⭐ 3.3K · 💤) - A Django based shop system. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/awesto/django-shop) (👨‍💻 96 · 🔀 1K · 📦 230 · 📋 380 - 23% open · ⏱️ 28.02.2021):
 
 	```
 	git clone https://github.com/awesto/django-shop
 	```
-- [PyPi](https://pypi.org/project/django-shop) (📥 3K / month):
+- [PyPi](https://pypi.org/project/django-shop) (📥 690 / month):
 	```
 	pip install django-shop
 	```
@@ -1847,7 +1859,7 @@ _E-Commerce frameworks which use Django under the hood._
 	```
 	git clone https://github.com/shuup/shuup
 	```
-- [PyPi](https://pypi.org/project/shuup) (📥 5.2K / month):
+- [PyPi](https://pypi.org/project/shuup) (📥 5.8K / month):
 	```
 	pip install shuup
 	```
@@ -1880,9 +1892,9 @@ _Analytics frameworks which use Django under the hood._
 
 _Project management frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/makeplane/plane">plane</a></b> (🥇29 ·  ⭐ 38K) - Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/makeplane/plane">plane</a></b> (🥇29 ·  ⭐ 39K) - Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/makeplane/plane) (👨‍💻 130 · 🔀 2.6K · 📥 64K · 📋 1.3K - 33% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/makeplane/plane) (👨‍💻 130 · 🔀 2.7K · 📥 77K · 📋 1.4K - 34% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/makeplane/plane
@@ -1906,7 +1918,7 @@ _Monitoring frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/getsentry/sentry">sentry</a></b> (🥇38 ·  ⭐ 42K) - Developer-first error tracking and performance monitoring. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 960 · 🔀 4.4K · 📥 6.2K · 📦 570 · 📋 16K - 13% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/getsentry/sentry) (👨‍💻 980 · 🔀 4.4K · 📥 6.2K · 📦 570 · 📋 16K - 11% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/getsentry/sentry
@@ -1920,17 +1932,17 @@ _Monitoring frameworks which use Django under the hood._
 
 _Security frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo</a></b> (🥇34 ·  ⭐ 4.2K) - DevSecOps, ASPM, Vulnerability Management. All on one platform. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/DefectDojo/django-DefectDojo">DefectDojo</a></b> (🥇34 ·  ⭐ 4.2K) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/DefectDojo/django-DefectDojo) (👨‍💻 520 · 🔀 1.7K · 📥 570K · 📋 3K - 10% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/DefectDojo/django-DefectDojo) (👨‍💻 530 · 🔀 1.7K · 📥 610K · 📋 3.1K - 9% open · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/DefectDojo/django-DefectDojo
 	```
 </details>
-<details><summary><b><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">Mobile Security Framework (MobSF)</a></b> (🥉26 ·  ⭐ 19K) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/MobSF/Mobile-Security-Framework-MobSF">Mobile Security Framework (MobSF)</a></b> (🥉26 ·  ⭐ 20K) - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (👨‍💻 100 · 🔀 3.4K · 📦 5 · 📋 1.5K - 0% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) (👨‍💻 100 · 🔀 3.4K · 📦 5 · 📋 1.5K - 0% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/MobSF/Mobile-Security-Framework-MobSF
@@ -1938,7 +1950,7 @@ _Security frameworks which use Django under the hood._
 </details>
 <details><summary><b><a href="https://github.com/intelowlproject/IntelOwl">Intel owl</a></b> (🥉21 ·  ⭐ 4.3K) - IntelOwl: manage your Threat Intelligence at scale. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/intelowlproject/IntelOwl) (👨‍💻 69 · 🔀 500 · 📋 630 - 7% open · ⏱️ 20.05.2025):
+- [GitHub](https://github.com/intelowlproject/IntelOwl) (👨‍💻 70 · 🔀 500 · 📋 630 - 7% open · ⏱️ 20.05.2025):
 
 	```
 	git clone https://github.com/intelowlproject/IntelOwl
@@ -1950,9 +1962,9 @@ _Security frameworks which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/intuitem/ciso-assistant-community">CISO Assistant (Community Edition)</a></b> (🥇23 ·  ⭐ 3.1K) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/intuitem/ciso-assistant-community">CISO Assistant (Community Edition)</a></b> (🥇23 ·  ⭐ 3.2K) - CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec, Compliance/Audit Management, Privacy and supporting.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/intuitem/ciso-assistant-community) (👨‍💻 67 · 🔀 460 · 📋 460 - 16% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/intuitem/ciso-assistant-community) (👨‍💻 74 · 🔀 480 · 📋 480 - 14% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/intuitem/ciso-assistant-community
@@ -1964,9 +1976,9 @@ _Security frameworks which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jumpserver/jumpserver">JumpServer (Community Edition)</a></b> (🥇35 ·  ⭐ 29K) - JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/jumpserver/jumpserver">JumpServer (Community Edition)</a></b> (🥇35 ·  ⭐ 29K) - JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/jumpserver/jumpserver) (👨‍💻 180 · 🔀 5.5K · 📥 98K · 📦 21 · 📋 7.3K - 0% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/jumpserver/jumpserver) (👨‍💻 180 · 🔀 5.5K · 📥 95K · 📦 21 · 📋 7.4K - 0% open · ⏱️ 28.09.2025):
 
 	```
 	git clone https://github.com/jumpserver/jumpserver
@@ -1982,7 +1994,7 @@ _Photo management frameworks which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/LibrePhotos/librephotos">librephotos</a></b> (🥇21 ·  ⭐ 7.8K) - A self-hosted open source photo management service. This is the repository of the backend. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/LibrePhotos/librephotos) (👨‍💻 78 · 🔀 360 · 📋 900 - 28% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/LibrePhotos/librephotos) (👨‍💻 78 · 🔀 360 · 📋 900 - 28% open · ⏱️ 20.09.2025):
 
 	```
 	git clone https://github.com/LibrePhotos/librephotos
@@ -1996,9 +2008,9 @@ _Photo management frameworks which use Django under the hood._
 
 _Recipe management frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/TandoorRecipes/recipes">Tandoor Recipes</a></b> (🥇25 ·  ⭐ 7.2K) - Application for managing recipes, planning meals, building shopping lists and much much more!. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/TandoorRecipes/recipes">Tandoor Recipes</a></b> (🥇25 ·  ⭐ 7.3K) - Application for managing recipes, planning meals, building shopping lists and much much more!. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/TandoorRecipes/recipes) (👨‍💻 440 · 🔀 680 · 📋 2.1K - 13% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/TandoorRecipes/recipes) (👨‍💻 440 · 🔀 690 · 📋 2.2K - 13% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/TandoorRecipes/recipes
@@ -2012,9 +2024,9 @@ _Recipe management frameworks which use Django under the hood._
 
 _Document management frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless-ngx</a></b> (🥇32 ·  ⭐ 31K) - A community-supported supercharged document management system: scan, index and archive all your documents. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/paperless-ngx/paperless-ngx">Paperless-ngx</a></b> (🥇32 ·  ⭐ 32K) - A community-supported supercharged document management system: scan, index and archive all your documents. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/paperless-ngx/paperless-ngx) (👨‍💻 410 · 🔀 1.9K · 📥 190K · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/paperless-ngx/paperless-ngx) (👨‍💻 420 · 🔀 2K · 📥 200K · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/paperless-ngx/paperless-ngx
@@ -2028,9 +2040,9 @@ _Document management frameworks which use Django under the hood._
 
 _Education frameworks which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/openedx/edx-platform">Open edX</a></b> (🥇29 ·  ⭐ 7.8K) - The Open edX LMS & Studio, powering education sites around the world!. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/openedx/edx-platform">Open edX</a></b> (🥇29 ·  ⭐ 7.9K) - The Open edX LMS & Studio, powering education sites around the world!. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/openedx/edx-platform) (👨‍💻 1.5K · 🔀 3.8K · 📦 3 · 📋 830 - 31% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/openedx/edx-platform) (👨‍💻 1.5K · 🔀 3.8K · 📦 3 · 📋 850 - 31% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/openedx/edx-platform
@@ -2044,9 +2056,9 @@ _Education frameworks which use Django under the hood._
 
 _Inventory management systems which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/inventree/InvenTree">InvenTree</a></b> (🥇29 ·  ⭐ 5.7K) - Open Source Inventory Management System. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/inventree/InvenTree">InvenTree</a></b> (🥇29 ·  ⭐ 5.8K) - Open Source Inventory Management System. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/inventree/InvenTree) (👨‍💻 110 · 🔀 1K · 📥 1.9K · 📦 8 · 📋 3K - 5% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/inventree/InvenTree) (👨‍💻 110 · 🔀 1.1K · 📥 2K · 📦 8 · 📋 3.1K - 5% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/inventree/InvenTree
@@ -2060,7 +2072,7 @@ _Inventory management systems which use Django under the hood._
 
 _Web crawler management systems which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/Gerapy/Gerapy">Gerapy</a></b> (🥇21 ·  ⭐ 3.5K) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Gerapy/Gerapy">Gerapy</a></b> (🥇21 ·  ⭐ 3.5K · 💤) - Distributed Crawler Management Framework Based on Scrapy, Scrapyd, Django and Vue.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Gerapy/Gerapy) (👨‍💻 17 · 🔀 640 · 📦 150 · 📋 220 - 30% open · ⏱️ 07.09.2024):
 
@@ -2076,9 +2088,9 @@ _Web crawler management systems which use Django under the hood._
 
 _Network automation systems which use Django under the hood._
 
-<details><summary><b><a href="https://github.com/netbox-community/netbox">netbox</a></b> (🥇31 ·  ⭐ 19K) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/netbox-community/netbox">netbox</a></b> (🥇32 ·  ⭐ 19K) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free:.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 420 · 🔀 2.8K · 📋 12K - 2% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/netbox-community/netbox) (👨‍💻 420 · 🔀 2.8K · 📋 12K - 2% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/netbox-community/netbox
@@ -2113,7 +2125,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/georgemarshall/django-cryptography">django-cryptography</a></b> (🥇18 ·  ⭐ 400 · 💤) - Easily encrypt data in Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/georgemarshall/django-cryptography) (👨‍💻 4 · 🔀 78 · 📋 74 - 56% open · ⏱️ 16.02.2024):
+- [GitHub](https://github.com/georgemarshall/django-cryptography) (👨‍💻 4 · 🔀 77 · 📋 75 - 57% open · ⏱️ 16.02.2024):
 
 	```
 	git clone https://github.com/georgemarshall/django-cryptography
@@ -2125,12 +2137,12 @@ _Network automation systems which use Django under the hood._
 </details>
 <details><summary><b><a href="https://github.com/luojilab/django-mirage-field">django-mirage-field</a></b> (🥈17 ·  ⭐ 93 · 💤) - Django model field encrypt/decrypt your data, keep secret in database. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/luojilab/django-mirage-field) (👨‍💻 9 · 🔀 13 · 📦 110 · 📋 14 - 14% open · ⏱️ 19.04.2022):
+- [GitHub](https://github.com/luojilab/django-mirage-field) (👨‍💻 9 · 🔀 12 · 📦 110 · 📋 14 - 14% open · ⏱️ 19.04.2022):
 
 	```
 	git clone https://github.com/luojilab/django-mirage-field
 	```
-- [PyPi](https://pypi.org/project/django-mirage-field) (📥 17K / month):
+- [PyPi](https://pypi.org/project/django-mirage-field) (📥 16K / month):
 	```
 	pip install django-mirage-field
 	```
@@ -2148,14 +2160,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/stefanfoulis/django-phonenumber-field">django-phonenumber-field</a></b> (🥇34 ·  ⭐ 1.5K) - A django model and form field for normalised phone numbers using python-phonenumbers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stefanfoulis/django-phonenumber-field">django-phonenumber-field</a></b> (🥇33 ·  ⭐ 1.5K) - A django model and form field for normalised phone numbers using python-phonenumbers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/stefanfoulis/django-phonenumber-field) (👨‍💻 120 · 🔀 300 · 📥 41 · 📦 32K · 📋 230 - 3% open · ⏱️ 22.08.2025):
 
 	```
 	git clone https://github.com/stefanfoulis/django-phonenumber-field
 	```
-- [PyPi](https://pypi.org/project/django-phonenumber-field) (📥 2.6M / month):
+- [PyPi](https://pypi.org/project/django-phonenumber-field) (📥 2.8M / month):
 	```
 	pip install django-phonenumber-field
 	```
@@ -2177,26 +2189,26 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/furious-luke/django-address
 	```
-- [PyPi](https://pypi.org/project/django-address) (📥 9.5K / month):
+- [PyPi](https://pypi.org/project/django-address) (📥 9.3K / month):
 	```
 	pip install django-address
 	```
 </details>
-<details><summary><b><a href="https://github.com/madisona/django-google-maps">django-google-maps</a></b> (🥈22 ·  ⭐ 280) - Using the Google Maps API with django model admin. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/madisona/django-google-maps">django-google-maps</a></b> (🥇24 ·  ⭐ 280) - Using the Google Maps API with django model admin. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/madisona/django-google-maps) (👨‍💻 20 · 🔀 96 · 📦 690 · 📋 47 - 25% open · ⏱️ 24.07.2025):
+- [GitHub](https://github.com/madisona/django-google-maps) (👨‍💻 20 · 🔀 96 · 📦 690 · 📋 47 - 25% open · ⏱️ 21.09.2025):
 
 	```
 	git clone https://github.com/madisona/django-google-maps
 	```
-- [PyPi](https://pypi.org/project/django-google-maps) (📥 27K / month):
+- [PyPi](https://pypi.org/project/django-google-maps) (📥 31K / month):
 	```
 	pip install django-google-maps
 	```
 </details>
-<details><summary><b><a href="https://github.com/openwisp/django-loci">django-loci</a></b> (🥈22 ·  ⭐ 180) - Reusable Django app for storing geographic and indoor coordinates. Maintained by the OpenWISP Project. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/openwisp/django-loci">django-loci</a></b> (🥉22 ·  ⭐ 180) - Reusable Django app for storing geographic and indoor coordinates. Maintained by the OpenWISP Project. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/openwisp/django-loci) (👨‍💻 32 · 🔀 48 · 📦 15 · 📋 45 - 4% open · ⏱️ 02.08.2025):
+- [GitHub](https://github.com/openwisp/django-loci) (👨‍💻 32 · 🔀 47 · 📦 15 · 📋 45 - 4% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/openwisp/django-loci
@@ -2206,14 +2218,14 @@ _Network automation systems which use Django under the hood._
 	pip install django-loci
 	```
 </details>
-<details><summary><b><a href="https://github.com/simon-the-shark/django-mapbox-location-field">django-mapbox-location-field</a></b> (🥉20 ·  ⭐ 69 · 💤) - Simple in use location model and form field with MapInput widget for picking some location. Uses mapbox gl js,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/simon-the-shark/django-mapbox-location-field">django-mapbox-location-field</a></b> (🥉20 ·  ⭐ 70 · 💤) - Simple in use location model and form field with MapInput widget for picking some location. Uses mapbox gl js,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/simon-the-shark/django-mapbox-location-field) (👨‍💻 8 · 🔀 22 · 📦 600 · 📋 28 - 17% open · ⏱️ 20.06.2024):
 
 	```
 	git clone https://github.com/Simon-the-Shark/django-mapbox-location-field
 	```
-- [PyPi](https://pypi.org/project/django-mapbox-location-field) (📥 1.5K / month):
+- [PyPi](https://pypi.org/project/django-mapbox-location-field) (📥 1.4K / month):
 	```
 	pip install django-mapbox-location-field
 	```
@@ -2228,38 +2240,38 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-commons/django-simple-history">django-simple-history</a></b> (🥇35 ·  ⭐ 2.4K) - Store model history and view/revert changes from admin site. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/etianen/django-reversion">django-reversion</a></b> (🥇36 ·  ⭐ 3.1K · 📈) - django-reversion is an extension to the Django web framework that provides version control for model instances. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-commons/django-simple-history) (👨‍💻 190 · 🔀 470 · 📥 5 · 📦 7K · 📋 620 - 24% open · ⏱️ 12.08.2025):
-
-	```
-	git clone https://github.com/jazzband/django-simple-history
-	```
-- [PyPi](https://pypi.org/project/django-simple-history) (📥 2.1M / month):
-	```
-	pip install django-simple-history
-	```
-</details>
-<details><summary><b><a href="https://github.com/etianen/django-reversion">django-reversion</a></b> (🥈33 ·  ⭐ 3.1K · 💤) - django-reversion is an extension to the Django web framework that provides version control for model instances. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/etianen/django-reversion) (👨‍💻 190 · 🔀 460 · 📦 7.8K · 📋 660 - 3% open · ⏱️ 09.08.2024):
+- [GitHub](https://github.com/etianen/django-reversion) (👨‍💻 190 · 🔀 460 · 📦 7.8K · 📋 660 - 2% open · ⏱️ 21.09.2025):
 
 	```
 	git clone https://github.com/etianen/django-reversion
 	```
-- [PyPi](https://pypi.org/project/django-reversion) (📥 920K / month):
+- [PyPi](https://pypi.org/project/django-reversion) (📥 1.1M / month):
 	```
 	pip install django-reversion
 	```
 </details>
+<details><summary><b><a href="https://github.com/django-commons/django-simple-history">django-simple-history</a></b> (🥇36 ·  ⭐ 2.4K) - Store model history and view/revert changes from admin site. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+
+- [GitHub](https://github.com/django-commons/django-simple-history) (👨‍💻 190 · 🔀 470 · 📥 5 · 📦 7K · 📋 620 - 24% open · ⏱️ 24.09.2025):
+
+	```
+	git clone https://github.com/jazzband/django-simple-history
+	```
+- [PyPi](https://pypi.org/project/django-simple-history) (📥 2.2M / month):
+	```
+	pip install django-simple-history
+	```
+</details>
 <details><summary><b><a href="https://github.com/jazzband/django-auditlog">django-auditlog</a></b> (🥈33 ·  ⭐ 1.3K) - A Django app that keeps a log of changes made to an object. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jazzband/django-auditlog) (👨‍💻 94 · 🔀 390 · 📥 510 · 📦 1.6K · 📋 320 - 25% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/jazzband/django-auditlog) (👨‍💻 94 · 🔀 390 · 📥 510 · 📦 1.6K · 📋 320 - 26% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/jazzband/django-auditlog
 	```
-- [PyPi](https://pypi.org/project/django-auditlog) (📥 640K / month):
+- [PyPi](https://pypi.org/project/django-auditlog) (📥 670K / month):
 	```
 	pip install django-auditlog
 	```
@@ -2271,19 +2283,19 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/soynatan/django-easy-audit
 	```
-- [PyPi](https://pypi.org/project/django-easy-audit) (📥 71K / month):
+- [PyPi](https://pypi.org/project/django-easy-audit) (📥 75K / month):
 	```
 	pip install django-easy-audit
 	```
 </details>
-<details><summary><b><a href="https://github.com/romgar/django-dirtyfields">django-dirtyfields</a></b> (🥉24 ·  ⭐ 640) - Tracking dirty fields on a Django model. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/romgar/django-dirtyfields">django-dirtyfields</a></b> (🥉24 ·  ⭐ 650) - Tracking dirty fields on a Django model. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/romgar/django-dirtyfields) (👨‍💻 44 · 🔀 96 · 📦 690 · 📋 74 - 16% open · ⏱️ 09.08.2025):
+- [GitHub](https://github.com/romgar/django-dirtyfields) (👨‍💻 44 · 🔀 96 · 📦 690 · 📋 74 - 14% open · ⏱️ 09.08.2025):
 
 	```
 	git clone https://github.com/romgar/django-dirtyfields
 	```
-- [PyPi](https://pypi.org/project/django-dirtyfields) (📥 470K / month):
+- [PyPi](https://pypi.org/project/django-dirtyfields) (📥 490K / month):
 	```
 	pip install django-dirtyfields
 	```
@@ -2295,14 +2307,14 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/craigds/django-fieldsignals
 	```
-- [PyPi](https://pypi.org/project/django-fieldsignals) (📥 31K / month):
+- [PyPi](https://pypi.org/project/django-fieldsignals) (📥 37K / month):
 	```
 	pip install django-fieldsignals
 	```
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/vvangelovski/django-audit-log">django-audit-log</a></b> (🥉18 ·  ⭐ 230 · 💀) - Audit log for your Django models. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/vvangelovski/django-audit-log">django-audit-log</a></b> (🥉17 ·  ⭐ 230 · 💀) - Audit log for your Django models. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -2310,14 +2322,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/lamby/django-slack">django-slack</a></b> (🥇22 ·  ⭐ 240) - Slack integration for Django, using the templating engine to generate messages. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/lamby/django-slack">django-slack</a></b> (🥇21 ·  ⭐ 240) - Slack integration for Django, using the templating engine to generate messages. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/lamby/django-slack) (👨‍💻 30 · 🔀 56 · 📦 460 · 📋 63 - 14% open · ⏱️ 11.07.2025):
 
 	```
 	git clone https://github.com/lamby/django-slack
 	```
-- [PyPi](https://pypi.org/project/django-slack) (📥 100K / month):
+- [PyPi](https://pypi.org/project/django-slack) (📥 110K / month):
 	```
 	pip install django-slack
 	```
@@ -2329,31 +2341,31 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/stefanfoulis/django-sendsms
 	```
-- [PyPi](https://pypi.org/project/django-sendsms) (📥 5.9K / month):
+- [PyPi](https://pypi.org/project/django-sendsms) (📥 5K / month):
 	```
 	pip install django-sendsms
 	```
 </details>
-<details><summary><b><a href="https://github.com/roaldnefs/django-sms">django-sms</a></b> (🥉13 ·  ⭐ 57 · 💤) - A Django app for sending SMS with interchangeable backends. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/roaldnefs/django-sms">django-sms</a></b> (🥉13 ·  ⭐ 58 · 💤) - A Django app for sending SMS with interchangeable backends. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/roaldnefs/django-sms) (👨‍💻 3 · 🔀 13 · 📋 16 - 43% open · ⏱️ 07.01.2024):
 
 	```
 	git clone https://github.com/roaldnefs/django-sms
 	```
-- [PyPi](https://pypi.org/project/django-sms) (📥 19K / month):
+- [PyPi](https://pypi.org/project/django-sms) (📥 18K / month):
 	```
 	pip install django-sms
 	```
 </details>
-<details><summary><b><a href="https://github.com/Ninjaclasher/django-discord-integration">django-discord-integration</a></b> (🥉8 ·  ⭐ 23 · 💤) - Discord integration for Django, supporting error reporting via webhooks. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Ninjaclasher/django-discord-integration">django-discord-integration</a></b> (🥉9 ·  ⭐ 23 · 💤) - Discord integration for Django, supporting error reporting via webhooks. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/Ninjaclasher/django-discord-integration) (👨‍💻 2 · 🔀 1 · 📦 7 · 📋 3 - 33% open · ⏱️ 28.05.2024):
 
 	```
 	git clone https://github.com/Ninjaclasher/django-discord-integration
 	```
-- [PyPi](https://pypi.org/project/django-discord-integration) (📥 790 / month):
+- [PyPi](https://pypi.org/project/django-discord-integration) (📥 700 / month):
 	```
 	pip install django-discord-integration
 	```
@@ -2368,26 +2380,26 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jschneier/django-storages">django-storages</a></b> (🥇33 ·  ⭐ 2.9K) - https://django-storages.readthedocs.io/. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/jschneier/django-storages">django-storages</a></b> (🥇34 ·  ⭐ 2.9K) - https://django-storages.readthedocs.io/. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/jschneier/django-storages) (👨‍💻 280 · 🔀 830 · 📦 220K · 📋 750 - 15% open · ⏱️ 18.06.2025):
 
 	```
 	git clone https://github.com/jschneier/django-storages
 	```
-- [PyPi](https://pypi.org/project/django-storages) (📥 5.9M / month):
+- [PyPi](https://pypi.org/project/django-storages) (📥 6.3M / month):
 	```
 	pip install django-storages
 	```
 </details>
 <details><summary><b><a href="https://github.com/py-pa/django-minio-storage">django-minio-storage</a></b> (🥉23 ·  ⭐ 160) - A django storage driver for minio. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/py-pa/django-minio-storage) (👨‍💻 18 · 🔀 54 · 📦 380 · 📋 85 - 10% open · ⏱️ 08.05.2025):
+- [GitHub](https://github.com/py-pa/django-minio-storage) (👨‍💻 18 · 🔀 54 · 📦 390 · 📋 85 - 10% open · ⏱️ 08.05.2025):
 
 	```
 	git clone https://github.com/py-pa/django-minio-storage
 	```
-- [PyPi](https://pypi.org/project/django-minio-storage) (📥 34K / month):
+- [PyPi](https://pypi.org/project/django-minio-storage) (📥 36K / month):
 	```
 	pip install django-minio-storage
 	```
@@ -2404,7 +2416,7 @@ _Network automation systems which use Django under the hood._
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/openedx/event-bus-kafka">edx-event-bus-kafka</a></b> (🥇19 ·  ⭐ 7) - Kafka implementation for Open edX event bus. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
+- <b><a href="https://github.com/openedx/event-bus-kafka">edx-event-bus-kafka</a></b> (🥇18 ·  ⭐ 7) - Kafka implementation for Open edX event bus. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code>
 </details>
 <br>
 
@@ -2412,31 +2424,31 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing">eventsourcing</a></b> (🥇24 ·  ⭐ 1.6K · 📉) - A library for event sourcing in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing">eventsourcing</a></b> (🥇24 ·  ⭐ 1.6K) - A library for event sourcing in Python. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/pyeventsourcing/eventsourcing) (👨‍💻 28 · 🔀 140 · 📦 200 · 📋 100 - 1% open · ⏱️ 05.06.2025):
+- [GitHub](https://github.com/pyeventsourcing/eventsourcing) (👨‍💻 28 · 🔀 140 · 📦 200 · 📋 100 - 2% open · ⏱️ 05.06.2025):
 
 	```
 	git clone https://github.com/pyeventsourcing/eventsourcing
 	```
-- [PyPi](https://pypi.org/project/eventsourcing) (📥 36K / month):
+- [PyPi](https://pypi.org/project/eventsourcing) (📥 52K / month):
 	```
 	pip install eventsourcing
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing-django">eventsourcing-django</a></b> (🥈14 ·  ⭐ 53) - Python package for eventsourcing with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing-django">eventsourcing-django</a></b> (🥈13 ·  ⭐ 53) - Python package for eventsourcing with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/pyeventsourcing/eventsourcing-django) (👨‍💻 7 · 🔀 13 · 📦 10 · 📋 4 - 50% open · ⏱️ 09.06.2025):
 
 	```
 	git clone https://github.com/pyeventsourcing/eventsourcing-django
 	```
-- [PyPi](https://pypi.org/project/eventsourcing-django) (📥 1.8K / month):
+- [PyPi](https://pypi.org/project/eventsourcing-django) (📥 2.4K / month):
 	```
 	pip install eventsourcing-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing-kurrentdb">eventsourcing-eventstoredb</a></b> (🥉6 ·  ⭐ 20 · 📉) - Python package for eventsourcing with KurrentDB. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/pyeventsourcing/eventsourcing-kurrentdb">eventsourcing-eventstoredb</a></b> (🥉6 ·  ⭐ 20) - Python package for eventsourcing with KurrentDB. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/pyeventsourcing/eventsourcing-kurrentdb) (👨‍💻 2 · 🔀 1 · ⏱️ 14.05.2025):
 
@@ -2459,14 +2471,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ag2ai/faststream">FastStream</a></b> (🥇32 ·  ⭐ 4.5K) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ag2ai/faststream">FastStream</a></b> (🥇34 ·  ⭐ 4.6K) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ag2ai/faststream) (👨‍💻 120 · 🔀 270 · 📦 730 · 📋 810 - 10% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/ag2ai/faststream) (👨‍💻 120 · 🔀 280 · 📦 750 · 📋 820 - 10% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/ag2ai/faststream
 	```
-- [PyPi](https://pypi.org/project/faststream) (📥 410K / month):
+- [PyPi](https://pypi.org/project/faststream) (📥 530K / month):
 	```
 	pip install faststream
 	```
@@ -2477,14 +2489,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/saxix/django-concurrency">django-concurrency</a></b> (🥇24 ·  ⭐ 460) - Optimistic lock implementation for Django. Prevents users from doing concurrent editing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/saxix/django-concurrency">django-concurrency</a></b> (🥇23 ·  ⭐ 460) - Optimistic lock implementation for Django. Prevents users from doing concurrent editing. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/saxix/django-concurrency) (👨‍💻 27 · 🔀 51 · 📦 210 · 📋 76 - 1% open · ⏱️ 20.07.2025):
 
 	```
 	git clone https://github.com/saxix/django-concurrency
 	```
-- [PyPi](https://pypi.org/project/django-concurrency) (📥 77K / month):
+- [PyPi](https://pypi.org/project/django-concurrency) (📥 89K / month):
 	```
 	pip install django-concurrency
 	```
@@ -2500,14 +2512,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Brobin/django-seed">django-seed</a></b> (🥇25 ·  ⭐ 700 · 💤) - Seed your Django database with fake data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Brobin/django-seed">django-seed</a></b> (🥇25 ·  ⭐ 710 · 💤) - Seed your Django database with fake data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Brobin/django-seed) (👨‍💻 23 · 🔀 82 · 📦 5.3K · 📋 62 - 32% open · ⏱️ 08.10.2021):
 
 	```
 	git clone https://github.com/brobin/django-seed
 	```
-- [PyPi](https://pypi.org/project/django-seed) (📥 24K / month):
+- [PyPi](https://pypi.org/project/django-seed) (📥 27K / month):
 	```
 	pip install django-seed
 	```
@@ -2519,7 +2531,7 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/davedash/django-fixture-magic
 	```
-- [PyPi](https://pypi.org/project/django-fixture-magic) (📥 34K / month):
+- [PyPi](https://pypi.org/project/django-fixture-magic) (📥 20K / month):
 	```
 	pip install django-fixture-magic
 	```
@@ -2531,7 +2543,7 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/klen/mixer
 	```
-- [PyPi](https://pypi.org/project/mixer) (📥 220K / month):
+- [PyPi](https://pypi.org/project/mixer) (📥 200K / month):
 	```
 	pip install mixer
 	```
@@ -2546,19 +2558,19 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model-bakery</a></b> (🥇21 ·  ⭐ 930) - Object factory for Django. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/model-bakers/model_bakery">model-bakery</a></b> (🥇22 ·  ⭐ 940) - Object factory for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 63 · 🔀 96 · 📋 150 - 17% open · ⏱️ 12.08.2025):
+- [GitHub](https://github.com/model-bakers/model_bakery) (👨‍💻 63 · 🔀 96 · 📋 150 - 16% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/model-bakers/model_bakery
 	```
-- [PyPi](https://pypi.org/project/model-bakery/) (📥 930K / month):
+- [PyPi](https://pypi.org/project/model-bakery/) (📥 1.1M / month):
 	```
 	pip install model-bakery/
 	```
 </details>
-<details><summary><b><a href="https://github.com/paulocheque/django-dynamic-fixture">django-dynamic-fixture</a></b> (🥇21 ·  ⭐ 390) - A complete library to create dynamic model instances for testing purposes. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/paulocheque/django-dynamic-fixture">django-dynamic-fixture</a></b> (🥉21 ·  ⭐ 390) - A complete library to create dynamic model instances for testing purposes. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/paulocheque/django-dynamic-fixture) (👨‍💻 37 · 🔀 63 · 📦 1.3K · 📋 71 - 9% open · ⏱️ 10.10.2024):
 
@@ -2576,14 +2588,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/zostera/django-bootstrap4">django-bootstrap4</a></b> (🥇33 ·  ⭐ 1K) - Bootstrap 4 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/zostera/django-bootstrap4">django-bootstrap4</a></b> (🥇32 ·  ⭐ 1K) - Bootstrap 4 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/zostera/django-bootstrap4) (👨‍💻 140 · 🔀 220 · 📦 190K · 📋 160 - 10% open · ⏱️ 17.08.2025):
+- [GitHub](https://github.com/zostera/django-bootstrap4) (👨‍💻 140 · 🔀 210 · 📦 190K · 📋 160 - 10% open · ⏱️ 17.08.2025):
 
 	```
 	git clone https://github.com/zostera/django-bootstrap4
 	```
-- [PyPi](https://pypi.org/project/django-bootstrap4) (📥 210K / month):
+- [PyPi](https://pypi.org/project/django-bootstrap4) (📥 250K / month):
 	```
 	pip install django-bootstrap4
 	```
@@ -2595,31 +2607,31 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/zostera/django-bootstrap3
 	```
-- [PyPi](https://pypi.org/project/django-bootstrap3) (📥 220K / month):
+- [PyPi](https://pypi.org/project/django-bootstrap3) (📥 230K / month):
 	```
 	pip install django-bootstrap3
 	```
 </details>
 <details><summary><b><a href="https://github.com/zostera/django-bootstrap5">django-bootstrap5</a></b> (🥉27 ·  ⭐ 430) - Bootstrap 5 for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/zostera/django-bootstrap5) (👨‍💻 150 · 🔀 88 · 📦 9.9K · 📋 110 - 34% open · ⏱️ 17.08.2025):
+- [GitHub](https://github.com/zostera/django-bootstrap5) (👨‍💻 150 · 🔀 87 · 📦 9.9K · 📋 110 - 34% open · ⏱️ 17.08.2025):
 
 	```
 	git clone https://github.com/zostera/django-bootstrap5
 	```
-- [PyPi](https://pypi.org/project/django-bootstrap5) (📥 250K / month):
+- [PyPi](https://pypi.org/project/django-bootstrap5) (📥 260K / month):
 	```
 	pip install django-bootstrap5
 	```
 </details>
-<details><summary><b><a href="https://github.com/zelenij/django-bootstrap-v5">django-bootstrap-v5</a></b> (🥉21 ·  ⭐ 100 · 💤) - Bootstrap 5 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/zelenij/django-bootstrap-v5">django-bootstrap-v5</a></b> (🥉22 ·  ⭐ 100 · 💤) - Bootstrap 5 integration with Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/zelenij/django-bootstrap-v5) (👨‍💻 140 · 🔀 43 · 📦 10K · 📋 24 - 33% open · ⏱️ 07.01.2024):
+- [GitHub](https://github.com/zelenij/django-bootstrap-v5) (👨‍💻 140 · 🔀 42 · 📦 10K · 📋 24 - 33% open · ⏱️ 07.01.2024):
 
 	```
 	git clone https://github.com/zelenij/django-bootstrap-v5
 	```
-- [PyPi](https://pypi.org/project/django-bootstrap-v5) (📥 50K / month):
+- [PyPi](https://pypi.org/project/django-bootstrap-v5) (📥 61K / month):
 	```
 	pip install django-bootstrap-v5
 	```
@@ -2637,7 +2649,7 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/timonweb/django-bulma
 	```
-- [PyPi](https://pypi.org/project/django-bulma) (📥 2.7K / month):
+- [PyPi](https://pypi.org/project/django-bulma) (📥 4.1K / month):
 	```
 	pip install django-bulma
 	```
@@ -2650,24 +2662,24 @@ _Network automation systems which use Django under the hood._
 
 <details><summary><b><a href="https://github.com/timonweb/django-tailwind">django-tailwind</a></b> (🥇28 ·  ⭐ 1.7K) - Django + Tailwind CSS =. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/timonweb/django-tailwind) (👨‍💻 22 · 🔀 100 · 📦 6.9K · 📋 170 - 2% open · ⏱️ 31.07.2025):
+- [GitHub](https://github.com/timonweb/django-tailwind) (👨‍💻 23 · 🔀 100 · 📦 6.9K · 📋 170 - 2% open · ⏱️ 06.09.2025):
 
 	```
 	git clone https://github.com/timonweb/django-tailwind
 	```
-- [PyPi](https://pypi.org/project/django-tailwind) (📥 210K / month):
+- [PyPi](https://pypi.org/project/django-tailwind) (📥 220K / month):
 	```
 	pip install django-tailwind
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-commons/django-tailwind-cli">django-tailwind-cli</a></b> (🥉23 ·  ⭐ 160) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-commons/django-tailwind-cli">django-tailwind-cli</a></b> (🥉22 ·  ⭐ 170) - Django and Tailwind integration based on the prebuilt Tailwind CSS CLI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-commons/django-tailwind-cli) (👨‍💻 16 · 🔀 18 · 📥 84 · 📦 72 · 📋 39 - 5% open · ⏱️ 12.08.2025):
+- [GitHub](https://github.com/django-commons/django-tailwind-cli) (👨‍💻 16 · 🔀 18 · 📥 88 · 📦 73 · 📋 41 - 4% open · ⏱️ 23.09.2025):
 
 	```
 	git clone https://github.com/oliverandrich/django-tailwind-cli
 	```
-- [PyPi](https://pypi.org/project/django-tailwind-cli) (📥 9.2K / month):
+- [PyPi](https://pypi.org/project/django-tailwind-cli) (📥 7.8K / month):
 	```
 	pip install django-tailwind-cli
 	```
@@ -2689,7 +2701,7 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/tolomea/django-data-browser
 	```
-- [PyPi](https://pypi.org/project/django-data-browser) (📥 4.5K / month):
+- [PyPi](https://pypi.org/project/django-data-browser) (📥 5.5K / month):
 	```
 	pip install django-data-browser
 	```
@@ -2700,38 +2712,38 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-tenants/django-tenants">django-tenants</a></b> (🥇32 ·  ⭐ 1.7K) - Django tenants using PostgreSQL Schemas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-tenants/django-tenants">django-tenants</a></b> (🥇33 ·  ⭐ 1.8K) - Django tenants using PostgreSQL Schemas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-tenants/django-tenants) (👨‍💻 120 · 🔀 370 · 📦 1.3K · 📋 700 - 35% open · ⏱️ 21.08.2025):
+- [GitHub](https://github.com/django-tenants/django-tenants) (👨‍💻 120 · 🔀 370 · 📦 1.3K · 📋 700 - 35% open · ⏱️ 05.09.2025):
 
 	```
 	git clone https://github.com/django-tenants/django-tenants
 	```
-- [PyPi](https://pypi.org/project/django-tenants) (📥 190K / month):
+- [PyPi](https://pypi.org/project/django-tenants) (📥 230K / month):
 	```
 	pip install django-tenants
 	```
 </details>
-<details><summary><b><a href="https://github.com/bernardopires/django-tenant-schemas">django-tenant-schemas</a></b> (🥈27 ·  ⭐ 1.5K) - Tenant support for Django using PostgreSQL schemas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bernardopires/django-tenant-schemas">django-tenant-schemas</a></b> (🥈29 ·  ⭐ 1.5K) - Tenant support for Django using PostgreSQL schemas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bernardopires/django-tenant-schemas) (👨‍💻 75 · 🔀 400 · 📦 480 · 📋 480 - 30% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/bernardopires/django-tenant-schemas) (👨‍💻 76 · 🔀 400 · 📦 480 · 📋 480 - 26% open · ⏱️ 26.09.2025):
 
 	```
 	git clone https://github.com/bernardopires/django-tenant-schemas
 	```
-- [PyPi](https://pypi.org/project/django-tenant-schemas) (📥 27K / month):
+- [PyPi](https://pypi.org/project/django-tenant-schemas) (📥 23K / month):
 	```
 	pip install django-tenant-schemas
 	```
 </details>
-<details><summary><b><a href="https://github.com/citusdata/django-multitenant">django-multitenant</a></b> (🥉23 ·  ⭐ 780 · 💤) - Python/Django support for distributed multi-tenant databases like Postgres+Citus. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/citusdata/django-multitenant">django-multitenant</a></b> (🥉23 ·  ⭐ 790 · 💤) - Python/Django support for distributed multi-tenant databases like Postgres+Citus. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/citusdata/django-multitenant) (👨‍💻 25 · 🔀 120 · 📦 83 · 📋 99 - 43% open · ⏱️ 30.04.2024):
+- [GitHub](https://github.com/citusdata/django-multitenant) (👨‍💻 27 · 🔀 120 · 📦 84 · 📋 99 - 43% open · ⏱️ 30.04.2024):
 
 	```
 	git clone https://github.com/citusdata/django-multitenant
 	```
-- [PyPi](https://pypi.org/project/django-multitenant) (📥 38K / month):
+- [PyPi](https://pypi.org/project/django-multitenant) (📥 49K / month):
 	```
 	pip install django-multitenant
 	```
@@ -2743,7 +2755,7 @@ _Network automation systems which use Django under the hood._
 	```
 	git clone https://github.com/raphaelm/django-scopes
 	```
-- [PyPi](https://pypi.org/project/django-scopes) (📥 18K / month):
+- [PyPi](https://pypi.org/project/django-scopes) (📥 22K / month):
 	```
 	pip install django-scopes
 	```
@@ -2754,14 +2766,14 @@ _Network automation systems which use Django under the hood._
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-notifications/django-notifications">django-notifications</a></b> (🥇29 ·  ⭐ 1.9K) - GitHub notifications alike app for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/django-notifications/django-notifications">django-notifications</a></b> (🥇28 ·  ⭐ 1.9K) - GitHub notifications alike app for Django. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
 - [GitHub](https://github.com/django-notifications/django-notifications) (👨‍💻 76 · 🔀 440 · 📦 3.1K · 📋 220 - 9% open · ⏱️ 17.07.2025):
 
 	```
 	git clone https://github.com/django-notifications/django-notifications
 	```
-- [PyPi](https://pypi.org/project/django-notifications-hq) (📥 66K / month):
+- [PyPi](https://pypi.org/project/django-notifications-hq) (📥 68K / month):
 	```
 	pip install django-notifications-hq
 	```
@@ -2776,12 +2788,12 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <details><summary><b><a href="https://github.com/djaodjin/djaodjin-saas">djaodjin-saas</a></b> (🥇17 ·  ⭐ 590) - Django application for software-as-service and subscription businesses. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/djaodjin/djaodjin-saas) (👨‍💻 13 · 🔀 130 · 📦 12 · 📋 110 - 12% open · ⏱️ 25.08.2025):
+- [GitHub](https://github.com/djaodjin/djaodjin-saas) (👨‍💻 13 · 🔀 130 · 📦 12 · 📋 110 - 12% open · ⏱️ 05.09.2025):
 
 	```
 	git clone https://github.com/djaodjin/djaodjin-saas
 	```
-- [PyPi](https://pypi.org/project/djaodjin-saas) (📥 370 / month):
+- [PyPi](https://pypi.org/project/djaodjin-saas) (📥 660 / month):
 	```
 	pip install djaodjin-saas
 	```
@@ -2792,14 +2804,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/dj-stripe/dj-stripe">dj-stripe</a></b> (🥇33 ·  ⭐ 1.7K · 📈) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dj-stripe/dj-stripe">dj-stripe</a></b> (🥇33 ·  ⭐ 1.7K) - dj-stripe automatically syncs your Stripe Data to your local database as pre-implemented Django Models allowing you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dj-stripe/dj-stripe) (👨‍💻 130 · 🔀 490 · 📦 1.2K · 📋 1K - 6% open · ⏱️ 31.08.2025):
+- [GitHub](https://github.com/dj-stripe/dj-stripe) (👨‍💻 130 · 🔀 490 · 📦 1.2K · 📋 1K - 6% open · ⏱️ 25.09.2025):
 
 	```
 	git clone https://github.com/dj-stripe/dj-stripe
 	```
-- [PyPi](https://pypi.org/project/dj-stripe) (📥 140K / month):
+- [PyPi](https://pypi.org/project/dj-stripe) (📥 160K / month):
 	```
 	pip install dj-stripe
 	```
@@ -2811,31 +2823,31 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/spookylukey/django-paypal
 	```
-- [PyPi](https://pypi.org/project/django-paypal) (📥 23K / month):
+- [PyPi](https://pypi.org/project/django-paypal) (📥 28K / month):
 	```
 	pip install django-paypal
 	```
 </details>
 <details><summary><b><a href="https://github.com/jazzband/django-payments">django-payments</a></b> (🥈26 ·  ⭐ 1.2K) - Universal payment handling for Django. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/jazzband/django-payments) (👨‍💻 69 · 🔀 280 · 📥 31 · 📦 660 · 📋 190 - 37% open · ⏱️ 18.08.2025):
+- [GitHub](https://github.com/jazzband/django-payments) (👨‍💻 70 · 🔀 280 · 📥 31 · 📦 660 · 📋 190 - 37% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/jazzband/django-payments
 	```
-- [PyPi](https://pypi.org/project/django-payments) (📥 11K / month):
+- [PyPi](https://pypi.org/project/django-payments) (📥 14K / month):
 	```
 	pip install django-payments
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-getpaid/django-getpaid">django-getpaid</a></b> (🥈21 ·  ⭐ 440) - Django payments processor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-getpaid/django-getpaid">django-getpaid</a></b> (🥈21 ·  ⭐ 450) - Django payments processor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/django-getpaid/django-getpaid) (👨‍💻 31 · 🔀 100 · 📦 49 · 📋 62 - 6% open · ⏱️ 12.03.2025):
 
 	```
 	git clone https://github.com/django-getpaid/django-getpaid
 	```
-- [PyPi](https://pypi.org/project/django-getpaid) (📥 4.6K / month):
+- [PyPi](https://pypi.org/project/django-getpaid) (📥 7.1K / month):
 	```
 	pip install django-getpaid
 	```
@@ -2847,19 +2859,19 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/pinax/pinax-stripe-light
 	```
-- [PyPi](https://pypi.org/project/pinax-stripe-light) (📥 33 / month):
+- [PyPi](https://pypi.org/project/pinax-stripe-light) (📥 29 / month):
 	```
 	pip install pinax-stripe-light
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-oscar/django-oscar-paypal">django-oscar-paypal</a></b> (🥈20 ·  ⭐ 160 · 💤) - PayPal integration for django-oscar. Can be used without Oscar too. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/django-oscar/django-oscar-paypal">django-oscar-paypal</a></b> (🥈19 ·  ⭐ 160) - PayPal integration for django-oscar. Can be used without Oscar too. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/django-oscar/django-oscar-paypal) (👨‍💻 51 · 🔀 200 · 📦 160 · 📋 93 - 25% open · ⏱️ 01.09.2023):
+- [GitHub](https://github.com/django-oscar/django-oscar-paypal) (👨‍💻 51 · 🔀 200 · 📦 160 · 📋 93 - 25% open · ⏱️ 01.09.2025):
 
 	```
 	git clone https://github.com/django-oscar/django-oscar-paypal
 	```
-- [PyPi](https://pypi.org/project/django-oscar-paypal) (📥 230 / month):
+- [PyPi](https://pypi.org/project/django-oscar-paypal) (📥 140 / month):
 	```
 	pip install django-oscar-paypal
 	```
@@ -2871,7 +2883,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/silverapp/silver
 	```
-- [PyPi](https://pypi.org/project/silver) (📥 46 / month):
+- [PyPi](https://pypi.org/project/silver) (📥 43 / month):
 	```
 	pip install silver
 	```
@@ -2883,7 +2895,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/kogan/django-subscriptions
 	```
-- [PyPi](https://pypi.org/project/django-subscriptions) (📥 10K / month):
+- [PyPi](https://pypi.org/project/django-subscriptions) (📥 11K / month):
 	```
 	pip install django-subscriptions
 	```
@@ -2895,31 +2907,19 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/HearthSim/dj-paypal
 	```
-- [PyPi](https://pypi.org/project/dj-paypal) (📥 190 / month):
+- [PyPi](https://pypi.org/project/dj-paypal) (📥 270 / month):
 	```
 	pip install dj-paypal
 	```
 </details>
-<details><summary><b><a href="https://github.com/studybuffalo/django-flexible-subscriptions">django-flexible-subscriptions</a></b> (🥉14 ·  ⭐ 250 · 💤) - A subscription and recurrent billing application for Django. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/studybuffalo/django-flexible-subscriptions) (👨‍💻 14 · 🔀 52 · 📦 31 · 📋 50 - 54% open · ⏱️ 11.09.2020):
-
-	```
-	git clone https://github.com/studybuffalo/django-flexible-subscriptions
-	```
-- [PyPi](https://pypi.org/project/django-flexible-subscriptions) (📥 130 / month):
-	```
-	pip install django-flexible-subscriptions
-	```
-</details>
 <details><summary><b><a href="https://github.com/oscarychen/drf-stripe-subscription">drf-stripe-subscription</a></b> (🥉13 ·  ⭐ 120) - An out-of-box Django REST framework solution for payment and subscription management using Stripe. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/oscarychen/drf-stripe-subscription) (👨‍💻 7 · 🔀 19 · 📋 23 - 13% open · ⏱️ 20.08.2025):
+- [GitHub](https://github.com/oscarychen/drf-stripe-subscription) (👨‍💻 7 · 🔀 18 · 📋 23 - 13% open · ⏱️ 20.08.2025):
 
 	```
 	git clone https://github.com/oscarychen/drf-stripe-subscription
 	```
-- [PyPi](https://pypi.org/project/drf-stripe-subscription) (📥 1.7K / month):
+- [PyPi](https://pypi.org/project/drf-stripe-subscription) (📥 1.2K / month):
 	```
 	pip install drf-stripe-subscription
 	```
@@ -2943,7 +2943,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/paddle-python/dj-paddle
 	```
-- [PyPi](https://pypi.org/project/dj-paddle) (📥 62 / month):
+- [PyPi](https://pypi.org/project/dj-paddle) (📥 74 / month):
 	```
 	pip install dj-paddle
 	```
@@ -2960,13 +2960,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	pip install django-stripe-subscriptions
 	```
 </details>
-<details><summary>Show 5 hidden projects...</summary>
+<details><summary>Show 6 hidden projects...</summary>
 
 - <b><a href="https://github.com/agiliq/merchant">merchant</a></b> (🥈18 ·  ⭐ 1K · 💀) - A Django app to accept payments from various payment processors via Pluggable backends. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
+- <b><a href="https://github.com/studybuffalo/django-flexible-subscriptions">django-flexible-subscriptions</a></b> (🥉15 ·  ⭐ 250 · 💀) - A subscription and recurrent billing application for Django. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/kangasbros/django-bitcoin">django-bitcoin</a></b> (🥉14 ·  ⭐ 180 · 💀) - bitcoin payment management for django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/zen4ever/django-authorizenet">django-authorizenet</a></b> (🥉11 ·  ⭐ 87 · 💀) - Django and Authorize.NET payment gateway integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/andrew-kurin/django-authorizenet">django-authorizenet</a></b> (🥉12 ·  ⭐ 87 · 💀) - Django and Authorize.NET payment gateway integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/zhaque/django-subscription">django-subscription</a></b> (🥉8 ·  ⭐ 190 · 💀) - Subscriptions or Recurring Billing App for django. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/vporton/django-payee">django-payee</a></b> (🥉5 ·  ⭐ 2) - Accept (regular and subscription) payments in Internet (currently supports PayPal). Advanced support for subscription.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/vporton/django-payee">django-payee</a></b> (🥉4 ·  ⭐ 2) - Accept (regular and subscription) payments in Internet (currently supports PayPal). Advanced support for subscription.. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -2974,62 +2975,62 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇32 ·  ⭐ 1.8K) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/anymail/django-anymail">django-anymail</a></b> (🥇31 ·  ⭐ 1.8K) - Django email backends and webhooks for Amazon SES, Brevo (Sendinblue), MailerSend, Mailgun, Mailjet, Postmark, Postal,.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/anymail/django-anymail) (👨‍💻 69 · 🔀 140 · 📥 210 · 📦 7.7K · 📋 240 - 2% open · ⏱️ 20.08.2025):
+- [GitHub](https://github.com/anymail/django-anymail) (👨‍💻 69 · 🔀 140 · 📥 220 · 📦 7.8K · 📋 240 - 2% open · ⏱️ 03.09.2025):
 
 	```
 	git clone https://github.com/anymail/django-anymail
 	```
-- [PyPi](https://pypi.org/project/django-anymail) (📥 1.1M / month):
+- [PyPi](https://pypi.org/project/django-anymail) (📥 1.2M / month):
 	```
 	pip install django-anymail
 	```
 </details>
 <details><summary><b><a href="https://github.com/ui/django-post_office">django-post-office</a></b> (🥈28 ·  ⭐ 1.1K) - A Django app that allows you to send email asynchronously in Django. Supports HTML email, database backed templates.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ui/django-post_office) (👨‍💻 86 · 🔀 250 · 📦 110 · 📋 250 - 35% open · ⏱️ 21.08.2025):
+- [GitHub](https://github.com/ui/django-post_office) (👨‍💻 86 · 🔀 250 · 📦 110 · 📋 260 - 35% open · ⏱️ 21.08.2025):
 
 	```
 	git clone https://github.com/ui/django-post_office
 	```
-- [PyPi](https://pypi.org/project/django-post-office) (📥 61K / month):
+- [PyPi](https://pypi.org/project/django-post-office) (📥 71K / month):
 	```
 	pip install django-post-office
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-ses/django-ses">django-ses</a></b> (🥉26 ·  ⭐ 1.1K) - A Django email backend for Amazons Simple Email Service. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-ses/django-ses">django-ses</a></b> (🥉27 ·  ⭐ 1.1K) - A Django email backend for Amazons Simple Email Service. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-ses/django-ses) (👨‍💻 84 · 🔀 220 · 📦 3.5K · 📋 150 - 32% open · ⏱️ 10.06.2025):
+- [GitHub](https://github.com/django-ses/django-ses) (👨‍💻 84 · 🔀 220 · 📦 3.5K · 📋 150 - 32% open · ⏱️ 10.09.2025):
 
 	```
 	git clone https://github.com/django-ses/django-ses
 	```
-- [PyPi](https://pypi.org/project/django-ses) (📥 800K / month):
+- [PyPi](https://pypi.org/project/django-ses) (📥 940K / month):
 	```
 	pip install django-ses
 	```
 </details>
-<details><summary><b><a href="https://github.com/coddingtonbear/django-mailbox">django-mailbox</a></b> (🥉22 ·  ⭐ 380) - Import mail from POP3, IMAP, local email mailboxes or directly from Postfix or Exim4 into your Django application.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/coddingtonbear/django-mailbox">django-mailbox</a></b> (🥉23 ·  ⭐ 380) - Import mail from POP3, IMAP, local email mailboxes or directly from Postfix or Exim4 into your Django application.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/coddingtonbear/django-mailbox) (👨‍💻 55 · 🔀 160 · 📦 230 · 📋 160 - 12% open · ⏱️ 20.06.2025):
 
 	```
 	git clone https://github.com/coddingtonbear/django-mailbox
 	```
-- [PyPi](https://pypi.org/project/django-mailbox) (📥 17K / month):
+- [PyPi](https://pypi.org/project/django-mailbox) (📥 15K / month):
 	```
 	pip install django-mailbox
 	```
 </details>
-<details><summary><b><a href="https://github.com/aio-libs/aiosmtpd">aiosmtpd</a></b> (🥉20 ·  ⭐ 350) - A reimplementation of the Python stdlib smtpd.py based on asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/aio-libs/aiosmtpd">aiosmtpd</a></b> (🥉20 ·  ⭐ 360) - A reimplementation of the Python stdlib smtpd.py based on asyncio. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/aio-libs/aiosmtpd) (👨‍💻 45 · 🔀 96 · 📥 600 · 📋 180 - 37% open · ⏱️ 18.06.2025):
+- [GitHub](https://github.com/aio-libs/aiosmtpd) (👨‍💻 45 · 🔀 97 · 📥 600 · 📋 180 - 37% open · ⏱️ 18.06.2025):
 
 	```
 	git clone https://github.com/aio-libs/aiosmtpd
 	```
-- [PyPi](https://pypi.org/project/aiosmtpd) (📥 470K / month):
+- [PyPi](https://pypi.org/project/aiosmtpd) (📥 400K / month):
 	```
 	pip install aiosmtpd
 	```
@@ -3040,69 +3041,69 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/django-components/django-components">django-components</a></b> (🥇26 ·  ⭐ 1.4K) - Create simple reusable template components in Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/django-components/django-components">django-components</a></b> (🥇27 ·  ⭐ 1.4K) - Create simple reusable template components in Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/django-components/django-components) (👨‍💻 52 · 🔀 96 · 📋 310 - 22% open · ⏱️ 23.08.2025):
+- [GitHub](https://github.com/django-components/django-components) (👨‍💻 53 · 🔀 98 · 📋 330 - 22% open · ⏱️ 30.09.2025):
 
 	```
 	git clone https://github.com/django-components/django-components
 	```
-- [PyPi](https://pypi.org/project/django-components) (📥 53K / month):
+- [PyPi](https://pypi.org/project/django-components) (📥 67K / month):
 	```
 	pip install django-components
 	```
 </details>
-<details><summary><b><a href="https://github.com/wrabit/django-cotton">wrabit/django-cotton</a></b> (🥇26 ·  ⭐ 950) - Enabling Modern UI Composition in Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wrabit/django-cotton">wrabit/django-cotton</a></b> (🥈25 ·  ⭐ 990) - Enabling Modern UI Composition in Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wrabit/django-cotton) (👨‍💻 12 · 🔀 43 · 📦 250 · 📋 110 - 0% open · ⏱️ 30.08.2025):
+- [GitHub](https://github.com/wrabit/django-cotton) (👨‍💻 12 · 🔀 44 · 📦 250 · 📋 110 - 2% open · ⏱️ 22.09.2025):
 
 	```
 	git clone https://github.com/wrabit/django-cotton
 	```
-- [PyPi](https://pypi.org/project/django-cotton) (📥 65K / month):
+- [PyPi](https://pypi.org/project/django-cotton) (📥 82K / month):
 	```
 	pip install django-cotton
 	```
 </details>
-<details><summary><b><a href="https://github.com/django-compressor/django-compressor">django-compressor</a></b> (🥈24 ·  ⭐ 2.8K) - Compresses linked and inline javascript or CSS into a single cached file. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/django-compressor/django-compressor">django-compressor</a></b> (🥈24 ·  ⭐ 2.9K) - Compresses linked and inline javascript or CSS into a single cached file. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/django-compressor/django-compressor) (👨‍💻 220 · 🔀 570 · 📋 670 - 17% open · ⏱️ 24.08.2025):
 
 	```
 	git clone https://github.com/django-compressor/django-compressor
 	```
-- [PyPi](https://pypi.org/project/django-compressor) (📥 1.2M / month):
+- [PyPi](https://pypi.org/project/django-compressor) (📥 1.4M / month):
 	```
 	pip install django-compressor
 	```
 </details>
 <details><summary><b><a href="https://github.com/adamchainz/django-htmx">django-htmx</a></b> (🥉23 ·  ⭐ 1.9K) - Extensions for using Django with htmx. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adamchainz/django-htmx) (👨‍💻 24 · 🔀 140 · 📋 87 - 6% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/adamchainz/django-htmx) (👨‍💻 25 · 🔀 150 · 📋 92 - 6% open · ⏱️ 22.09.2025):
 
 	```
 	git clone https://github.com/adamchainz/django-htmx
 	```
-- [PyPi](https://pypi.org/project/django-htmx) (📥 460K / month):
+- [PyPi](https://pypi.org/project/django-htmx) (📥 620K / month):
 	```
 	pip install django-htmx
 	```
 </details>
-<details><summary><b><a href="https://github.com/carltongibson/django-template-partials">django-template-partials</a></b> (🥉21 ·  ⭐ 600) - Reusable named inline partials for the Django Template Language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/carltongibson/django-template-partials">django-template-partials</a></b> (🥉21 ·  ⭐ 620) - Reusable named inline partials for the Django Template Language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/carltongibson/django-template-partials) (👨‍💻 18 · 🔀 31 · 📦 350 · 📋 35 - 17% open · ⏱️ 21.08.2025):
+- [GitHub](https://github.com/carltongibson/django-template-partials) (👨‍💻 18 · 🔀 32 · 📦 360 · ⏱️ 17.09.2025):
 
 	```
 	git clone https://github.com/carltongibson/django-template-partials
 	```
-- [PyPi](https://pypi.org/project/django-template-partials) (📥 79K / month):
+- [PyPi](https://pypi.org/project/django-template-partials) (📥 78K / month):
 	```
 	pip install django-template-partials
 	```
 </details>
-<details><summary><b><a href="https://github.com/inertiajs/inertia-django">inertia-django</a></b> (🥉19 ·  ⭐ 470) - The Django adapter for Inertia.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/inertiajs/inertia-django">inertia-django</a></b> (🥉19 ·  ⭐ 490) - The Django adapter for Inertia.js. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/inertiajs/inertia-django) (👨‍💻 16 · 🔀 45 · 📦 140 · 📋 43 - 18% open · ⏱️ 27.07.2025):
+- [GitHub](https://github.com/inertiajs/inertia-django) (👨‍💻 17 · 🔀 46 · 📦 140 · 📋 43 - 18% open · ⏱️ 16.09.2025):
 
 	```
 	git clone https://github.com/inertiajs/inertia-django
@@ -3120,7 +3121,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <details><summary><b><a href="https://github.com/wemake-services/wemake-django-template">wemake-django-template</a></b> (🥇22 ·  ⭐ 2.1K) - Bleeding edge django template focused on code quality and security. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wemake-services/wemake-django-template) (👨‍💻 55 · 🔀 220 · 📋 550 - 4% open · ⏱️ 29.08.2025):
+- [GitHub](https://github.com/wemake-services/wemake-django-template) (👨‍💻 55 · 🔀 220 · 📋 550 - 4% open · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/wemake-services/wemake-django-template
@@ -3138,7 +3139,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	pip install cookiecutter-djangopackage
 	```
 </details>
-<details><summary><b><a href="https://github.com/wq/wq-django-template">wq-django-template</a></b> (🥈10 ·  ⭐ 28 · 💤) - Django + NPM (Create React App) template for building REST-ful web & hybrid apps with the wq framework. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/wq/wq-django-template">wq-django-template</a></b> (🥈10 ·  ⭐ 29 · 💤) - Django + NPM (Create React App) template for building REST-ful web & hybrid apps with the wq framework. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/wq/wq-django-template) (👨‍💻 4 · 🔀 7 · ⏱️ 27.03.2024):
 
@@ -3151,7 +3152,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 - <b><a href="https://github.com/wildfish/cookiecutter-django-crud">cookiecutter-django-crud</a></b> (🥈9 ·  ⭐ 67 · 💀) - A cookiecutter template to create a Django app around a model with CRUD views using django-vanilla-views, a.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code>
 - <b><a href="https://github.com/edx/cookiecutter-django-app">cookiecutter-django-app</a></b> (🥈9 ·  ⭐ 16 · 💀) - A cookiecutter template for creating reusable Django packages (installable apps) quickly. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/mlavin/django-app-template">django-app-template</a></b> (🥉7 ·  ⭐ 54 · 💀) - A handy template for creating a new reusable Django application. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code>
-- <b><a href="https://github.com/bitlabstudio/django-reusable-app-template">django-reusable-app-template</a></b> (🥉6 ·  ⭐ 96 · 💀) - A template for kickstarting reusable Django apps, ready to be published on pypi.python.org, ready for test driven.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/bitlabstudio/django-reusable-app-template">django-reusable-app-template</a></b> (🥉6 ·  ⭐ 97 · 💀) - A template for kickstarting reusable Django apps, ready to be published on pypi.python.org, ready for test driven.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/AmbitionEng/python-library-template">python-library-template</a></b> (🥉5 ·  ⭐ 5) - The template for all public libraries by Ambition. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/AndreGuerra123/django-reusable-app">django-reusable-app</a></b> (🥉4 ·  ⭐ 3 · 💀) - A cookiecutter template to package Django Reusable Apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/KryptedGaming/django-package-template">django-package-template</a></b> (🥉4 ·  ⭐ 1 · 💤) - Template for creating packages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -3163,6 +3164,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/vintasoftware/django-react-boilerplate">django-react-boilerplate</a></b> (🥇20 ·  ⭐ 2.2K · 📈) - Django 5, React, Bootstrap 5 with Python 3 and Webpack project boilerplate. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/vintasoftware/django-react-boilerplate) (👨‍💻 54 · 🔀 530 · 📋 300 - 8% open · ⏱️ 26.09.2025):
+
+	```
+	git clone https://github.com/vintasoftware/django-react-boilerplate
+	```
+</details>
 <details><summary><b><a href="https://github.com/apptension/saas-boilerplate">saas-boilerplate</a></b> (🥇18 ·  ⭐ 2.6K) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/apptension/saas-boilerplate) (👨‍💻 41 · 🔀 360 · 📋 200 - 23% open · ⏱️ 09.03.2025):
@@ -3171,17 +3180,9 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/apptension/saas-boilerplate
 	```
 </details>
-<details><summary><b><a href="https://github.com/vintasoftware/django-react-boilerplate">django-react-boilerplate</a></b> (🥇17 ·  ⭐ 2.2K) - Django 5, React, Bootstrap 5 with Python 3 and Webpack project boilerplate. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wsvincent/lithium">Lithium</a></b> (🥈15 ·  ⭐ 2.4K) - Django starter project with. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/vintasoftware/django-react-boilerplate) (👨‍💻 53 · 🔀 530 · 📋 300 - 8% open · ⏱️ 26.06.2025):
-
-	```
-	git clone https://github.com/vintasoftware/django-react-boilerplate
-	```
-</details>
-<details><summary><b><a href="https://github.com/wsvincent/lithium">Lithium</a></b> (🥈14 ·  ⭐ 2.4K) - Django starter project with. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/wsvincent/lithium) (👨‍💻 22 · 🔀 430 · 📋 46 - 6% open · ⏱️ 28.04.2025):
+- [GitHub](https://github.com/wsvincent/lithium) (👨‍💻 24 · 🔀 430 · 📋 46 - 6% open · ⏱️ 19.09.2025):
 
 	```
 	git clone https://github.com/wsvincent/lithium
@@ -3189,14 +3190,22 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 </details>
 <details><summary><b><a href="https://github.com/falcopackages/falco-cli">falco</a></b> (🥈14 ·  ⭐ 390) - Enhance your Django developer experience: CLI and Guides for the Modern Django Developer. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/falcopackages/falco-cli) (👨‍💻 8 · 🔀 20 · 📦 16 · 📋 67 - 5% open · ⏱️ 31.12.2024):
+- [GitHub](https://github.com/falcopackages/falco-cli) (👨‍💻 8 · 🔀 20 · 📦 16 · 📋 70 - 10% open · ⏱️ 31.12.2024):
 
 	```
 	git clone https://github.com/Tobi-De/falco
 	```
-- [PyPi](https://pypi.org/project/falco) (📥 91 / month):
+- [PyPi](https://pypi.org/project/falco) (📥 130 / month):
 	```
 	pip install falco
+	```
+</details>
+<details><summary><b><a href="https://github.com/Healthlane-Technologies/Zango">Zango</a></b> (🥈14 ·  ⭐ 330) - Django meta-framework for building enterprise-ready custom business applications. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/Healthlane-Technologies/Zango) (👨‍💻 15 · 🔀 63 · 📦 6 · 📋 53 - 47% open · ⏱️ 17.06.2025):
+
+	```
+	git clone https://github.com/Healthlane-Technologies/Zango
 	```
 </details>
 <details><summary><b><a href="https://github.com/ilikerobots/cookiecutter-vue-django">cookiecutter-vue-django</a></b> (🥈14 ·  ⭐ 230 · 💤) - Vue 3 + Vite + Django with no compromises. Use Vue SFCs directly in Django Templates, DRF not required. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -3207,28 +3216,20 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	git clone https://github.com/ilikerobots/cookiecutter-vue-django
 	```
 </details>
-<details><summary><b><a href="https://github.com/Healthlane-Technologies/Zango">Zango</a></b> (🥈13 ·  ⭐ 330) - Django meta-framework for building enterprise-ready custom business applications. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/jefftriplett/django-startproject">django-startproject</a></b> (🥈12 ·  ⭐ 260) - Django Start Project template with batteries. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/Healthlane-Technologies/Zango) (👨‍💻 15 · 🔀 64 · 📦 6 · 📋 53 - 47% open · ⏱️ 17.06.2025):
-
-	```
-	git clone https://github.com/Healthlane-Technologies/Zango
-	```
-</details>
-<details><summary><b><a href="https://github.com/stribny/sidewinder">sidewinder</a></b> (🥈11 ·  ⭐ 220) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/stribny/sidewinder) (🔀 14 · 📋 30 - 16% open · ⏱️ 13.08.2025):
-
-	```
-	git clone https://github.com/stribny/sidewinder
-	```
-</details>
-<details><summary><b><a href="https://github.com/jefftriplett/django-startproject">django-startproject</a></b> (🥉10 ·  ⭐ 260) - Django Start Project template with batteries. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
-
-- [GitHub](https://github.com/jefftriplett/django-startproject) (👨‍💻 3 · 🔀 21 · ⏱️ 20.07.2025):
+- [GitHub](https://github.com/jefftriplett/django-startproject) (👨‍💻 3 · 🔀 24 · ⏱️ 15.09.2025):
 
 	```
 	git clone https://github.com/jefftriplett/django-startproject
+	```
+</details>
+<details><summary><b><a href="https://github.com/stribny/sidewinder">sidewinder</a></b> (🥈12 ·  ⭐ 230) - Django starter kit that focuses on good defaults, developer experience, and deployment. Updated for Django 5.2. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/stribny/sidewinder) (🔀 15 · 📋 30 - 16% open · ⏱️ 04.09.2025):
+
+	```
+	git clone https://github.com/stribny/sidewinder
 	```
 </details>
 <details><summary><b><a href="https://github.com/jayfk/launchr">launchr</a></b> (🥉10 ·  ⭐ 240 · 💤) - Launchr is an open source SaaS starter kit, based on Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3241,13 +3242,13 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 </details>
 <details><summary><b><a href="https://github.com/amerkurev/django-docker-template">django-docker-template</a></b> (🥉10 ·  ⭐ 220) - Dockerized Django with Postgres, Gunicorn, and Traefik or Caddy (with auto renew Lets Encrypt). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amerkurev/django-docker-template) (👨‍💻 6 · 🔀 39 · 📋 12 - 25% open · ⏱️ 01.04.2025):
+- [GitHub](https://github.com/amerkurev/django-docker-template) (👨‍💻 6 · 🔀 41 · 📋 12 - 25% open · ⏱️ 01.04.2025):
 
 	```
 	git clone https://github.com/amerkurev/django-docker-template
 	```
 </details>
-<details><summary><b><a href="https://github.com/thorgate/django-project-template">django-project-template</a></b> (🥉10 ·  ⭐ 120) - Thorgates Django project template - Django, React, Sass, optional Docker and more. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
+<details><summary><b><a href="https://github.com/thorgate/django-project-template">django-project-template</a></b> (🥉10 ·  ⭐ 130) - Thorgates Django project template - Django, React, Sass, optional Docker and more. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
 
 - [GitHub](https://github.com/thorgate/django-project-template) (👨‍💻 34 · 🔀 16 · 📋 5 - 40% open · ⏱️ 17.04.2025):
 
@@ -3282,7 +3283,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/jpbruinsslot/docker-django">docker-django</a></b> (🥉10 ·  ⭐ 180 · 💀) - A project to get you started with Docker and Django. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/erayerdin/sos-django-template">sos-django-template</a></b> (🥉8 ·  ⭐ 23 · 💤) - SOS Django Template is a starter template for new Django projects with modern defaults, power cable included. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
+- <b><a href="https://github.com/erayerdin/sos-django-template">sos-django-template</a></b> (🥉8 ·  ⭐ 24 · 💤) - SOS Django Template is a starter template for new Django projects with modern defaults, power cable included. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code>
 - <b><a href="https://github.com/bfirsh/django-docker-heroku-template">django-docker-heroku-template</a></b> (🥉3 ·  ⭐ 36 · 💤) - Get a Django app up and running in dev, test, and production with best practices in 10 minutes. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/digipodium/django-bootstrap-htmx-template-2023">django-bootstrap-htmx-template-2023</a></b> ( ⭐ 2 · 💤) - Django Website Template 2023 is a ready-to-use template for building websites using Django, Bootstrap 5, and Htmx. <code>❗Unlicensed</code>
 </details>
@@ -3294,12 +3295,12 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <details><summary><b><a href="https://github.com/evansd/whitenoise">whitenoise</a></b> (🥇34 ·  ⭐ 2.7K) - Radically simplified static file serving for Python web apps. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/evansd/whitenoise) (👨‍💻 69 · 🔀 150 · 📦 530K · 📋 250 - 10% open · ⏱️ 11.08.2025):
+- [GitHub](https://github.com/evansd/whitenoise) (👨‍💻 70 · 🔀 150 · 📦 530K · 📋 250 - 10% open · ⏱️ 18.09.2025):
 
 	```
 	git clone https://github.com/evansd/whitenoise
 	```
-- [PyPi](https://pypi.org/project/whitenoise) (📥 5.3M / month):
+- [PyPi](https://pypi.org/project/whitenoise) (📥 6.2M / month):
 	```
 	pip install whitenoise
 	```
@@ -3310,14 +3311,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/fusionbox/django-authtools">django-authtools</a></b> (🥇23 ·  ⭐ 370 · 💤) - A custom User model for everybody!. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/fusionbox/django-authtools">django-authtools</a></b> (🥇24 ·  ⭐ 370) - A custom User model for everybody!. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/fusionbox/django-authtools) (👨‍💻 31 · 🔀 93 · 📦 1K · 📋 55 - 18% open · ⏱️ 19.03.2024):
+- [GitHub](https://github.com/fusionbox/django-authtools) (👨‍💻 33 · 🔀 94 · 📦 1K · 📋 55 - 18% open · ⏱️ 29.09.2025):
 
 	```
 	git clone https://github.com/fusionbox/django-authtools
 	```
-- [PyPi](https://pypi.org/project/django-authtools) (📥 12K / month):
+- [PyPi](https://pypi.org/project/django-authtools) (📥 16K / month):
 	```
 	pip install django-authtools
 	```
@@ -3329,7 +3330,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/jcugat/django-custom-user
 	```
-- [PyPi](https://pypi.org/project/django-custom-user) (📥 25K / month):
+- [PyPi](https://pypi.org/project/django-custom-user) (📥 26K / month):
 	```
 	pip install django-custom-user
 	```
@@ -3341,7 +3342,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/jambonsw/django-improved-user
 	```
-- [PyPi](https://pypi.org/project/django-improved-user) (📥 3.9K / month):
+- [PyPi](https://pypi.org/project/django-improved-user) (📥 3.4K / month):
 	```
 	pip install django-improved-user
 	```
@@ -3353,7 +3354,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/jmfederico/django-use-email-as-username
 	```
-- [PyPi](https://pypi.org/project/django-use-email-as-username) (📥 2K / month):
+- [PyPi](https://pypi.org/project/django-use-email-as-username) (📥 2.5K / month):
 	```
 	pip install django-use-email-as-username
 	```
@@ -3365,7 +3366,7 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 	```
 	git clone https://github.com/carltongibson/django-unique-user-email
 	```
-- [PyPi](https://pypi.org/project/django-unique-user-email) (📥 1.8K / month):
+- [PyPi](https://pypi.org/project/django-unique-user-email) (📥 1.9K / month):
 	```
 	pip install django-unique-user-email
 	```
@@ -3376,14 +3377,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/tomvictor/iotcore">iotcore</a></b> (🥇12 ·  ⭐ 51 · 💤) - MQTT Broker and IoT Capabilities written in Rust for Python, Django and FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tomvictor/iotcore">iotcore</a></b> (🥇13 ·  ⭐ 51 · 💤) - MQTT Broker and IoT Capabilities written in Rust for Python, Django and FastAPI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/tomvictor/iotcore) (👨‍💻 2 · 🔀 6 · 📦 4 · 📋 4 - 25% open · ⏱️ 01.02.2024):
 
 	```
 	git clone https://github.com/tomvictor/iotcore
 	```
-- [PyPi](https://pypi.org/project/iotcore) (📥 850 / month):
+- [PyPi](https://pypi.org/project/iotcore) (📥 2K / month):
 	```
 	pip install iotcore
 	```
@@ -3394,14 +3395,14 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/emmett-framework/granian">granian</a></b> (🥇32 ·  ⭐ 4.1K) - A Rust HTTP server for Python applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
+<details><summary><b><a href="https://github.com/emmett-framework/granian">granian</a></b> (🥇32 ·  ⭐ 4.3K) - A Rust HTTP server for Python applications. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-- [GitHub](https://github.com/emmett-framework/granian) (👨‍💻 31 · 🔀 120 · 📦 740 · 📋 270 - 9% open · ⏱️ 26.08.2025):
+- [GitHub](https://github.com/emmett-framework/granian) (👨‍💻 35 · 🔀 120 · 📦 760 · 📋 280 - 10% open · ⏱️ 18.09.2025):
 
 	```
 	git clone https://github.com/emmett-framework/granian
 	```
-- [PyPi](https://pypi.org/project/granian) (📥 490K / month):
+- [PyPi](https://pypi.org/project/granian) (📥 580K / month):
 	```
 	pip install granian
 	```
@@ -3412,9 +3413,9 @@ _SaaS frameworks, subscription-based tutorials etc. which use Django under the h
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/openwisp/openwisp-monitoring">openwisp-monitoring</a></b> (🥇18 ·  ⭐ 180) - Network monitoring system written in Python and Django, designed to be extensible, programmable, scalable and easy to.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/openwisp/openwisp-monitoring">openwisp-monitoring</a></b> (🥇18 ·  ⭐ 190) - Network monitoring system written in Python and Django, designed to be extensible, programmable, scalable and easy to.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/openwisp/openwisp-monitoring) (👨‍💻 26 · 🔀 140 · 📦 4 · 📋 300 - 12% open · ⏱️ 20.08.2025):
+- [GitHub](https://github.com/openwisp/openwisp-monitoring) (👨‍💻 26 · 🔀 140 · 📦 4 · 📋 300 - 12% open · ⏱️ 04.09.2025):
 
 	```
 	git clone https://github.com/openwisp/openwisp-monitoring
